@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T11:53:58.497Z",
+  "updatedAt": "2026-09-20T11:56:25.879Z",
   "items": [
     {
-      "id": "id_1789905236780_uqc6r",
+      "id": "id_1789905384164_fot1n",
       "name": "ПЕЧЕНЬКА",
       "stats": {
-        "hp": 1,
+        "hp": 5,
         "str": 0,
         "agi": 0,
         "int": 0
       },
       "description": "ПЕЧЕНЬКА",
-      "hiddenDescription": "ПЕЧЕНЬКА 2",
+      "hiddenDescription": "ПЕЧЕНЬКА2",
       "condition": "Надкушенная Арианом",
       "revealed": true
     }
