@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T11:56:25.879Z",
+  "updatedAt": "2026-09-20T11:58:19.345Z",
   "items": [
     {
       "id": "id_1789905384164_fot1n",
@@ -15,6 +15,20 @@
       "hiddenDescription": "ПЕЧЕНЬКА2",
       "condition": "Надкушенная Арианом",
       "revealed": true
+    },
+    {
+      "id": "id_1789905497796_ovv4g",
+      "name": "Фростморн",
+      "stats": {
+        "hp": 0,
+        "str": 20,
+        "agi": 0,
+        "int": -10
+      },
+      "description": "Фростморн жаждет крови!",
+      "hiddenDescription": "Какой-то стрёмный меч",
+      "condition": "Покрыт кровью и кишками",
+      "revealed": false
     }
   ]
 }
