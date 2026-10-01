@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T15:36:04.592Z",
+  "updatedAt": "2026-10-01T15:36:34.052Z",
   "items": [
     {
       "id": "id_1790861241524_xerfo",
@@ -11,7 +11,9 @@
         "agi": 0,
         "int": 0
       },
-      "description": "Простая маленькая фляжка для воды, которую Элизабет подарила Чушке",
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Простая маленькая фляжка для воды",
       "hiddenDescription": "",
       "condition": "Пустая",
       "known": true
