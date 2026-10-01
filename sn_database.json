@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T13:53:49.529Z",
+  "updatedAt": "2026-10-01T14:20:55.783Z",
   "items": [
     {
       "id": "id_1790861241524_xerfo",
@@ -14,6 +14,22 @@
       "description": "Простая маленькая фляжка для воды, которую Элизабет подарила Чушке",
       "hiddenDescription": "",
       "condition": "Пустая",
+      "known": true
+    },
+    {
+      "id": "id_1790864452298_4fe6v",
+      "name": "Арканное кольцо малое",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 10,
+      "extraSlotsName": "Арканное кольцо",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
       "known": true
     }
   ]
