@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T11:58:19.345Z",
+  "updatedAt": "2026-10-01T13:27:58.271Z",
   "items": [
     {
       "id": "id_1789905384164_fot1n",
@@ -29,6 +29,20 @@
       "hiddenDescription": "Какой-то стрёмный меч",
       "condition": "Покрыт кровью и кишками",
       "revealed": false
+    },
+    {
+      "id": "id_1790861241524_xerfo",
+      "name": "Фляга Элизабет",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "description": "Простая маленькая фляжка для воды, которую Элизабет подарила Чушке",
+      "hiddenDescription": "",
+      "condition": "Пустая",
+      "known": false
     }
   ]
 }
