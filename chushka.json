@@ -57,6 +57,26 @@
       "revealed": true,
       "obtained": "",
       "log": []
+    },
+    {
+      "id": "id_1790881175707_hfw9v",
+      "itemId": "id_1790864452298_4fe6v",
+      "name": "Арканное кольцо малое",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 10,
+      "extraSlotsName": "Арканное кольцо",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": true,
+      "obtained": "",
+      "log": []
     }
   ],
   "inventory": [
@@ -87,6 +107,13 @@
       "name": "Карманы одежды",
       "sourceItemId": "id_1790869762006_1b41n",
       "capacity": 1,
+      "items": []
+    },
+    {
+      "id": "id_1790881175707_g3lqw",
+      "name": "Арканное кольцо",
+      "sourceItemId": "id_1790864452298_4fe6v",
+      "capacity": 10,
       "items": []
     }
   ],
@@ -3479,6 +3506,3511 @@
                                       "trainingsActive": [],
                                       "trainingsPlanned": [],
                                       "log": []
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "id_1790881175707_qqaw2",
+      "time": "01.10.2026, 21:59",
+      "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Арканное кольцо малое»",
+      "snapshot": {
+        "id": "chushka",
+        "name": "Чушка",
+        "portrait": null,
+        "isCompanion": false,
+        "class": "",
+        "race": "",
+        "personality": "",
+        "background": "",
+        "level": 1,
+        "xp": 0,
+        "levelUpPoints": 0,
+        "neurali": 0,
+        "baseStats": {
+          "hp": 0,
+          "str": 0,
+          "agi": 0,
+          "int": 0
+        },
+        "handWeapon": {
+          "id": "id_1790881110601_rhrc9",
+          "itemId": "id_1790881073108_8a7ka",
+          "name": "Тяжёлый молот наследия",
+          "category": "weapon",
+          "stats": {
+            "hp": 0,
+            "str": 3,
+            "agi": 0,
+            "int": 0
+          },
+          "extraSlots": 0,
+          "extraSlotsName": "Арканное кольцо",
+          "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
+          "hiddenDescription": "Неизвестный предмет",
+          "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
+          "revealed": true,
+          "obtained": "",
+          "log": []
+        },
+        "equipment": [
+          {
+            "id": "id_1790879600989_kg3zt",
+            "itemId": "id_1790869762006_1b41n",
+            "name": "Одежда Огненного Чародея",
+            "category": "other",
+            "stats": {
+              "hp": 7,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "Карманы одежды",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Слегка потрёпанная",
+            "revealed": true,
+            "obtained": "",
+            "log": []
+          }
+        ],
+        "inventory": [
+          {
+            "id": "id_1790881163012_j44ip",
+            "itemId": "id_1790861241524_xerfo",
+            "name": "Фляга Элизабет",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Арканное кольцо",
+            "description": "Простая маленькая фляжка для воды",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Пустая",
+            "revealed": true,
+            "obtained": "",
+            "log": []
+          }
+        ],
+        "extraSections": [
+          {
+            "id": "id_1790879600989_rn68e",
+            "name": "Карманы одежды",
+            "sourceItemId": "id_1790869762006_1b41n",
+            "capacity": 1,
+            "items": []
+          }
+        ],
+        "active": [],
+        "passive": [],
+        "quirks": [],
+        "talents": [],
+        "education": [],
+        "trainingsActive": [],
+        "trainingsPlanned": [],
+        "log": [
+          {
+            "id": "id_1790879600989_27337",
+            "time": "01.10.2026, 21:33",
+            "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+            "snapshot": {
+              "id": "chushka",
+              "name": "Чушка",
+              "portrait": null,
+              "isCompanion": false,
+              "class": "",
+              "race": "",
+              "personality": "",
+              "background": "",
+              "level": 1,
+              "xp": 0,
+              "levelUpPoints": 0,
+              "neurali": 0,
+              "baseStats": {
+                "hp": 0,
+                "str": 0,
+                "agi": 0,
+                "int": 0
+              },
+              "handWeapon": null,
+              "equipment": [],
+              "inventory": [],
+              "extraSections": [],
+              "active": [],
+              "passive": [],
+              "quirks": [],
+              "talents": [],
+              "education": [],
+              "trainingsActive": [],
+              "trainingsPlanned": [],
+              "log": []
+            }
+          },
+          {
+            "id": "id_1790881073108_yf13x",
+            "time": "01.10.2026, 21:57",
+            "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+            "snapshot": {
+              "id": "chushka",
+              "name": "Чушка",
+              "portrait": null,
+              "isCompanion": false,
+              "class": "",
+              "race": "",
+              "personality": "",
+              "background": "",
+              "level": 1,
+              "xp": 0,
+              "levelUpPoints": 0,
+              "neurali": 0,
+              "baseStats": {
+                "hp": 0,
+                "str": 0,
+                "agi": 0,
+                "int": 0
+              },
+              "handWeapon": null,
+              "equipment": [
+                {
+                  "id": "id_1790879600989_kg3zt",
+                  "itemId": "id_1790869762006_1b41n",
+                  "name": "Одежда Огненного Чародея",
+                  "category": "other",
+                  "stats": {
+                    "hp": 7,
+                    "str": 0,
+                    "agi": 0,
+                    "int": 0
+                  },
+                  "extraSlots": 1,
+                  "extraSlotsName": "Карманы одежды",
+                  "description": "",
+                  "hiddenDescription": "Неизвестный предмет",
+                  "condition": "Слегка потрёпанная",
+                  "revealed": true,
+                  "obtained": "",
+                  "log": []
+                }
+              ],
+              "inventory": [],
+              "extraSections": [
+                {
+                  "id": "id_1790879600989_rn68e",
+                  "name": "Карманы одежды",
+                  "sourceItemId": "id_1790869762006_1b41n",
+                  "capacity": 1,
+                  "items": []
+                }
+              ],
+              "active": [],
+              "passive": [],
+              "quirks": [],
+              "talents": [],
+              "education": [],
+              "trainingsActive": [],
+              "trainingsPlanned": [],
+              "log": [
+                {
+                  "id": "id_1790879600989_27337",
+                  "time": "01.10.2026, 21:33",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": null,
+                    "equipment": [],
+                    "inventory": [],
+                    "extraSections": [],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": []
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "id_1790881110601_mhh0k",
+            "time": "01.10.2026, 21:58",
+            "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Тяжёлый молот наследия»",
+            "snapshot": {
+              "id": "chushka",
+              "name": "Чушка",
+              "portrait": null,
+              "isCompanion": false,
+              "class": "",
+              "race": "",
+              "personality": "",
+              "background": "",
+              "level": 1,
+              "xp": 0,
+              "levelUpPoints": 0,
+              "neurali": 0,
+              "baseStats": {
+                "hp": 0,
+                "str": 0,
+                "agi": 0,
+                "int": 0
+              },
+              "handWeapon": null,
+              "equipment": [
+                {
+                  "id": "id_1790879600989_kg3zt",
+                  "itemId": "id_1790869762006_1b41n",
+                  "name": "Одежда Огненного Чародея",
+                  "category": "other",
+                  "stats": {
+                    "hp": 7,
+                    "str": 0,
+                    "agi": 0,
+                    "int": 0
+                  },
+                  "extraSlots": 1,
+                  "extraSlotsName": "Карманы одежды",
+                  "description": "",
+                  "hiddenDescription": "Неизвестный предмет",
+                  "condition": "Слегка потрёпанная",
+                  "revealed": true,
+                  "obtained": "",
+                  "log": []
+                }
+              ],
+              "inventory": [],
+              "extraSections": [
+                {
+                  "id": "id_1790879600989_rn68e",
+                  "name": "Карманы одежды",
+                  "sourceItemId": "id_1790869762006_1b41n",
+                  "capacity": 1,
+                  "items": []
+                }
+              ],
+              "active": [],
+              "passive": [],
+              "quirks": [],
+              "talents": [],
+              "education": [],
+              "trainingsActive": [],
+              "trainingsPlanned": [],
+              "log": [
+                {
+                  "id": "id_1790879600989_27337",
+                  "time": "01.10.2026, 21:33",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": null,
+                    "equipment": [],
+                    "inventory": [],
+                    "extraSections": [],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": []
+                  }
+                },
+                {
+                  "id": "id_1790881073108_yf13x",
+                  "time": "01.10.2026, 21:57",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": null,
+                    "equipment": [
+                      {
+                        "id": "id_1790879600989_kg3zt",
+                        "itemId": "id_1790869762006_1b41n",
+                        "name": "Одежда Огненного Чародея",
+                        "category": "other",
+                        "stats": {
+                          "hp": 7,
+                          "str": 0,
+                          "agi": 0,
+                          "int": 0
+                        },
+                        "extraSlots": 1,
+                        "extraSlotsName": "Карманы одежды",
+                        "description": "",
+                        "hiddenDescription": "Неизвестный предмет",
+                        "condition": "Слегка потрёпанная",
+                        "revealed": true,
+                        "obtained": "",
+                        "log": []
+                      }
+                    ],
+                    "inventory": [],
+                    "extraSections": [
+                      {
+                        "id": "id_1790879600989_rn68e",
+                        "name": "Карманы одежды",
+                        "sourceItemId": "id_1790869762006_1b41n",
+                        "capacity": 1,
+                        "items": []
+                      }
+                    ],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": [
+                      {
+                        "id": "id_1790879600989_27337",
+                        "time": "01.10.2026, 21:33",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [],
+                          "inventory": [],
+                          "extraSections": [],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": []
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "id_1790881118025_b8bot",
+            "time": "01.10.2026, 21:58",
+            "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Перемещено «Тяжёлый молот наследия»: Экипировка → Оружие в руках",
+            "snapshot": {
+              "id": "chushka",
+              "name": "Чушка",
+              "portrait": null,
+              "isCompanion": false,
+              "class": "",
+              "race": "",
+              "personality": "",
+              "background": "",
+              "level": 1,
+              "xp": 0,
+              "levelUpPoints": 0,
+              "neurali": 0,
+              "baseStats": {
+                "hp": 0,
+                "str": 0,
+                "agi": 0,
+                "int": 0
+              },
+              "handWeapon": null,
+              "equipment": [
+                {
+                  "id": "id_1790879600989_kg3zt",
+                  "itemId": "id_1790869762006_1b41n",
+                  "name": "Одежда Огненного Чародея",
+                  "category": "other",
+                  "stats": {
+                    "hp": 7,
+                    "str": 0,
+                    "agi": 0,
+                    "int": 0
+                  },
+                  "extraSlots": 1,
+                  "extraSlotsName": "Карманы одежды",
+                  "description": "",
+                  "hiddenDescription": "Неизвестный предмет",
+                  "condition": "Слегка потрёпанная",
+                  "revealed": true,
+                  "obtained": "",
+                  "log": []
+                },
+                {
+                  "id": "id_1790881110601_rhrc9",
+                  "itemId": "id_1790881073108_8a7ka",
+                  "name": "Тяжёлый молот наследия",
+                  "category": "weapon",
+                  "stats": {
+                    "hp": 0,
+                    "str": 3,
+                    "agi": 0,
+                    "int": 0
+                  },
+                  "extraSlots": 0,
+                  "extraSlotsName": "Арканное кольцо",
+                  "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).\nИмеет повреждения.",
+                  "hiddenDescription": "Неизвестный предмет",
+                  "condition": "Покрыт красными скверными трещинами после битвы против Лариана.",
+                  "revealed": true,
+                  "obtained": "",
+                  "log": []
+                }
+              ],
+              "inventory": [],
+              "extraSections": [
+                {
+                  "id": "id_1790879600989_rn68e",
+                  "name": "Карманы одежды",
+                  "sourceItemId": "id_1790869762006_1b41n",
+                  "capacity": 1,
+                  "items": []
+                }
+              ],
+              "active": [],
+              "passive": [],
+              "quirks": [],
+              "talents": [],
+              "education": [],
+              "trainingsActive": [],
+              "trainingsPlanned": [],
+              "log": [
+                {
+                  "id": "id_1790879600989_27337",
+                  "time": "01.10.2026, 21:33",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": null,
+                    "equipment": [],
+                    "inventory": [],
+                    "extraSections": [],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": []
+                  }
+                },
+                {
+                  "id": "id_1790881073108_yf13x",
+                  "time": "01.10.2026, 21:57",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": null,
+                    "equipment": [
+                      {
+                        "id": "id_1790879600989_kg3zt",
+                        "itemId": "id_1790869762006_1b41n",
+                        "name": "Одежда Огненного Чародея",
+                        "category": "other",
+                        "stats": {
+                          "hp": 7,
+                          "str": 0,
+                          "agi": 0,
+                          "int": 0
+                        },
+                        "extraSlots": 1,
+                        "extraSlotsName": "Карманы одежды",
+                        "description": "",
+                        "hiddenDescription": "Неизвестный предмет",
+                        "condition": "Слегка потрёпанная",
+                        "revealed": true,
+                        "obtained": "",
+                        "log": []
+                      }
+                    ],
+                    "inventory": [],
+                    "extraSections": [
+                      {
+                        "id": "id_1790879600989_rn68e",
+                        "name": "Карманы одежды",
+                        "sourceItemId": "id_1790869762006_1b41n",
+                        "capacity": 1,
+                        "items": []
+                      }
+                    ],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": [
+                      {
+                        "id": "id_1790879600989_27337",
+                        "time": "01.10.2026, 21:33",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [],
+                          "inventory": [],
+                          "extraSections": [],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": []
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "id": "id_1790881110601_mhh0k",
+                  "time": "01.10.2026, 21:58",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Тяжёлый молот наследия»",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": null,
+                    "equipment": [
+                      {
+                        "id": "id_1790879600989_kg3zt",
+                        "itemId": "id_1790869762006_1b41n",
+                        "name": "Одежда Огненного Чародея",
+                        "category": "other",
+                        "stats": {
+                          "hp": 7,
+                          "str": 0,
+                          "agi": 0,
+                          "int": 0
+                        },
+                        "extraSlots": 1,
+                        "extraSlotsName": "Карманы одежды",
+                        "description": "",
+                        "hiddenDescription": "Неизвестный предмет",
+                        "condition": "Слегка потрёпанная",
+                        "revealed": true,
+                        "obtained": "",
+                        "log": []
+                      }
+                    ],
+                    "inventory": [],
+                    "extraSections": [
+                      {
+                        "id": "id_1790879600989_rn68e",
+                        "name": "Карманы одежды",
+                        "sourceItemId": "id_1790869762006_1b41n",
+                        "capacity": 1,
+                        "items": []
+                      }
+                    ],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": [
+                      {
+                        "id": "id_1790879600989_27337",
+                        "time": "01.10.2026, 21:33",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [],
+                          "inventory": [],
+                          "extraSections": [],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": []
+                        }
+                      },
+                      {
+                        "id": "id_1790881073108_yf13x",
+                        "time": "01.10.2026, 21:57",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [
+                            {
+                              "id": "id_1790879600989_kg3zt",
+                              "itemId": "id_1790869762006_1b41n",
+                              "name": "Одежда Огненного Чародея",
+                              "category": "other",
+                              "stats": {
+                                "hp": 7,
+                                "str": 0,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "extraSlots": 1,
+                              "extraSlotsName": "Карманы одежды",
+                              "description": "",
+                              "hiddenDescription": "Неизвестный предмет",
+                              "condition": "Слегка потрёпанная",
+                              "revealed": true,
+                              "obtained": "",
+                              "log": []
+                            }
+                          ],
+                          "inventory": [],
+                          "extraSections": [
+                            {
+                              "id": "id_1790879600989_rn68e",
+                              "name": "Карманы одежды",
+                              "sourceItemId": "id_1790869762006_1b41n",
+                              "capacity": 1,
+                              "items": []
+                            }
+                          ],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": [
+                            {
+                              "id": "id_1790879600989_27337",
+                              "time": "01.10.2026, 21:33",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [],
+                                "inventory": [],
+                                "extraSections": [],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": []
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "id_1790881145038_ttxt6",
+            "time": "01.10.2026, 21:59",
+            "text": "Сез.1.5 Сесс.25 | Чушка | Оружие в руках | Правка «Тяжёлый молот наследия»",
+            "snapshot": {
+              "id": "chushka",
+              "name": "Чушка",
+              "portrait": null,
+              "isCompanion": false,
+              "class": "",
+              "race": "",
+              "personality": "",
+              "background": "",
+              "level": 1,
+              "xp": 0,
+              "levelUpPoints": 0,
+              "neurali": 0,
+              "baseStats": {
+                "hp": 0,
+                "str": 0,
+                "agi": 0,
+                "int": 0
+              },
+              "handWeapon": {
+                "id": "id_1790881110601_rhrc9",
+                "itemId": "id_1790881073108_8a7ka",
+                "name": "Тяжёлый молот наследия",
+                "category": "weapon",
+                "stats": {
+                  "hp": 0,
+                  "str": 3,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "Арканное кольцо",
+                "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).\nИмеет повреждения.",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "Покрыт красными скверными трещинами после битвы против Лариана.",
+                "revealed": true,
+                "obtained": "",
+                "log": []
+              },
+              "equipment": [
+                {
+                  "id": "id_1790879600989_kg3zt",
+                  "itemId": "id_1790869762006_1b41n",
+                  "name": "Одежда Огненного Чародея",
+                  "category": "other",
+                  "stats": {
+                    "hp": 7,
+                    "str": 0,
+                    "agi": 0,
+                    "int": 0
+                  },
+                  "extraSlots": 1,
+                  "extraSlotsName": "Карманы одежды",
+                  "description": "",
+                  "hiddenDescription": "Неизвестный предмет",
+                  "condition": "Слегка потрёпанная",
+                  "revealed": true,
+                  "obtained": "",
+                  "log": []
+                }
+              ],
+              "inventory": [],
+              "extraSections": [
+                {
+                  "id": "id_1790879600989_rn68e",
+                  "name": "Карманы одежды",
+                  "sourceItemId": "id_1790869762006_1b41n",
+                  "capacity": 1,
+                  "items": []
+                }
+              ],
+              "active": [],
+              "passive": [],
+              "quirks": [],
+              "talents": [],
+              "education": [],
+              "trainingsActive": [],
+              "trainingsPlanned": [],
+              "log": [
+                {
+                  "id": "id_1790879600989_27337",
+                  "time": "01.10.2026, 21:33",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": null,
+                    "equipment": [],
+                    "inventory": [],
+                    "extraSections": [],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": []
+                  }
+                },
+                {
+                  "id": "id_1790881073108_yf13x",
+                  "time": "01.10.2026, 21:57",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": null,
+                    "equipment": [
+                      {
+                        "id": "id_1790879600989_kg3zt",
+                        "itemId": "id_1790869762006_1b41n",
+                        "name": "Одежда Огненного Чародея",
+                        "category": "other",
+                        "stats": {
+                          "hp": 7,
+                          "str": 0,
+                          "agi": 0,
+                          "int": 0
+                        },
+                        "extraSlots": 1,
+                        "extraSlotsName": "Карманы одежды",
+                        "description": "",
+                        "hiddenDescription": "Неизвестный предмет",
+                        "condition": "Слегка потрёпанная",
+                        "revealed": true,
+                        "obtained": "",
+                        "log": []
+                      }
+                    ],
+                    "inventory": [],
+                    "extraSections": [
+                      {
+                        "id": "id_1790879600989_rn68e",
+                        "name": "Карманы одежды",
+                        "sourceItemId": "id_1790869762006_1b41n",
+                        "capacity": 1,
+                        "items": []
+                      }
+                    ],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": [
+                      {
+                        "id": "id_1790879600989_27337",
+                        "time": "01.10.2026, 21:33",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [],
+                          "inventory": [],
+                          "extraSections": [],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": []
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "id": "id_1790881110601_mhh0k",
+                  "time": "01.10.2026, 21:58",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Тяжёлый молот наследия»",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": null,
+                    "equipment": [
+                      {
+                        "id": "id_1790879600989_kg3zt",
+                        "itemId": "id_1790869762006_1b41n",
+                        "name": "Одежда Огненного Чародея",
+                        "category": "other",
+                        "stats": {
+                          "hp": 7,
+                          "str": 0,
+                          "agi": 0,
+                          "int": 0
+                        },
+                        "extraSlots": 1,
+                        "extraSlotsName": "Карманы одежды",
+                        "description": "",
+                        "hiddenDescription": "Неизвестный предмет",
+                        "condition": "Слегка потрёпанная",
+                        "revealed": true,
+                        "obtained": "",
+                        "log": []
+                      }
+                    ],
+                    "inventory": [],
+                    "extraSections": [
+                      {
+                        "id": "id_1790879600989_rn68e",
+                        "name": "Карманы одежды",
+                        "sourceItemId": "id_1790869762006_1b41n",
+                        "capacity": 1,
+                        "items": []
+                      }
+                    ],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": [
+                      {
+                        "id": "id_1790879600989_27337",
+                        "time": "01.10.2026, 21:33",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [],
+                          "inventory": [],
+                          "extraSections": [],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": []
+                        }
+                      },
+                      {
+                        "id": "id_1790881073108_yf13x",
+                        "time": "01.10.2026, 21:57",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [
+                            {
+                              "id": "id_1790879600989_kg3zt",
+                              "itemId": "id_1790869762006_1b41n",
+                              "name": "Одежда Огненного Чародея",
+                              "category": "other",
+                              "stats": {
+                                "hp": 7,
+                                "str": 0,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "extraSlots": 1,
+                              "extraSlotsName": "Карманы одежды",
+                              "description": "",
+                              "hiddenDescription": "Неизвестный предмет",
+                              "condition": "Слегка потрёпанная",
+                              "revealed": true,
+                              "obtained": "",
+                              "log": []
+                            }
+                          ],
+                          "inventory": [],
+                          "extraSections": [
+                            {
+                              "id": "id_1790879600989_rn68e",
+                              "name": "Карманы одежды",
+                              "sourceItemId": "id_1790869762006_1b41n",
+                              "capacity": 1,
+                              "items": []
+                            }
+                          ],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": [
+                            {
+                              "id": "id_1790879600989_27337",
+                              "time": "01.10.2026, 21:33",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [],
+                                "inventory": [],
+                                "extraSections": [],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": []
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "id": "id_1790881118025_b8bot",
+                  "time": "01.10.2026, 21:58",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Перемещено «Тяжёлый молот наследия»: Экипировка → Оружие в руках",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": null,
+                    "equipment": [
+                      {
+                        "id": "id_1790879600989_kg3zt",
+                        "itemId": "id_1790869762006_1b41n",
+                        "name": "Одежда Огненного Чародея",
+                        "category": "other",
+                        "stats": {
+                          "hp": 7,
+                          "str": 0,
+                          "agi": 0,
+                          "int": 0
+                        },
+                        "extraSlots": 1,
+                        "extraSlotsName": "Карманы одежды",
+                        "description": "",
+                        "hiddenDescription": "Неизвестный предмет",
+                        "condition": "Слегка потрёпанная",
+                        "revealed": true,
+                        "obtained": "",
+                        "log": []
+                      },
+                      {
+                        "id": "id_1790881110601_rhrc9",
+                        "itemId": "id_1790881073108_8a7ka",
+                        "name": "Тяжёлый молот наследия",
+                        "category": "weapon",
+                        "stats": {
+                          "hp": 0,
+                          "str": 3,
+                          "agi": 0,
+                          "int": 0
+                        },
+                        "extraSlots": 0,
+                        "extraSlotsName": "Арканное кольцо",
+                        "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).\nИмеет повреждения.",
+                        "hiddenDescription": "Неизвестный предмет",
+                        "condition": "Покрыт красными скверными трещинами после битвы против Лариана.",
+                        "revealed": true,
+                        "obtained": "",
+                        "log": []
+                      }
+                    ],
+                    "inventory": [],
+                    "extraSections": [
+                      {
+                        "id": "id_1790879600989_rn68e",
+                        "name": "Карманы одежды",
+                        "sourceItemId": "id_1790869762006_1b41n",
+                        "capacity": 1,
+                        "items": []
+                      }
+                    ],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": [
+                      {
+                        "id": "id_1790879600989_27337",
+                        "time": "01.10.2026, 21:33",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [],
+                          "inventory": [],
+                          "extraSections": [],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": []
+                        }
+                      },
+                      {
+                        "id": "id_1790881073108_yf13x",
+                        "time": "01.10.2026, 21:57",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [
+                            {
+                              "id": "id_1790879600989_kg3zt",
+                              "itemId": "id_1790869762006_1b41n",
+                              "name": "Одежда Огненного Чародея",
+                              "category": "other",
+                              "stats": {
+                                "hp": 7,
+                                "str": 0,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "extraSlots": 1,
+                              "extraSlotsName": "Карманы одежды",
+                              "description": "",
+                              "hiddenDescription": "Неизвестный предмет",
+                              "condition": "Слегка потрёпанная",
+                              "revealed": true,
+                              "obtained": "",
+                              "log": []
+                            }
+                          ],
+                          "inventory": [],
+                          "extraSections": [
+                            {
+                              "id": "id_1790879600989_rn68e",
+                              "name": "Карманы одежды",
+                              "sourceItemId": "id_1790869762006_1b41n",
+                              "capacity": 1,
+                              "items": []
+                            }
+                          ],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": [
+                            {
+                              "id": "id_1790879600989_27337",
+                              "time": "01.10.2026, 21:33",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [],
+                                "inventory": [],
+                                "extraSections": [],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": []
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": "id_1790881110601_mhh0k",
+                        "time": "01.10.2026, 21:58",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Тяжёлый молот наследия»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [
+                            {
+                              "id": "id_1790879600989_kg3zt",
+                              "itemId": "id_1790869762006_1b41n",
+                              "name": "Одежда Огненного Чародея",
+                              "category": "other",
+                              "stats": {
+                                "hp": 7,
+                                "str": 0,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "extraSlots": 1,
+                              "extraSlotsName": "Карманы одежды",
+                              "description": "",
+                              "hiddenDescription": "Неизвестный предмет",
+                              "condition": "Слегка потрёпанная",
+                              "revealed": true,
+                              "obtained": "",
+                              "log": []
+                            }
+                          ],
+                          "inventory": [],
+                          "extraSections": [
+                            {
+                              "id": "id_1790879600989_rn68e",
+                              "name": "Карманы одежды",
+                              "sourceItemId": "id_1790869762006_1b41n",
+                              "capacity": 1,
+                              "items": []
+                            }
+                          ],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": [
+                            {
+                              "id": "id_1790879600989_27337",
+                              "time": "01.10.2026, 21:33",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [],
+                                "inventory": [],
+                                "extraSections": [],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": []
+                              }
+                            },
+                            {
+                              "id": "id_1790881073108_yf13x",
+                              "time": "01.10.2026, 21:57",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [
+                                  {
+                                    "id": "id_1790879600989_kg3zt",
+                                    "itemId": "id_1790869762006_1b41n",
+                                    "name": "Одежда Огненного Чародея",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 7,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 1,
+                                    "extraSlotsName": "Карманы одежды",
+                                    "description": "",
+                                    "hiddenDescription": "Неизвестный предмет",
+                                    "condition": "Слегка потрёпанная",
+                                    "revealed": true,
+                                    "obtained": "",
+                                    "log": []
+                                  }
+                                ],
+                                "inventory": [],
+                                "extraSections": [
+                                  {
+                                    "id": "id_1790879600989_rn68e",
+                                    "name": "Карманы одежды",
+                                    "sourceItemId": "id_1790869762006_1b41n",
+                                    "capacity": 1,
+                                    "items": []
+                                  }
+                                ],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": [
+                                  {
+                                    "id": "id_1790879600989_27337",
+                                    "time": "01.10.2026, 21:33",
+                                    "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                                    "snapshot": {
+                                      "id": "chushka",
+                                      "name": "Чушка",
+                                      "portrait": null,
+                                      "isCompanion": false,
+                                      "class": "",
+                                      "race": "",
+                                      "personality": "",
+                                      "background": "",
+                                      "level": 1,
+                                      "xp": 0,
+                                      "levelUpPoints": 0,
+                                      "neurali": 0,
+                                      "baseStats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "handWeapon": null,
+                                      "equipment": [],
+                                      "inventory": [],
+                                      "extraSections": [],
+                                      "active": [],
+                                      "passive": [],
+                                      "quirks": [],
+                                      "talents": [],
+                                      "education": [],
+                                      "trainingsActive": [],
+                                      "trainingsPlanned": [],
+                                      "log": []
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "id_1790881163012_m8khp",
+            "time": "01.10.2026, 21:59",
+            "text": "Сез.1.5 Сесс.25 | Чушка | Доп. слоты: id_1790879600989_rn68e | Добавлено «Фляга Элизабет»",
+            "snapshot": {
+              "id": "chushka",
+              "name": "Чушка",
+              "portrait": null,
+              "isCompanion": false,
+              "class": "",
+              "race": "",
+              "personality": "",
+              "background": "",
+              "level": 1,
+              "xp": 0,
+              "levelUpPoints": 0,
+              "neurali": 0,
+              "baseStats": {
+                "hp": 0,
+                "str": 0,
+                "agi": 0,
+                "int": 0
+              },
+              "handWeapon": {
+                "id": "id_1790881110601_rhrc9",
+                "itemId": "id_1790881073108_8a7ka",
+                "name": "Тяжёлый молот наследия",
+                "category": "weapon",
+                "stats": {
+                  "hp": 0,
+                  "str": 3,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "Арканное кольцо",
+                "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
+                "revealed": true,
+                "obtained": "",
+                "log": []
+              },
+              "equipment": [
+                {
+                  "id": "id_1790879600989_kg3zt",
+                  "itemId": "id_1790869762006_1b41n",
+                  "name": "Одежда Огненного Чародея",
+                  "category": "other",
+                  "stats": {
+                    "hp": 7,
+                    "str": 0,
+                    "agi": 0,
+                    "int": 0
+                  },
+                  "extraSlots": 1,
+                  "extraSlotsName": "Карманы одежды",
+                  "description": "",
+                  "hiddenDescription": "Неизвестный предмет",
+                  "condition": "Слегка потрёпанная",
+                  "revealed": true,
+                  "obtained": "",
+                  "log": []
+                }
+              ],
+              "inventory": [],
+              "extraSections": [
+                {
+                  "id": "id_1790879600989_rn68e",
+                  "name": "Карманы одежды",
+                  "sourceItemId": "id_1790869762006_1b41n",
+                  "capacity": 1,
+                  "items": []
+                }
+              ],
+              "active": [],
+              "passive": [],
+              "quirks": [],
+              "talents": [],
+              "education": [],
+              "trainingsActive": [],
+              "trainingsPlanned": [],
+              "log": [
+                {
+                  "id": "id_1790879600989_27337",
+                  "time": "01.10.2026, 21:33",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": null,
+                    "equipment": [],
+                    "inventory": [],
+                    "extraSections": [],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": []
+                  }
+                },
+                {
+                  "id": "id_1790881073108_yf13x",
+                  "time": "01.10.2026, 21:57",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": null,
+                    "equipment": [
+                      {
+                        "id": "id_1790879600989_kg3zt",
+                        "itemId": "id_1790869762006_1b41n",
+                        "name": "Одежда Огненного Чародея",
+                        "category": "other",
+                        "stats": {
+                          "hp": 7,
+                          "str": 0,
+                          "agi": 0,
+                          "int": 0
+                        },
+                        "extraSlots": 1,
+                        "extraSlotsName": "Карманы одежды",
+                        "description": "",
+                        "hiddenDescription": "Неизвестный предмет",
+                        "condition": "Слегка потрёпанная",
+                        "revealed": true,
+                        "obtained": "",
+                        "log": []
+                      }
+                    ],
+                    "inventory": [],
+                    "extraSections": [
+                      {
+                        "id": "id_1790879600989_rn68e",
+                        "name": "Карманы одежды",
+                        "sourceItemId": "id_1790869762006_1b41n",
+                        "capacity": 1,
+                        "items": []
+                      }
+                    ],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": [
+                      {
+                        "id": "id_1790879600989_27337",
+                        "time": "01.10.2026, 21:33",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [],
+                          "inventory": [],
+                          "extraSections": [],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": []
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "id": "id_1790881110601_mhh0k",
+                  "time": "01.10.2026, 21:58",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Тяжёлый молот наследия»",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": null,
+                    "equipment": [
+                      {
+                        "id": "id_1790879600989_kg3zt",
+                        "itemId": "id_1790869762006_1b41n",
+                        "name": "Одежда Огненного Чародея",
+                        "category": "other",
+                        "stats": {
+                          "hp": 7,
+                          "str": 0,
+                          "agi": 0,
+                          "int": 0
+                        },
+                        "extraSlots": 1,
+                        "extraSlotsName": "Карманы одежды",
+                        "description": "",
+                        "hiddenDescription": "Неизвестный предмет",
+                        "condition": "Слегка потрёпанная",
+                        "revealed": true,
+                        "obtained": "",
+                        "log": []
+                      }
+                    ],
+                    "inventory": [],
+                    "extraSections": [
+                      {
+                        "id": "id_1790879600989_rn68e",
+                        "name": "Карманы одежды",
+                        "sourceItemId": "id_1790869762006_1b41n",
+                        "capacity": 1,
+                        "items": []
+                      }
+                    ],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": [
+                      {
+                        "id": "id_1790879600989_27337",
+                        "time": "01.10.2026, 21:33",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [],
+                          "inventory": [],
+                          "extraSections": [],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": []
+                        }
+                      },
+                      {
+                        "id": "id_1790881073108_yf13x",
+                        "time": "01.10.2026, 21:57",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [
+                            {
+                              "id": "id_1790879600989_kg3zt",
+                              "itemId": "id_1790869762006_1b41n",
+                              "name": "Одежда Огненного Чародея",
+                              "category": "other",
+                              "stats": {
+                                "hp": 7,
+                                "str": 0,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "extraSlots": 1,
+                              "extraSlotsName": "Карманы одежды",
+                              "description": "",
+                              "hiddenDescription": "Неизвестный предмет",
+                              "condition": "Слегка потрёпанная",
+                              "revealed": true,
+                              "obtained": "",
+                              "log": []
+                            }
+                          ],
+                          "inventory": [],
+                          "extraSections": [
+                            {
+                              "id": "id_1790879600989_rn68e",
+                              "name": "Карманы одежды",
+                              "sourceItemId": "id_1790869762006_1b41n",
+                              "capacity": 1,
+                              "items": []
+                            }
+                          ],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": [
+                            {
+                              "id": "id_1790879600989_27337",
+                              "time": "01.10.2026, 21:33",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [],
+                                "inventory": [],
+                                "extraSections": [],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": []
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "id": "id_1790881118025_b8bot",
+                  "time": "01.10.2026, 21:58",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Перемещено «Тяжёлый молот наследия»: Экипировка → Оружие в руках",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": null,
+                    "equipment": [
+                      {
+                        "id": "id_1790879600989_kg3zt",
+                        "itemId": "id_1790869762006_1b41n",
+                        "name": "Одежда Огненного Чародея",
+                        "category": "other",
+                        "stats": {
+                          "hp": 7,
+                          "str": 0,
+                          "agi": 0,
+                          "int": 0
+                        },
+                        "extraSlots": 1,
+                        "extraSlotsName": "Карманы одежды",
+                        "description": "",
+                        "hiddenDescription": "Неизвестный предмет",
+                        "condition": "Слегка потрёпанная",
+                        "revealed": true,
+                        "obtained": "",
+                        "log": []
+                      },
+                      {
+                        "id": "id_1790881110601_rhrc9",
+                        "itemId": "id_1790881073108_8a7ka",
+                        "name": "Тяжёлый молот наследия",
+                        "category": "weapon",
+                        "stats": {
+                          "hp": 0,
+                          "str": 3,
+                          "agi": 0,
+                          "int": 0
+                        },
+                        "extraSlots": 0,
+                        "extraSlotsName": "Арканное кольцо",
+                        "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).\nИмеет повреждения.",
+                        "hiddenDescription": "Неизвестный предмет",
+                        "condition": "Покрыт красными скверными трещинами после битвы против Лариана.",
+                        "revealed": true,
+                        "obtained": "",
+                        "log": []
+                      }
+                    ],
+                    "inventory": [],
+                    "extraSections": [
+                      {
+                        "id": "id_1790879600989_rn68e",
+                        "name": "Карманы одежды",
+                        "sourceItemId": "id_1790869762006_1b41n",
+                        "capacity": 1,
+                        "items": []
+                      }
+                    ],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": [
+                      {
+                        "id": "id_1790879600989_27337",
+                        "time": "01.10.2026, 21:33",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [],
+                          "inventory": [],
+                          "extraSections": [],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": []
+                        }
+                      },
+                      {
+                        "id": "id_1790881073108_yf13x",
+                        "time": "01.10.2026, 21:57",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [
+                            {
+                              "id": "id_1790879600989_kg3zt",
+                              "itemId": "id_1790869762006_1b41n",
+                              "name": "Одежда Огненного Чародея",
+                              "category": "other",
+                              "stats": {
+                                "hp": 7,
+                                "str": 0,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "extraSlots": 1,
+                              "extraSlotsName": "Карманы одежды",
+                              "description": "",
+                              "hiddenDescription": "Неизвестный предмет",
+                              "condition": "Слегка потрёпанная",
+                              "revealed": true,
+                              "obtained": "",
+                              "log": []
+                            }
+                          ],
+                          "inventory": [],
+                          "extraSections": [
+                            {
+                              "id": "id_1790879600989_rn68e",
+                              "name": "Карманы одежды",
+                              "sourceItemId": "id_1790869762006_1b41n",
+                              "capacity": 1,
+                              "items": []
+                            }
+                          ],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": [
+                            {
+                              "id": "id_1790879600989_27337",
+                              "time": "01.10.2026, 21:33",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [],
+                                "inventory": [],
+                                "extraSections": [],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": []
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": "id_1790881110601_mhh0k",
+                        "time": "01.10.2026, 21:58",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Тяжёлый молот наследия»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [
+                            {
+                              "id": "id_1790879600989_kg3zt",
+                              "itemId": "id_1790869762006_1b41n",
+                              "name": "Одежда Огненного Чародея",
+                              "category": "other",
+                              "stats": {
+                                "hp": 7,
+                                "str": 0,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "extraSlots": 1,
+                              "extraSlotsName": "Карманы одежды",
+                              "description": "",
+                              "hiddenDescription": "Неизвестный предмет",
+                              "condition": "Слегка потрёпанная",
+                              "revealed": true,
+                              "obtained": "",
+                              "log": []
+                            }
+                          ],
+                          "inventory": [],
+                          "extraSections": [
+                            {
+                              "id": "id_1790879600989_rn68e",
+                              "name": "Карманы одежды",
+                              "sourceItemId": "id_1790869762006_1b41n",
+                              "capacity": 1,
+                              "items": []
+                            }
+                          ],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": [
+                            {
+                              "id": "id_1790879600989_27337",
+                              "time": "01.10.2026, 21:33",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [],
+                                "inventory": [],
+                                "extraSections": [],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": []
+                              }
+                            },
+                            {
+                              "id": "id_1790881073108_yf13x",
+                              "time": "01.10.2026, 21:57",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [
+                                  {
+                                    "id": "id_1790879600989_kg3zt",
+                                    "itemId": "id_1790869762006_1b41n",
+                                    "name": "Одежда Огненного Чародея",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 7,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 1,
+                                    "extraSlotsName": "Карманы одежды",
+                                    "description": "",
+                                    "hiddenDescription": "Неизвестный предмет",
+                                    "condition": "Слегка потрёпанная",
+                                    "revealed": true,
+                                    "obtained": "",
+                                    "log": []
+                                  }
+                                ],
+                                "inventory": [],
+                                "extraSections": [
+                                  {
+                                    "id": "id_1790879600989_rn68e",
+                                    "name": "Карманы одежды",
+                                    "sourceItemId": "id_1790869762006_1b41n",
+                                    "capacity": 1,
+                                    "items": []
+                                  }
+                                ],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": [
+                                  {
+                                    "id": "id_1790879600989_27337",
+                                    "time": "01.10.2026, 21:33",
+                                    "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                                    "snapshot": {
+                                      "id": "chushka",
+                                      "name": "Чушка",
+                                      "portrait": null,
+                                      "isCompanion": false,
+                                      "class": "",
+                                      "race": "",
+                                      "personality": "",
+                                      "background": "",
+                                      "level": 1,
+                                      "xp": 0,
+                                      "levelUpPoints": 0,
+                                      "neurali": 0,
+                                      "baseStats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "handWeapon": null,
+                                      "equipment": [],
+                                      "inventory": [],
+                                      "extraSections": [],
+                                      "active": [],
+                                      "passive": [],
+                                      "quirks": [],
+                                      "talents": [],
+                                      "education": [],
+                                      "trainingsActive": [],
+                                      "trainingsPlanned": [],
+                                      "log": []
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "id": "id_1790881145038_ttxt6",
+                  "time": "01.10.2026, 21:59",
+                  "text": "Сез.1.5 Сесс.25 | Чушка | Оружие в руках | Правка «Тяжёлый молот наследия»",
+                  "snapshot": {
+                    "id": "chushka",
+                    "name": "Чушка",
+                    "portrait": null,
+                    "isCompanion": false,
+                    "class": "",
+                    "race": "",
+                    "personality": "",
+                    "background": "",
+                    "level": 1,
+                    "xp": 0,
+                    "levelUpPoints": 0,
+                    "neurali": 0,
+                    "baseStats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "handWeapon": {
+                      "id": "id_1790881110601_rhrc9",
+                      "itemId": "id_1790881073108_8a7ka",
+                      "name": "Тяжёлый молот наследия",
+                      "category": "weapon",
+                      "stats": {
+                        "hp": 0,
+                        "str": 3,
+                        "agi": 0,
+                        "int": 0
+                      },
+                      "extraSlots": 0,
+                      "extraSlotsName": "Арканное кольцо",
+                      "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).\nИмеет повреждения.",
+                      "hiddenDescription": "Неизвестный предмет",
+                      "condition": "Покрыт красными скверными трещинами после битвы против Лариана.",
+                      "revealed": true,
+                      "obtained": "",
+                      "log": []
+                    },
+                    "equipment": [
+                      {
+                        "id": "id_1790879600989_kg3zt",
+                        "itemId": "id_1790869762006_1b41n",
+                        "name": "Одежда Огненного Чародея",
+                        "category": "other",
+                        "stats": {
+                          "hp": 7,
+                          "str": 0,
+                          "agi": 0,
+                          "int": 0
+                        },
+                        "extraSlots": 1,
+                        "extraSlotsName": "Карманы одежды",
+                        "description": "",
+                        "hiddenDescription": "Неизвестный предмет",
+                        "condition": "Слегка потрёпанная",
+                        "revealed": true,
+                        "obtained": "",
+                        "log": []
+                      }
+                    ],
+                    "inventory": [],
+                    "extraSections": [
+                      {
+                        "id": "id_1790879600989_rn68e",
+                        "name": "Карманы одежды",
+                        "sourceItemId": "id_1790869762006_1b41n",
+                        "capacity": 1,
+                        "items": []
+                      }
+                    ],
+                    "active": [],
+                    "passive": [],
+                    "quirks": [],
+                    "talents": [],
+                    "education": [],
+                    "trainingsActive": [],
+                    "trainingsPlanned": [],
+                    "log": [
+                      {
+                        "id": "id_1790879600989_27337",
+                        "time": "01.10.2026, 21:33",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [],
+                          "inventory": [],
+                          "extraSections": [],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": []
+                        }
+                      },
+                      {
+                        "id": "id_1790881073108_yf13x",
+                        "time": "01.10.2026, 21:57",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [
+                            {
+                              "id": "id_1790879600989_kg3zt",
+                              "itemId": "id_1790869762006_1b41n",
+                              "name": "Одежда Огненного Чародея",
+                              "category": "other",
+                              "stats": {
+                                "hp": 7,
+                                "str": 0,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "extraSlots": 1,
+                              "extraSlotsName": "Карманы одежды",
+                              "description": "",
+                              "hiddenDescription": "Неизвестный предмет",
+                              "condition": "Слегка потрёпанная",
+                              "revealed": true,
+                              "obtained": "",
+                              "log": []
+                            }
+                          ],
+                          "inventory": [],
+                          "extraSections": [
+                            {
+                              "id": "id_1790879600989_rn68e",
+                              "name": "Карманы одежды",
+                              "sourceItemId": "id_1790869762006_1b41n",
+                              "capacity": 1,
+                              "items": []
+                            }
+                          ],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": [
+                            {
+                              "id": "id_1790879600989_27337",
+                              "time": "01.10.2026, 21:33",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [],
+                                "inventory": [],
+                                "extraSections": [],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": []
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": "id_1790881110601_mhh0k",
+                        "time": "01.10.2026, 21:58",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Тяжёлый молот наследия»",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [
+                            {
+                              "id": "id_1790879600989_kg3zt",
+                              "itemId": "id_1790869762006_1b41n",
+                              "name": "Одежда Огненного Чародея",
+                              "category": "other",
+                              "stats": {
+                                "hp": 7,
+                                "str": 0,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "extraSlots": 1,
+                              "extraSlotsName": "Карманы одежды",
+                              "description": "",
+                              "hiddenDescription": "Неизвестный предмет",
+                              "condition": "Слегка потрёпанная",
+                              "revealed": true,
+                              "obtained": "",
+                              "log": []
+                            }
+                          ],
+                          "inventory": [],
+                          "extraSections": [
+                            {
+                              "id": "id_1790879600989_rn68e",
+                              "name": "Карманы одежды",
+                              "sourceItemId": "id_1790869762006_1b41n",
+                              "capacity": 1,
+                              "items": []
+                            }
+                          ],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": [
+                            {
+                              "id": "id_1790879600989_27337",
+                              "time": "01.10.2026, 21:33",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [],
+                                "inventory": [],
+                                "extraSections": [],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": []
+                              }
+                            },
+                            {
+                              "id": "id_1790881073108_yf13x",
+                              "time": "01.10.2026, 21:57",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [
+                                  {
+                                    "id": "id_1790879600989_kg3zt",
+                                    "itemId": "id_1790869762006_1b41n",
+                                    "name": "Одежда Огненного Чародея",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 7,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 1,
+                                    "extraSlotsName": "Карманы одежды",
+                                    "description": "",
+                                    "hiddenDescription": "Неизвестный предмет",
+                                    "condition": "Слегка потрёпанная",
+                                    "revealed": true,
+                                    "obtained": "",
+                                    "log": []
+                                  }
+                                ],
+                                "inventory": [],
+                                "extraSections": [
+                                  {
+                                    "id": "id_1790879600989_rn68e",
+                                    "name": "Карманы одежды",
+                                    "sourceItemId": "id_1790869762006_1b41n",
+                                    "capacity": 1,
+                                    "items": []
+                                  }
+                                ],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": [
+                                  {
+                                    "id": "id_1790879600989_27337",
+                                    "time": "01.10.2026, 21:33",
+                                    "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                                    "snapshot": {
+                                      "id": "chushka",
+                                      "name": "Чушка",
+                                      "portrait": null,
+                                      "isCompanion": false,
+                                      "class": "",
+                                      "race": "",
+                                      "personality": "",
+                                      "background": "",
+                                      "level": 1,
+                                      "xp": 0,
+                                      "levelUpPoints": 0,
+                                      "neurali": 0,
+                                      "baseStats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "handWeapon": null,
+                                      "equipment": [],
+                                      "inventory": [],
+                                      "extraSections": [],
+                                      "active": [],
+                                      "passive": [],
+                                      "quirks": [],
+                                      "talents": [],
+                                      "education": [],
+                                      "trainingsActive": [],
+                                      "trainingsPlanned": [],
+                                      "log": []
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": "id_1790881118025_b8bot",
+                        "time": "01.10.2026, 21:58",
+                        "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Перемещено «Тяжёлый молот наследия»: Экипировка → Оружие в руках",
+                        "snapshot": {
+                          "id": "chushka",
+                          "name": "Чушка",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "",
+                          "race": "",
+                          "personality": "",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 0,
+                          "baseStats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "handWeapon": null,
+                          "equipment": [
+                            {
+                              "id": "id_1790879600989_kg3zt",
+                              "itemId": "id_1790869762006_1b41n",
+                              "name": "Одежда Огненного Чародея",
+                              "category": "other",
+                              "stats": {
+                                "hp": 7,
+                                "str": 0,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "extraSlots": 1,
+                              "extraSlotsName": "Карманы одежды",
+                              "description": "",
+                              "hiddenDescription": "Неизвестный предмет",
+                              "condition": "Слегка потрёпанная",
+                              "revealed": true,
+                              "obtained": "",
+                              "log": []
+                            },
+                            {
+                              "id": "id_1790881110601_rhrc9",
+                              "itemId": "id_1790881073108_8a7ka",
+                              "name": "Тяжёлый молот наследия",
+                              "category": "weapon",
+                              "stats": {
+                                "hp": 0,
+                                "str": 3,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "extraSlots": 0,
+                              "extraSlotsName": "Арканное кольцо",
+                              "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).\nИмеет повреждения.",
+                              "hiddenDescription": "Неизвестный предмет",
+                              "condition": "Покрыт красными скверными трещинами после битвы против Лариана.",
+                              "revealed": true,
+                              "obtained": "",
+                              "log": []
+                            }
+                          ],
+                          "inventory": [],
+                          "extraSections": [
+                            {
+                              "id": "id_1790879600989_rn68e",
+                              "name": "Карманы одежды",
+                              "sourceItemId": "id_1790869762006_1b41n",
+                              "capacity": 1,
+                              "items": []
+                            }
+                          ],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": [
+                            {
+                              "id": "id_1790879600989_27337",
+                              "time": "01.10.2026, 21:33",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [],
+                                "inventory": [],
+                                "extraSections": [],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": []
+                              }
+                            },
+                            {
+                              "id": "id_1790881073108_yf13x",
+                              "time": "01.10.2026, 21:57",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [
+                                  {
+                                    "id": "id_1790879600989_kg3zt",
+                                    "itemId": "id_1790869762006_1b41n",
+                                    "name": "Одежда Огненного Чародея",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 7,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 1,
+                                    "extraSlotsName": "Карманы одежды",
+                                    "description": "",
+                                    "hiddenDescription": "Неизвестный предмет",
+                                    "condition": "Слегка потрёпанная",
+                                    "revealed": true,
+                                    "obtained": "",
+                                    "log": []
+                                  }
+                                ],
+                                "inventory": [],
+                                "extraSections": [
+                                  {
+                                    "id": "id_1790879600989_rn68e",
+                                    "name": "Карманы одежды",
+                                    "sourceItemId": "id_1790869762006_1b41n",
+                                    "capacity": 1,
+                                    "items": []
+                                  }
+                                ],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": [
+                                  {
+                                    "id": "id_1790879600989_27337",
+                                    "time": "01.10.2026, 21:33",
+                                    "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                                    "snapshot": {
+                                      "id": "chushka",
+                                      "name": "Чушка",
+                                      "portrait": null,
+                                      "isCompanion": false,
+                                      "class": "",
+                                      "race": "",
+                                      "personality": "",
+                                      "background": "",
+                                      "level": 1,
+                                      "xp": 0,
+                                      "levelUpPoints": 0,
+                                      "neurali": 0,
+                                      "baseStats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "handWeapon": null,
+                                      "equipment": [],
+                                      "inventory": [],
+                                      "extraSections": [],
+                                      "active": [],
+                                      "passive": [],
+                                      "quirks": [],
+                                      "talents": [],
+                                      "education": [],
+                                      "trainingsActive": [],
+                                      "trainingsPlanned": [],
+                                      "log": []
+                                    }
+                                  }
+                                ]
+                              }
+                            },
+                            {
+                              "id": "id_1790881110601_mhh0k",
+                              "time": "01.10.2026, 21:58",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Тяжёлый молот наследия»",
+                              "snapshot": {
+                                "id": "chushka",
+                                "name": "Чушка",
+                                "portrait": null,
+                                "isCompanion": false,
+                                "class": "",
+                                "race": "",
+                                "personality": "",
+                                "background": "",
+                                "level": 1,
+                                "xp": 0,
+                                "levelUpPoints": 0,
+                                "neurali": 0,
+                                "baseStats": {
+                                  "hp": 0,
+                                  "str": 0,
+                                  "agi": 0,
+                                  "int": 0
+                                },
+                                "handWeapon": null,
+                                "equipment": [
+                                  {
+                                    "id": "id_1790879600989_kg3zt",
+                                    "itemId": "id_1790869762006_1b41n",
+                                    "name": "Одежда Огненного Чародея",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 7,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 1,
+                                    "extraSlotsName": "Карманы одежды",
+                                    "description": "",
+                                    "hiddenDescription": "Неизвестный предмет",
+                                    "condition": "Слегка потрёпанная",
+                                    "revealed": true,
+                                    "obtained": "",
+                                    "log": []
+                                  }
+                                ],
+                                "inventory": [],
+                                "extraSections": [
+                                  {
+                                    "id": "id_1790879600989_rn68e",
+                                    "name": "Карманы одежды",
+                                    "sourceItemId": "id_1790869762006_1b41n",
+                                    "capacity": 1,
+                                    "items": []
+                                  }
+                                ],
+                                "active": [],
+                                "passive": [],
+                                "quirks": [],
+                                "talents": [],
+                                "education": [],
+                                "trainingsActive": [],
+                                "trainingsPlanned": [],
+                                "log": [
+                                  {
+                                    "id": "id_1790879600989_27337",
+                                    "time": "01.10.2026, 21:33",
+                                    "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                                    "snapshot": {
+                                      "id": "chushka",
+                                      "name": "Чушка",
+                                      "portrait": null,
+                                      "isCompanion": false,
+                                      "class": "",
+                                      "race": "",
+                                      "personality": "",
+                                      "background": "",
+                                      "level": 1,
+                                      "xp": 0,
+                                      "levelUpPoints": 0,
+                                      "neurali": 0,
+                                      "baseStats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "handWeapon": null,
+                                      "equipment": [],
+                                      "inventory": [],
+                                      "extraSections": [],
+                                      "active": [],
+                                      "passive": [],
+                                      "quirks": [],
+                                      "talents": [],
+                                      "education": [],
+                                      "trainingsActive": [],
+                                      "trainingsPlanned": [],
+                                      "log": []
+                                    }
+                                  },
+                                  {
+                                    "id": "id_1790881073108_yf13x",
+                                    "time": "01.10.2026, 21:57",
+                                    "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                                    "snapshot": {
+                                      "id": "chushka",
+                                      "name": "Чушка",
+                                      "portrait": null,
+                                      "isCompanion": false,
+                                      "class": "",
+                                      "race": "",
+                                      "personality": "",
+                                      "background": "",
+                                      "level": 1,
+                                      "xp": 0,
+                                      "levelUpPoints": 0,
+                                      "neurali": 0,
+                                      "baseStats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "handWeapon": null,
+                                      "equipment": [
+                                        {
+                                          "id": "id_1790879600989_kg3zt",
+                                          "itemId": "id_1790869762006_1b41n",
+                                          "name": "Одежда Огненного Чародея",
+                                          "category": "other",
+                                          "stats": {
+                                            "hp": 7,
+                                            "str": 0,
+                                            "agi": 0,
+                                            "int": 0
+                                          },
+                                          "extraSlots": 1,
+                                          "extraSlotsName": "Карманы одежды",
+                                          "description": "",
+                                          "hiddenDescription": "Неизвестный предмет",
+                                          "condition": "Слегка потрёпанная",
+                                          "revealed": true,
+                                          "obtained": "",
+                                          "log": []
+                                        }
+                                      ],
+                                      "inventory": [],
+                                      "extraSections": [
+                                        {
+                                          "id": "id_1790879600989_rn68e",
+                                          "name": "Карманы одежды",
+                                          "sourceItemId": "id_1790869762006_1b41n",
+                                          "capacity": 1,
+                                          "items": []
+                                        }
+                                      ],
+                                      "active": [],
+                                      "passive": [],
+                                      "quirks": [],
+                                      "talents": [],
+                                      "education": [],
+                                      "trainingsActive": [],
+                                      "trainingsPlanned": [],
+                                      "log": [
+                                        {
+                                          "id": "id_1790879600989_27337",
+                                          "time": "01.10.2026, 21:33",
+                                          "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                                          "snapshot": {
+                                            "id": "chushka",
+                                            "name": "Чушка",
+                                            "portrait": null,
+                                            "isCompanion": false,
+                                            "class": "",
+                                            "race": "",
+                                            "personality": "",
+                                            "background": "",
+                                            "level": 1,
+                                            "xp": 0,
+                                            "levelUpPoints": 0,
+                                            "neurali": 0,
+                                            "baseStats": {
+                                              "hp": 0,
+                                              "str": 0,
+                                              "agi": 0,
+                                              "int": 0
+                                            },
+                                            "handWeapon": null,
+                                            "equipment": [],
+                                            "inventory": [],
+                                            "extraSections": [],
+                                            "active": [],
+                                            "passive": [],
+                                            "quirks": [],
+                                            "talents": [],
+                                            "education": [],
+                                            "trainingsActive": [],
+                                            "trainingsPlanned": [],
+                                            "log": []
+                                          }
+                                        }
+                                      ]
                                     }
                                   }
                                 ]
