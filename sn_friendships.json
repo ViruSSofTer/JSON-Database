@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T15:53:32.721Z",
+  "updatedAt": "2026-10-01T15:53:59.817Z",
   "friendships": {
     "chushka-ksaito": {
       "charA": "chushka",
       "charB": "ksaito",
       "level": 4,
-      "xp": 10,
+      "xp": 61,
       "bonuses": [],
       "log": [
         {
@@ -20,6 +20,33 @@
             "xp": 0,
             "bonuses": [],
             "log": []
+          }
+        },
+        {
+          "id": "id_1790870039817_6bn2h",
+          "time": "01.10.2026, 18:53",
+          "text": "Сез.1.5 Сесс.25 | Дружба | Дружба Чушка—Ксайто: XP +51",
+          "snapshot": {
+            "charA": "chushka",
+            "charB": "ksaito",
+            "level": 4,
+            "xp": 10,
+            "bonuses": [],
+            "log": [
+              {
+                "id": "id_1790870012721_ifvyo",
+                "time": "01.10.2026, 18:53",
+                "text": "Сез.1.5 Сесс.25 | Дружба | Дружба Чушка—Ксайто: XP +100 | Уровень повышен до 4 (+3)",
+                "snapshot": {
+                  "charA": "chushka",
+                  "charB": "ksaito",
+                  "level": 1,
+                  "xp": 0,
+                  "bonuses": [],
+                  "log": []
+                }
+              }
+            ]
           }
         }
       ]
