@@ -1,21 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T13:43:09.970Z",
+  "updatedAt": "2026-10-01T13:53:40.177Z",
   "items": [
-    {
-      "id": "id_1789905384164_fot1n",
-      "name": "ПЕЧЕНЬКА",
-      "stats": {
-        "hp": 5,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "description": "ПЕЧЕНЬКА",
-      "hiddenDescription": "ПЕЧЕНЬКА2",
-      "condition": "Надкушенная Арианом",
-      "revealed": true
-    },
     {
       "id": "id_1789905497796_ovv4g",
       "name": "Фростморн",
