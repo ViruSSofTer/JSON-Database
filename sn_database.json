@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T18:57:53.108Z",
+  "updatedAt": "2026-10-01T18:58:30.601Z",
   "items": [
     {
       "id": "id_1790864452298_4fe6v",
@@ -35,22 +35,6 @@
       "known": true
     },
     {
-      "id": "id_1790861241524_xerfo",
-      "name": "Фляга Элизабет",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Простая маленькая фляжка для воды",
-      "hiddenDescription": "",
-      "condition": "Пустая",
-      "known": true
-    },
-    {
       "id": "id_1790881073108_8a7ka",
       "name": "Тяжёлый молот наследия",
       "category": "weapon",
@@ -65,7 +49,23 @@
       "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).\nИмеет повреждения.",
       "hiddenDescription": "",
       "condition": "",
-      "known": false
+      "known": true
+    },
+    {
+      "id": "id_1790861241524_xerfo",
+      "name": "Фляга Элизабет",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Простая маленькая фляжка для воды",
+      "hiddenDescription": "",
+      "condition": "Пустая",
+      "known": true
     }
   ]
 }
