@@ -4,9 +4,9 @@
   "portrait": null,
   "isCompanion": false,
   "class": "Мастер Аспектов",
-  "race": "",
-  "personality": "",
-  "background": "",
+  "race": "Цивельзион",
+  "personality": "Перфекционист",
+  "background": "Амнезиак с загадочным прошлым...",
   "level": 7,
   "xp": 56,
   "levelUpPoints": 0,
@@ -1172,6 +1172,32 @@
             "obtained": "Выдано братьями-капитанами в дар",
             "log": []
           }
+        }
+      ]
+    },
+    {
+      "id": "id_1790887631557_oe37k",
+      "time": "01.10.2026, 23:47",
+      "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Основное",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "race",
+          "oldValue": "",
+          "value": "Цивельзион"
+        },
+        {
+          "op": "replace",
+          "path": "personality",
+          "oldValue": "",
+          "value": "Перфекционист"
+        },
+        {
+          "op": "replace",
+          "path": "background",
+          "oldValue": "",
+          "value": "Амнезиак с загадочным прошлым..."
         }
       ]
     }
