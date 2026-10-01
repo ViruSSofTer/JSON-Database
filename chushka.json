@@ -1,0 +1,83 @@
+{
+  "id": "chushka",
+  "name": "Чушка",
+  "portrait": null,
+  "isCompanion": false,
+  "class": "",
+  "race": "",
+  "personality": "",
+  "background": "",
+  "level": 1,
+  "xp": 0,
+  "levelUpPoints": 0,
+  "neurali": 0,
+  "baseStats": {
+    "hp": 0,
+    "str": 0,
+    "agi": 0,
+    "int": 0
+  },
+  "equipment": [],
+  "inventory": [],
+  "extraSections": [],
+  "active": [],
+  "passive": [],
+  "quirks": [
+    {
+      "id": "id_1790868730613_7a0yo",
+      "name": "Сила стихий",
+      "desc": "возможно одновременно удерживать 2 \"гелиона\"  (инстанции заменённой стихии)",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "log": []
+    }
+  ],
+  "talents": [],
+  "education": [],
+  "trainingsActive": [],
+  "trainingsPlanned": [],
+  "skills": [],
+  "log": [
+    {
+      "id": "id_1790868730613_cavg5",
+      "time": "01.10.2026, 18:32",
+      "text": "Сез.1.5 Сесс.23 | Чушка | Черты: Фишки | Добавлено «Сила стихий»",
+      "snapshot": {
+        "id": "chushka",
+        "name": "Чушка",
+        "portrait": null,
+        "isCompanion": false,
+        "class": "",
+        "race": "",
+        "personality": "",
+        "background": "",
+        "level": 1,
+        "xp": 0,
+        "levelUpPoints": 0,
+        "neurali": 0,
+        "baseStats": {
+          "hp": 0,
+          "str": 0,
+          "agi": 0,
+          "int": 0
+        },
+        "equipment": [],
+        "inventory": [],
+        "extraSections": [],
+        "active": [],
+        "passive": [],
+        "quirks": [],
+        "talents": [],
+        "education": [],
+        "trainingsActive": [],
+        "trainingsPlanned": [],
+        "skills": [],
+        "log": []
+      }
+    }
+  ]
+}
