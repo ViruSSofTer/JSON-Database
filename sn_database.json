@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T19:02:28.665Z",
+  "updatedAt": "2026-10-01T19:03:00.166Z",
   "items": [
     {
       "id": "id_1790864452298_4fe6v",
@@ -14,6 +14,23 @@
       "extraSlots": 10,
       "extraSlotsName": "Арканное кольцо",
       "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1790881348665_fm3og",
+      "name": "Камень призыва элементаля",
+      "category": "consumable",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Призывает элементаля желаемой стихии при контакте с этой стихией.",
       "hiddenDescription": "",
       "condition": "",
       "known": true
@@ -66,23 +83,6 @@
       "hiddenDescription": "",
       "condition": "Пустая",
       "known": true
-    },
-    {
-      "id": "id_1790881348665_fm3og",
-      "name": "Камень призыва элементаля",
-      "category": "consumable",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Призывает элементаля желаемой стихии при контакте с этой стихией.",
-      "hiddenDescription": "",
-      "condition": "",
-      "known": false
     }
   ]
 }
