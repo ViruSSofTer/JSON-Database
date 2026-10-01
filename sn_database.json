@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T15:49:22.006Z",
+  "updatedAt": "2026-10-01T15:50:09.319Z",
   "items": [
     {
       "id": "id_1790861241524_xerfo",
@@ -48,7 +48,7 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
-      "known": false
+      "known": true
     }
   ]
 }
