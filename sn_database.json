@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T18:52:49.073Z",
+  "updatedAt": "2026-10-01T18:57:53.108Z",
   "items": [
     {
       "id": "id_1790864452298_4fe6v",
@@ -21,7 +21,6 @@
     {
       "id": "id_1790869762006_1b41n",
       "name": "Одежда Огненного Чародея",
-      "category": "armor",
       "stats": {
         "hp": 7,
         "str": 0,
@@ -50,6 +49,23 @@
       "hiddenDescription": "",
       "condition": "Пустая",
       "known": true
+    },
+    {
+      "id": "id_1790881073108_8a7ka",
+      "name": "Тяжёлый молот наследия",
+      "category": "weapon",
+      "stats": {
+        "hp": 0,
+        "str": 3,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).\nИмеет повреждения.",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": false
     }
   ]
 }
