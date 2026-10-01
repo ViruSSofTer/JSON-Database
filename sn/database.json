@@ -1,10 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T20:48:33.372Z",
+  "updatedAt": "2026-10-01T20:48:45.354Z",
   "items": [
     {
       "id": "id_1790864452298_4fe6v",
       "name": "Арканное кольцо малое",
+      "category": "armor",
       "stats": {
         "hp": 0,
         "str": 0,
