@@ -1,21 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T13:53:40.177Z",
+  "updatedAt": "2026-10-01T13:53:49.529Z",
   "items": [
-    {
-      "id": "id_1789905497796_ovv4g",
-      "name": "Фростморн",
-      "stats": {
-        "hp": 0,
-        "str": 20,
-        "agi": 0,
-        "int": -10
-      },
-      "description": "Фростморн жаждет крови!",
-      "hiddenDescription": "Какой-то стрёмный меч",
-      "condition": "Покрыт кровью и кишками",
-      "revealed": false
-    },
     {
       "id": "id_1790861241524_xerfo",
       "name": "Фляга Элизабет",
