@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T13:27:58.271Z",
+  "updatedAt": "2026-10-01T13:43:09.970Z",
   "items": [
     {
       "id": "id_1789905384164_fot1n",
@@ -42,7 +42,7 @@
       "description": "Простая маленькая фляжка для воды, которую Элизабет подарила Чушке",
       "hiddenDescription": "",
       "condition": "Пустая",
-      "known": false
+      "known": true
     }
   ]
 }
