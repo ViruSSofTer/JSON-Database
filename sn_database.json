@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T15:36:34.052Z",
+  "updatedAt": "2026-10-01T15:49:22.006Z",
   "items": [
     {
       "id": "id_1790861241524_xerfo",
@@ -33,6 +33,22 @@
       "hiddenDescription": "",
       "condition": "",
       "known": true
+    },
+    {
+      "id": "id_1790869762006_1b41n",
+      "name": "Одежда Огненного Чародея",
+      "stats": {
+        "hp": 7,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 1,
+      "extraSlotsName": "Карманы одежды",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": false
     }
   ]
 }
