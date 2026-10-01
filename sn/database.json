@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-01T19:03:00.166Z",
+  "items": [
+    {
+      "id": "id_1790864452298_4fe6v",
+      "name": "Арканное кольцо малое",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 10,
+      "extraSlotsName": "Арканное кольцо",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1790881348665_fm3og",
+      "name": "Камень призыва элементаля",
+      "category": "consumable",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Призывает элементаля желаемой стихии при контакте с этой стихией.",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1790869762006_1b41n",
+      "name": "Одежда Огненного Чародея",
+      "stats": {
+        "hp": 7,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 1,
+      "extraSlotsName": "Карманы одежды",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1790881073108_8a7ka",
+      "name": "Тяжёлый молот наследия",
+      "category": "weapon",
+      "stats": {
+        "hp": 0,
+        "str": 3,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).\nИмеет повреждения.",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1790861241524_xerfo",
+      "name": "Фляга Элизабет",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Простая маленькая фляжка для воды",
+      "hiddenDescription": "",
+      "condition": "Пустая",
+      "known": true
+    }
+  ]
+}
