@@ -1,0 +1,32 @@
+{
+  "id": "toni",
+  "name": "Тони",
+  "portrait": null,
+  "isCompanion": true,
+  "species": "Снегопух",
+  "speciesNote": "",
+  "meeting": "",
+  "traits": "",
+  "relations": "",
+  "combatAbilities": [],
+  "log": [
+    {
+      "id": "id_1790879643538_080zw",
+      "time": "01.10.2026, 21:34",
+      "text": "Сез.1.5 Сесс.25 | Тони | Экипировка | Основное спутника",
+      "snapshot": {
+        "id": "toni",
+        "name": "Тони",
+        "portrait": null,
+        "isCompanion": true,
+        "species": "",
+        "speciesNote": "",
+        "meeting": "",
+        "traits": "",
+        "relations": "",
+        "combatAbilities": [],
+        "log": []
+      }
+    }
+  ]
+}
