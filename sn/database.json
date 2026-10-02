@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T20:48:45.354Z",
+  "updatedAt": "2026-10-02T04:13:07.868Z",
   "items": [
     {
       "id": "id_1790864452298_4fe6v",
@@ -85,6 +85,23 @@
       "hiddenDescription": "",
       "condition": "Пустая",
       "known": true
+    },
+    {
+      "id": "id_1790914387866_gj5yt",
+      "name": "\"Расслабляющие\" таблетки",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": false
     }
   ]
 }
