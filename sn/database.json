@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T04:13:18.285Z",
+  "updatedAt": "2026-10-02T04:13:41.216Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -17,7 +17,7 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
-      "known": false
+      "known": true
     },
     {
       "id": "id_1790864452298_4fe6v",
