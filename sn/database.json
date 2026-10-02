@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T04:13:41.216Z",
+  "updatedAt": "2026-10-02T05:45:05.731Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -102,6 +102,23 @@
       "hiddenDescription": "",
       "condition": "Пустая",
       "known": true
+    },
+    {
+      "id": "id_1790919905730_bdc1r",
+      "name": "Магический ковёр",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": false
     }
   ]
 }
