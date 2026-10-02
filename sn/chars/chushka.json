@@ -124,6 +124,27 @@
       "obtained": "",
       "log": [],
       "quantity": 1
+    },
+    {
+      "id": "id_1790914421215_ye896",
+      "itemId": "id_1790914387866_gj5yt",
+      "name": "\"Расслабляющие\" таблетки",
+      "category": "consumable",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": true,
+      "obtained": "",
+      "quantity": 9,
+      "log": []
     }
   ],
   "extraSections": [
@@ -1215,6 +1236,39 @@
       "id": "id_1790914398284_dics5",
       "time": "02.10.2026, 07:13",
       "text": "Сез.1.5 Сесс.25 | Чушка | База — «\"Расслабляющие\" таблетки»"
+    },
+    {
+      "id": "id_1790914421215_fgoxo",
+      "time": "02.10.2026, 07:13",
+      "text": "Сез.1.5 Сесс.25 | Чушка | Инвентарь | Добавлено «\"Расслабляющие\" таблетки» (×9)",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1790914421215_ye896",
+            "itemId": "id_1790914387866_gj5yt",
+            "name": "\"Расслабляющие\" таблетки",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 9,
+            "log": []
+          }
+        }
+      ]
     }
   ]
 }
