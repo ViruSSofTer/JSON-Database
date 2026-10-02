@@ -145,6 +145,27 @@
       "obtained": "",
       "quantity": 9,
       "log": []
+    },
+    {
+      "id": "id_1790919999980_fpt3z",
+      "itemId": "id_1790919905730_bdc1r",
+      "name": "Магический ковёр",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "Сильно повреждённый",
+      "revealed": true,
+      "obtained": "\"Добыт\" Решалами в Фортунаре для штурма Министерства.",
+      "quantity": 1,
+      "log": []
     }
   ],
   "extraSections": [
@@ -2041,6 +2062,39 @@
       "id": "id_1790919905730_lgc4w",
       "time": "02.10.2026, 08:45",
       "text": "Сез.1.5 Сесс.25 | Чушка | База — «Магический ковёр»"
+    },
+    {
+      "id": "id_1790919999980_xm76i",
+      "time": "02.10.2026, 08:46",
+      "text": "Сез.1.5 Сесс.25 | Чушка | Доп. слоты: id_1790881175707_g3lqw | Добавлено «Магический ковёр»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1790919999980_fpt3z",
+            "itemId": "id_1790919905730_bdc1r",
+            "name": "Магический ковёр",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Сильно повреждённый",
+            "revealed": true,
+            "obtained": "\"Добыт\" Решалами в Фортунаре для штурма Министерства.",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
     }
   ]
 }
