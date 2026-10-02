@@ -166,6 +166,27 @@
       "obtained": "\"Добыт\" Решалами в Фортунаре для штурма Министерства.",
       "quantity": 1,
       "log": []
+    },
+    {
+      "id": "id_1790922560357_3zh9o",
+      "itemId": "id_1790914387866_gj5yt",
+      "name": "\"Расслабляющие\" таблетки",
+      "category": "consumable",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
     }
   ],
   "extraSections": [
@@ -2211,6 +2232,39 @@
             "obtained": "",
             "log": [],
             "quantity": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1790922560357_fb6fl",
+      "time": "02.10.2026, 09:29",
+      "text": "Сез.1.5 Сесс.25 | Чушка | Доп. слоты: id_1790881175707_g3lqw | Добавлено «\"Расслабляющие\" таблетки»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1790922560357_3zh9o",
+            "itemId": "id_1790914387866_gj5yt",
+            "name": "\"Расслабляющие\" таблетки",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
           }
         }
       ]
