@@ -19,29 +19,7 @@
   },
   "handWeapon": null,
   "equipment": [],
-  "inventory": [
-    {
-      "id": "id_1790914421215_ye896",
-      "itemId": "id_1790914387866_gj5yt",
-      "name": "\"Расслабляющие\" таблетки",
-      "category": "consumable",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Со слов Хармака, должны успокаивать.",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 8,
-      "log": []
-    }
-  ],
+  "inventory": [],
   "extraSections": [],
   "active": [],
   "passive": [],
@@ -50,5 +28,79 @@
   "education": [],
   "trainingsActive": [],
   "trainingsPlanned": [],
-  "log": []
+  "log": [
+    {
+      "id": "id_1791228045021_l3xll",
+      "time": "05.10.2026, 22:20",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Отправлено «\"Расслабляющие\" таблетки» в общак",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "name",
+          "value": "Ксайто"
+        },
+        {
+          "op": "replace",
+          "path": "class",
+          "value": ""
+        },
+        {
+          "op": "replace",
+          "path": "race",
+          "value": ""
+        },
+        {
+          "op": "replace",
+          "path": "personality",
+          "value": ""
+        },
+        {
+          "op": "replace",
+          "path": "background",
+          "value": ""
+        },
+        {
+          "op": "replace",
+          "path": "level",
+          "value": 1
+        },
+        {
+          "op": "replace",
+          "path": "xp",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "levelUpPoints",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "neurali",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "portrait",
+          "value": null
+        },
+        {
+          "op": "replace",
+          "path": "baseStats",
+          "value": {
+            "hp": 0,
+            "str": 0,
+            "agi": 0,
+            "int": 0
+          }
+        },
+        {
+          "op": "replace",
+          "path": "handWeapon",
+          "value": null
+        }
+      ]
+    }
+  ]
 }
