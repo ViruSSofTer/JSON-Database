@@ -145,6 +145,27 @@
       "obtained": "",
       "quantity": 9,
       "log": []
+    },
+    {
+      "id": "id_1791220580073_dupds",
+      "itemId": "id_1791220544411_gkx6x",
+      "name": "Декоративная статуэтка",
+      "category": "valuable",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": true,
+      "obtained": "Получена от Арии во время тренировки",
+      "quantity": 1,
+      "log": []
     }
   ],
   "extraSections": [
@@ -3312,6 +3333,39 @@
       "id": "id_1791220544411_vhzmh",
       "time": "05.10.2026, 20:15",
       "text": "Сез.1.5 Сесс.26 | Чушка | База — «Декоративная статуэтка»"
+    },
+    {
+      "id": "id_1791220580073_1nkrw",
+      "time": "05.10.2026, 20:16",
+      "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Добавлено «Декоративная статуэтка»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1791220580073_dupds",
+            "itemId": "id_1791220544411_gkx6x",
+            "name": "Декоративная статуэтка",
+            "category": "valuable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "Получена от Арии во время тренировки",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
     }
   ]
 }
