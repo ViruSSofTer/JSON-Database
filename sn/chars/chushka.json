@@ -8,7 +8,7 @@
   "personality": "Перфекционист",
   "background": "Амнезиак с загадочным прошлым...",
   "level": 7,
-  "xp": 56,
+  "xp": 58,
   "levelUpPoints": 0,
   "neurali": 0,
   "baseStats": {
@@ -1033,6 +1033,276 @@
       "id": "id_1790923345238_rqhu5",
       "time": "02.10.2026, 09:42",
       "text": "Сез.1.5 Сесс.25 | Чушка | Перемещено «Магический ковёр»: Инвентарь → Доп. слоты: id_1790881175707_g3lqw",
+      "type": "delta",
+      "snapshot": null
+    },
+    {
+      "id": "id_1791219821901_f84r7",
+      "time": "05.10.2026, 20:03",
+      "text": "Сез.1.5 Сесс.26 | Чушка | Сессия: 1.5/25 → 1.5/26"
+    },
+    {
+      "id": "id_1791220544411_vhzmh",
+      "time": "05.10.2026, 20:15",
+      "text": "Сез.1.5 Сесс.26 | Чушка | База — «Декоративная статуэтка»"
+    },
+    {
+      "id": "id_1791220580073_1nkrw",
+      "time": "05.10.2026, 20:16",
+      "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Добавлено «Декоративная статуэтка»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1791220580073_dupds",
+            "itemId": "id_1791220544411_gkx6x",
+            "name": "Декоративная статуэтка",
+            "category": "valuable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Дорогая",
+            "revealed": true,
+            "obtained": "Получена от Арии во время тренировки",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791220587280_a0p2y",
+      "time": "05.10.2026, 20:16",
+      "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Количество «\"Расслабляющие\" таблетки»: 9 → 8",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1790914421215_ye896",
+          "oldValue": {
+            "id": "id_1790914421215_ye896",
+            "itemId": "id_1790914387866_gj5yt",
+            "name": "\"Расслабляющие\" таблетки",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Со слов Хармака, должны успокаивать.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 9,
+            "log": []
+          },
+          "value": {
+            "id": "id_1790914421215_ye896",
+            "itemId": "id_1790914387866_gj5yt",
+            "name": "\"Расслабляющие\" таблетки",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Со слов Хармака, должны успокаивать.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 8,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791220589749_4x18j",
+      "time": "05.10.2026, 20:16",
+      "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Количество «\"Расслабляющие\" таблетки»: 8 → 7",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1790914421215_ye896",
+          "oldValue": {
+            "id": "id_1790914421215_ye896",
+            "itemId": "id_1790914387866_gj5yt",
+            "name": "\"Расслабляющие\" таблетки",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Со слов Хармака, должны успокаивать.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 8,
+            "log": []
+          },
+          "value": {
+            "id": "id_1790914421215_ye896",
+            "itemId": "id_1790914387866_gj5yt",
+            "name": "\"Расслабляющие\" таблетки",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Со слов Хармака, должны успокаивать.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 8,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791220594461_g4os9",
+      "time": "05.10.2026, 20:16",
+      "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Количество «\"Расслабляющие\" таблетки»: 7 → 8",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1790914421215_ye896",
+          "oldValue": {
+            "id": "id_1790914421215_ye896",
+            "itemId": "id_1790914387866_gj5yt",
+            "name": "\"Расслабляющие\" таблетки",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Со слов Хармака, должны успокаивать.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 7,
+            "log": []
+          },
+          "value": {
+            "id": "id_1790914421215_ye896",
+            "itemId": "id_1790914387866_gj5yt",
+            "name": "\"Расслабляющие\" таблетки",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Со слов Хармака, должны успокаивать.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 8,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791220614545_gphwk",
+      "time": "05.10.2026, 20:16",
+      "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Правка «Декоративная статуэтка»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1791220580073_dupds",
+          "oldValue": {
+            "id": "id_1791220580073_dupds",
+            "itemId": "id_1791220544411_gkx6x",
+            "name": "Декоративная статуэтка",
+            "category": "valuable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "Получена от Арии во время тренировки",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791220580073_dupds",
+            "itemId": "id_1791220544411_gkx6x",
+            "name": "Декоративная статуэтка",
+            "category": "valuable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Дорогая",
+            "revealed": true,
+            "obtained": "Получена от Арии во время тренировки",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791220704275_mcmae",
+      "time": "05.10.2026, 20:18",
+      "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Опыт: +2 XP",
       "type": "full",
       "snapshot": {
         "charData": {
@@ -1045,7 +1315,7 @@
           "personality": "Перфекционист",
           "background": "Амнезиак с загадочным прошлым...",
           "level": 7,
-          "xp": 56,
+          "xp": 58,
           "levelUpPoints": 0,
           "neurali": 0,
           "baseStats": {
@@ -1180,7 +1450,28 @@
               "condition": "",
               "revealed": true,
               "obtained": "",
-              "quantity": 9,
+              "quantity": 8,
+              "log": []
+            },
+            {
+              "id": "id_1791220580073_dupds",
+              "itemId": "id_1791220544411_gkx6x",
+              "name": "Декоративная статуэтка",
+              "category": "valuable",
+              "stats": {
+                "hp": 0,
+                "str": 0,
+                "agi": 0,
+                "int": 0
+              },
+              "extraSlots": 0,
+              "extraSlotsName": "",
+              "description": "",
+              "hiddenDescription": "Неизвестный предмет",
+              "condition": "Дорогая",
+              "revealed": true,
+              "obtained": "Получена от Арии во время тренировки",
+              "quantity": 1,
               "log": []
             }
           ],
@@ -1818,6 +2109,237 @@
               "id": "id_1790914457747_9xvc5",
               "time": "02.10.2026, 07:14",
               "text": "Сез.1.5 Сесс.25 | Чушка | Инвентарь | Правка «\"Расслабляющие\" таблетки»",
+              "type": "delta",
+              "snapshot": null
+            },
+            {
+              "id": "id_1790919905730_lgc4w",
+              "time": "02.10.2026, 08:45",
+              "text": "Сез.1.5 Сесс.25 | Чушка | База — «Магический ковёр»"
+            },
+            {
+              "id": "id_1790919999980_xm76i",
+              "time": "02.10.2026, 08:46",
+              "text": "Сез.1.5 Сесс.25 | Чушка | Доп. слоты: id_1790881175707_g3lqw | Добавлено «Магический ковёр»",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "add",
+                  "path": "inventory",
+                  "value": {
+                    "id": "id_1790919999980_fpt3z",
+                    "itemId": "id_1790919905730_bdc1r",
+                    "name": "Магический ковёр",
+                    "category": "other",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "",
+                    "description": "",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "Сильно повреждённый",
+                    "revealed": true,
+                    "obtained": "\"Добыт\" Решалами в Фортунаре для штурма Министерства.",
+                    "quantity": 1,
+                    "log": []
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1790921301401_rr09y",
+              "time": "02.10.2026, 09:08",
+              "text": "Сез.1.5 Сесс.25 | Чушка | Перемещено «Тяжёлый молот наследия»: Оружие в руках → Экипировка",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "replace",
+                  "path": "handWeapon",
+                  "oldValue": {
+                    "id": "id_1790881110601_rhrc9",
+                    "itemId": "id_1790881073108_8a7ka",
+                    "name": "Тяжёлый молот наследия",
+                    "category": "weapon",
+                    "stats": {
+                      "hp": 0,
+                      "str": 3,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "Арканное кольцо",
+                    "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
+                    "revealed": true,
+                    "obtained": "",
+                    "log": [],
+                    "quantity": 1
+                  },
+                  "value": null
+                },
+                {
+                  "op": "add",
+                  "path": "equipment",
+                  "value": {
+                    "id": "id_1790881110601_rhrc9",
+                    "itemId": "id_1790881073108_8a7ka",
+                    "name": "Тяжёлый молот наследия",
+                    "category": "weapon",
+                    "stats": {
+                      "hp": 0,
+                      "str": 3,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "Арканное кольцо",
+                    "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
+                    "revealed": true,
+                    "obtained": "",
+                    "log": [],
+                    "quantity": 1
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1790921309551_g7ipx",
+              "time": "02.10.2026, 09:08",
+              "text": "Сез.1.5 Сесс.25 | Чушка | Перемещено «Тяжёлый молот наследия»: Экипировка → Оружие в руках",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "replace",
+                  "path": "handWeapon",
+                  "oldValue": null,
+                  "value": {
+                    "id": "id_1790881110601_rhrc9",
+                    "itemId": "id_1790881073108_8a7ka",
+                    "name": "Тяжёлый молот наследия",
+                    "category": "weapon",
+                    "stats": {
+                      "hp": 0,
+                      "str": 3,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "Арканное кольцо",
+                    "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
+                    "revealed": true,
+                    "obtained": "",
+                    "log": [],
+                    "quantity": 1
+                  }
+                },
+                {
+                  "op": "remove",
+                  "path": "equipment",
+                  "id": "id_1790881110601_rhrc9",
+                  "oldValue": {
+                    "id": "id_1790881110601_rhrc9",
+                    "itemId": "id_1790881073108_8a7ka",
+                    "name": "Тяжёлый молот наследия",
+                    "category": "weapon",
+                    "stats": {
+                      "hp": 0,
+                      "str": 3,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "Арканное кольцо",
+                    "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
+                    "revealed": true,
+                    "obtained": "",
+                    "log": [],
+                    "quantity": 1
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1790922560357_fb6fl",
+              "time": "02.10.2026, 09:29",
+              "text": "Сез.1.5 Сесс.25 | Чушка | Доп. слоты: id_1790881175707_g3lqw | Добавлено «\"Расслабляющие\" таблетки»",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "add",
+                  "path": "inventory",
+                  "value": {
+                    "id": "id_1790922560357_3zh9o",
+                    "itemId": "id_1790914387866_gj5yt",
+                    "name": "\"Расслабляющие\" таблетки",
+                    "category": "consumable",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "",
+                    "description": "",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "",
+                    "revealed": false,
+                    "obtained": "",
+                    "quantity": 1,
+                    "log": []
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1790922567647_rdi4u",
+              "time": "02.10.2026, 09:29",
+              "text": "Сез.1.5 Сесс.25 | Чушка | Доп. слоты: id_1790881175707_g3lqw | Убрано «\"Расслабляющие\" таблетки»",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "remove",
+                  "path": "inventory",
+                  "id": "id_1790922560357_3zh9o",
+                  "oldValue": {
+                    "id": "id_1790922560357_3zh9o",
+                    "itemId": "id_1790914387866_gj5yt",
+                    "name": "\"Расслабляющие\" таблетки",
+                    "category": "consumable",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "",
+                    "description": "",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "",
+                    "revealed": false,
+                    "obtained": "",
+                    "quantity": 1,
+                    "log": []
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1790923345238_rqhu5",
+              "time": "02.10.2026, 09:42",
+              "text": "Сез.1.5 Сесс.25 | Чушка | Перемещено «Магический ковёр»: Инвентарь → Доп. слоты: id_1790881175707_g3lqw",
               "type": "full",
               "snapshot": {
                 "charData": {
@@ -1982,7 +2504,29 @@
                       "name": "Арканное кольцо",
                       "sourceItemId": "id_1790864452298_4fe6v",
                       "capacity": 10,
-                      "items": []
+                      "items": [
+                        {
+                          "id": "id_1790919999980_fpt3z",
+                          "itemId": "id_1790919905730_bdc1r",
+                          "name": "Магический ковёр",
+                          "category": "other",
+                          "stats": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "extraSlots": 0,
+                          "extraSlotsName": "",
+                          "description": "",
+                          "hiddenDescription": "Неизвестный предмет",
+                          "condition": "Сильно повреждённый",
+                          "revealed": true,
+                          "obtained": "\"Добыт\" Решалами в Фортунаре для штурма Министерства.",
+                          "quantity": 1,
+                          "log": []
+                        }
+                      ]
                     }
                   ],
                   "active": [
@@ -2375,6 +2919,212 @@
                       "id": "id_1790887516332_yxiyg",
                       "time": "01.10.2026, 23:45",
                       "text": "Сез.1.5 Сесс.25 | Чушка | Тренировки (в процессе) | Добавлено «Повышение интеллекта (4)»",
+                      "type": "delta",
+                      "snapshot": null
+                    },
+                    {
+                      "id": "id_1790887536057_0c6o6",
+                      "time": "01.10.2026, 23:45",
+                      "text": "Сез.1.5 Сесс.25 | Чушка | Тренировки (в плане) | Добавлено «Поглощение силы»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "add",
+                          "path": "trainingsPlanned",
+                          "value": {
+                            "id": "id_1790887536057_icptt",
+                            "name": "Поглощение силы",
+                            "desc": "Находясь в контакте с заменённой стихией, восстанавливает небольшое количество здоровья пассивно. Стихия при этом имеет шанс рассеяться после поглощения.",
+                            "stats": {
+                              "hp": 0,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "log": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1790887590536_pec9k",
+                      "time": "01.10.2026, 23:46",
+                      "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Правка «Арканное кольцо малое»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "update",
+                          "path": "equipment",
+                          "id": "id_1790881175707_hfw9v",
+                          "oldValue": {
+                            "id": "id_1790881175707_hfw9v",
+                            "itemId": "id_1790864452298_4fe6v",
+                            "name": "Арканное кольцо малое",
+                            "category": "other",
+                            "stats": {
+                              "hp": 0,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 10,
+                            "extraSlotsName": "Арканное кольцо",
+                            "description": "",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "",
+                            "revealed": true,
+                            "obtained": "",
+                            "log": []
+                          },
+                          "value": {
+                            "id": "id_1790881175707_hfw9v",
+                            "itemId": "id_1790864452298_4fe6v",
+                            "name": "Арканное кольцо малое",
+                            "category": "other",
+                            "stats": {
+                              "hp": 0,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 10,
+                            "extraSlotsName": "Арканное кольцо",
+                            "description": "",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "",
+                            "revealed": true,
+                            "obtained": "Выдано братьями-капитанами в дар",
+                            "log": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1790887607167_d5cux",
+                      "time": "01.10.2026, 23:46",
+                      "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Правка «Арканное кольцо малое»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "update",
+                          "path": "equipment",
+                          "id": "id_1790881175707_hfw9v",
+                          "oldValue": {
+                            "id": "id_1790881175707_hfw9v",
+                            "itemId": "id_1790864452298_4fe6v",
+                            "name": "Арканное кольцо малое",
+                            "category": "other",
+                            "stats": {
+                              "hp": 0,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 10,
+                            "extraSlotsName": "Арканное кольцо",
+                            "description": "",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "(на пальце)",
+                            "revealed": true,
+                            "obtained": "Выдано братьями-капитанами в дар",
+                            "log": []
+                          },
+                          "value": {
+                            "id": "id_1790881175707_hfw9v",
+                            "itemId": "id_1790864452298_4fe6v",
+                            "name": "Арканное кольцо малое",
+                            "category": "other",
+                            "stats": {
+                              "hp": 0,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 10,
+                            "extraSlotsName": "Арканное кольцо",
+                            "description": "",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "",
+                            "revealed": true,
+                            "obtained": "Выдано братьями-капитанами в дар",
+                            "log": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1790887631557_oe37k",
+                      "time": "01.10.2026, 23:47",
+                      "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Основное",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "replace",
+                          "path": "race",
+                          "oldValue": "",
+                          "value": "Цивельзион"
+                        },
+                        {
+                          "op": "replace",
+                          "path": "personality",
+                          "oldValue": "",
+                          "value": "Перфекционист"
+                        },
+                        {
+                          "op": "replace",
+                          "path": "background",
+                          "oldValue": "",
+                          "value": "Амнезиак с загадочным прошлым..."
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1790914387867_3eh5s",
+                      "time": "02.10.2026, 07:13",
+                      "text": "Сез.1.5 Сесс.25 | Чушка | База — «\"Расслабляющие\" таблетки»"
+                    },
+                    {
+                      "id": "id_1790914398284_dics5",
+                      "time": "02.10.2026, 07:13",
+                      "text": "Сез.1.5 Сесс.25 | Чушка | База — «\"Расслабляющие\" таблетки»"
+                    },
+                    {
+                      "id": "id_1790914421215_fgoxo",
+                      "time": "02.10.2026, 07:13",
+                      "text": "Сез.1.5 Сесс.25 | Чушка | Инвентарь | Добавлено «\"Расслабляющие\" таблетки» (×9)",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "add",
+                          "path": "inventory",
+                          "value": {
+                            "id": "id_1790914421215_ye896",
+                            "itemId": "id_1790914387866_gj5yt",
+                            "name": "\"Расслабляющие\" таблетки",
+                            "category": "consumable",
+                            "stats": {
+                              "hp": 0,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 0,
+                            "extraSlotsName": "",
+                            "description": "Со слов Хармака, должны успокаивать.",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "",
+                            "revealed": true,
+                            "obtained": "",
+                            "quantity": 9,
+                            "log": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1790914457747_9xvc5",
+                      "time": "02.10.2026, 07:14",
+                      "text": "Сез.1.5 Сесс.25 | Чушка | Инвентарь | Правка «\"Расслабляющие\" таблетки»",
                       "type": "full",
                       "snapshot": {
                         "charData": {
@@ -2383,9 +3133,9 @@
                           "portrait": null,
                           "isCompanion": false,
                           "class": "Мастер Аспектов",
-                          "race": "",
-                          "personality": "",
-                          "background": "",
+                          "race": "Цивельзион",
+                          "personality": "Перфекционист",
+                          "background": "Амнезиак с загадочным прошлым...",
                           "level": 7,
                           "xp": 56,
                           "levelUpPoints": 0,
@@ -2414,7 +3164,8 @@
                             "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
                             "revealed": true,
                             "obtained": "",
-                            "log": []
+                            "log": [],
+                            "quantity": 1
                           },
                           "equipment": [
                             {
@@ -2435,7 +3186,8 @@
                               "condition": "Слегка потрёпанная",
                               "revealed": true,
                               "obtained": "",
-                              "log": []
+                              "log": [],
+                              "quantity": 1
                             },
                             {
                               "id": "id_1790881175707_hfw9v",
@@ -2454,8 +3206,9 @@
                               "hiddenDescription": "Неизвестный предмет",
                               "condition": "",
                               "revealed": true,
-                              "obtained": "",
-                              "log": []
+                              "obtained": "Выдано братьями-капитанами в дар",
+                              "log": [],
+                              "quantity": 1
                             }
                           ],
                           "inventory": [
@@ -2477,7 +3230,8 @@
                               "condition": "Пустая",
                               "revealed": true,
                               "obtained": "",
-                              "log": []
+                              "log": [],
+                              "quantity": 1
                             },
                             {
                               "id": "id_1790881380165_lcd55",
@@ -2497,6 +3251,28 @@
                               "condition": "",
                               "revealed": true,
                               "obtained": "",
+                              "log": [],
+                              "quantity": 1
+                            },
+                            {
+                              "id": "id_1790914421215_ye896",
+                              "itemId": "id_1790914387866_gj5yt",
+                              "name": "\"Расслабляющие\" таблетки",
+                              "category": "consumable",
+                              "stats": {
+                                "hp": 0,
+                                "str": 0,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "extraSlots": 0,
+                              "extraSlotsName": "",
+                              "description": "Со слов Хармака, должны успокаивать.",
+                              "hiddenDescription": "Неизвестный предмет",
+                              "condition": "",
+                              "revealed": true,
+                              "obtained": "",
+                              "quantity": 9,
                               "log": []
                             }
                           ],
@@ -2612,7 +3388,20 @@
                               "log": []
                             }
                           ],
-                          "trainingsPlanned": [],
+                          "trainingsPlanned": [
+                            {
+                              "id": "id_1790887536057_icptt",
+                              "name": "Поглощение силы",
+                              "desc": "Находясь в контакте с заменённой стихией, восстанавливает небольшое количество здоровья пассивно. Стихия при этом имеет шанс рассеяться после поглощения.",
+                              "stats": {
+                                "hp": 0,
+                                "str": 0,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "log": []
+                            }
+                          ],
                           "log": [
                             {
                               "id": "id_1790879600989_27337",
@@ -2888,188 +3677,900 @@
                                   }
                                 }
                               ]
+                            },
+                            {
+                              "id": "id_1790887516332_yxiyg",
+                              "time": "01.10.2026, 23:45",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Тренировки (в процессе) | Добавлено «Повышение интеллекта (4)»",
+                              "type": "full",
+                              "snapshot": {
+                                "charData": {
+                                  "id": "chushka",
+                                  "name": "Чушка",
+                                  "portrait": null,
+                                  "isCompanion": false,
+                                  "class": "Мастер Аспектов",
+                                  "race": "",
+                                  "personality": "",
+                                  "background": "",
+                                  "level": 7,
+                                  "xp": 56,
+                                  "levelUpPoints": 0,
+                                  "neurali": 0,
+                                  "baseStats": {
+                                    "hp": 100,
+                                    "str": 4,
+                                    "agi": 2,
+                                    "int": 3
+                                  },
+                                  "handWeapon": {
+                                    "id": "id_1790881110601_rhrc9",
+                                    "itemId": "id_1790881073108_8a7ka",
+                                    "name": "Тяжёлый молот наследия",
+                                    "category": "weapon",
+                                    "stats": {
+                                      "hp": 0,
+                                      "str": 3,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 0,
+                                    "extraSlotsName": "Арканное кольцо",
+                                    "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
+                                    "hiddenDescription": "Неизвестный предмет",
+                                    "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
+                                    "revealed": true,
+                                    "obtained": "",
+                                    "log": []
+                                  },
+                                  "equipment": [
+                                    {
+                                      "id": "id_1790879600989_kg3zt",
+                                      "itemId": "id_1790869762006_1b41n",
+                                      "name": "Одежда Огненного Чародея",
+                                      "category": "other",
+                                      "stats": {
+                                        "hp": 7,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "extraSlots": 1,
+                                      "extraSlotsName": "Карманы одежды",
+                                      "description": "",
+                                      "hiddenDescription": "Неизвестный предмет",
+                                      "condition": "Слегка потрёпанная",
+                                      "revealed": true,
+                                      "obtained": "",
+                                      "log": []
+                                    },
+                                    {
+                                      "id": "id_1790881175707_hfw9v",
+                                      "itemId": "id_1790864452298_4fe6v",
+                                      "name": "Арканное кольцо малое",
+                                      "category": "other",
+                                      "stats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "extraSlots": 10,
+                                      "extraSlotsName": "Арканное кольцо",
+                                      "description": "",
+                                      "hiddenDescription": "Неизвестный предмет",
+                                      "condition": "",
+                                      "revealed": true,
+                                      "obtained": "",
+                                      "log": []
+                                    }
+                                  ],
+                                  "inventory": [
+                                    {
+                                      "id": "id_1790881163012_j44ip",
+                                      "itemId": "id_1790861241524_xerfo",
+                                      "name": "Фляга Элизабет",
+                                      "category": "other",
+                                      "stats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "extraSlots": 0,
+                                      "extraSlotsName": "Арканное кольцо",
+                                      "description": "Простая маленькая фляжка для воды",
+                                      "hiddenDescription": "Неизвестный предмет",
+                                      "condition": "Пустая",
+                                      "revealed": true,
+                                      "obtained": "",
+                                      "log": []
+                                    },
+                                    {
+                                      "id": "id_1790881380165_lcd55",
+                                      "itemId": "id_1790881348665_fm3og",
+                                      "name": "Камень призыва элементаля",
+                                      "category": "consumable",
+                                      "stats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "extraSlots": 0,
+                                      "extraSlotsName": "Арканное кольцо",
+                                      "description": "Призывает элементаля желаемой стихии при контакте с этой стихией.",
+                                      "hiddenDescription": "Неизвестный предмет",
+                                      "condition": "",
+                                      "revealed": true,
+                                      "obtained": "",
+                                      "log": []
+                                    }
+                                  ],
+                                  "extraSections": [
+                                    {
+                                      "id": "id_1790879600989_rn68e",
+                                      "name": "Карманы одежды",
+                                      "sourceItemId": "id_1790869762006_1b41n",
+                                      "capacity": 1,
+                                      "items": []
+                                    },
+                                    {
+                                      "id": "id_1790881175707_g3lqw",
+                                      "name": "Арканное кольцо",
+                                      "sourceItemId": "id_1790864452298_4fe6v",
+                                      "capacity": 10,
+                                      "items": []
+                                    }
+                                  ],
+                                  "active": [
+                                    {
+                                      "id": "id_1790887424555_auzke",
+                                      "name": "Замена",
+                                      "desc": "Преобразование одной стихии в её противоположный аспект.\nВозможные преобразовательные пары: (Огонь-Вода), (Воздух-Молния) (Земля-Камень) (Свет-Тьма).\nКоличество одновременно преобразованных стихий ограничено особым ресурсом.\nЗаменённую стихию можно \"отпустить\", и тогда она вернётся в изначальное состояние. Стихия отпускается сама по себе, если:\n-производится замена, превышающая допустимый лимит - в этом случае, развоплощение происходит в хронологическом порядке (старые первые);\n-мастер находится слишком далеко;\n-стихия растворяется в окружающей среде.",
+                                      "stats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "log": []
+                                    }
+                                  ],
+                                  "passive": [
+                                    {
+                                      "id": "id_1790887445178_4rerz",
+                                      "name": "Сила Аспектов (ур. 2)",
+                                      "desc": "Находясь в окружении подменённой стихии (в форме лужи), получает дополнительный бонус в 2 ед. ко всем видам бросков.",
+                                      "stats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "log": []
+                                    }
+                                  ],
+                                  "quirks": [
+                                    {
+                                      "id": "id_1790887375491_xcy69",
+                                      "name": "Сила Стихий",
+                                      "desc": "Возможно одновременно удерживать 2 \"гелиона\"  (инстанции заменённой стихии).",
+                                      "stats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "log": []
+                                    },
+                                    {
+                                      "id": "id_1790887401038_ds2ux",
+                                      "name": "Асоциал",
+                                      "desc": "Штраф в 3 единицы при совершении социальных действий вроде убеждения, устрашения и т.д.",
+                                      "stats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "log": []
+                                    }
+                                  ],
+                                  "talents": [
+                                    {
+                                      "id": "id_1790887485576_qjgy1",
+                                      "name": "Мастер плавания",
+                                      "desc": "Отлично умеет плавать.",
+                                      "stats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "log": []
+                                    }
+                                  ],
+                                  "education": [
+                                    {
+                                      "id": "id_1790887468028_a5cnr",
+                                      "name": "Книга \"Аспектная магия, Том 1\"",
+                                      "desc": "+1 к успеху к действиям базовой аспектной магии (\"Замена\" и \"Манипуляция\");\n+3 стартового прогресса все последующих тренировоки школы Аспектов;",
+                                      "stats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "log": []
+                                    }
+                                  ],
+                                  "trainingsActive": [
+                                    {
+                                      "id": "id_1790887516332_30bj0",
+                                      "name": "Повышение интеллекта (4)",
+                                      "desc": "",
+                                      "stats": {
+                                        "hp": 0,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "log": []
+                                    }
+                                  ],
+                                  "trainingsPlanned": [],
+                                  "log": [
+                                    {
+                                      "id": "id_1790879600989_27337",
+                                      "time": "01.10.2026, 21:33",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Одежда Огненного Чародея»",
+                                      "snapshot": null
+                                    },
+                                    {
+                                      "id": "id_1790881073108_yf13x",
+                                      "time": "01.10.2026, 21:57",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | База — «Тяжёлый молот наследия»",
+                                      "snapshot": null
+                                    },
+                                    {
+                                      "id": "id_1790881110601_mhh0k",
+                                      "time": "01.10.2026, 21:58",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Тяжёлый молот наследия»",
+                                      "snapshot": null
+                                    },
+                                    {
+                                      "id": "id_1790881118025_b8bot",
+                                      "time": "01.10.2026, 21:58",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Перемещено «Тяжёлый молот наследия»: Экипировка → Оружие в руках",
+                                      "snapshot": null
+                                    },
+                                    {
+                                      "id": "id_1790881145038_ttxt6",
+                                      "time": "01.10.2026, 21:59",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Оружие в руках | Правка «Тяжёлый молот наследия»",
+                                      "snapshot": null
+                                    },
+                                    {
+                                      "id": "id_1790881163012_m8khp",
+                                      "time": "01.10.2026, 21:59",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Доп. слоты: id_1790879600989_rn68e | Добавлено «Фляга Элизабет»",
+                                      "snapshot": null
+                                    },
+                                    {
+                                      "id": "id_1790881175707_qqaw2",
+                                      "time": "01.10.2026, 21:59",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Добавлено «Арканное кольцо малое»",
+                                      "snapshot": null
+                                    },
+                                    {
+                                      "id": "id_1790881242285_e8i2b",
+                                      "time": "01.10.2026, 22:00",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Основное",
+                                      "snapshot": null
+                                    },
+                                    {
+                                      "id": "id_1790881380165_1j2nu",
+                                      "time": "01.10.2026, 22:03",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Инвентарь | Добавлено «Камень призыва элементаля»",
+                                      "snapshot": null
+                                    },
+                                    {
+                                      "id": "id_1790882192937_dxhie",
+                                      "time": "01.10.2026, 22:16",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Базовые статы: ХП:0 Сил:0 Лов:0 Инт:0 → ХП:100 Сил:4 Лов:2 Инт:3",
+                                      "snapshot": null
+                                    },
+                                    {
+                                      "id": "id_1790882345020_2ek50",
+                                      "time": "01.10.2026, 22:19",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Опыт: +260 XP | Уровень повышен до 6 (+5)",
+                                      "snapshot": null
+                                    },
+                                    {
+                                      "id": "id_1790882376973_rks8v",
+                                      "time": "01.10.2026, 22:19",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Опыт: +71 XP | Уровень повышен до 7 (+1)",
+                                      "snapshot": null
+                                    },
+                                    {
+                                      "id": "id_1790882423217_9vx47",
+                                      "time": "01.10.2026, 22:20",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Потеряно 1 очко повышения",
+                                      "snapshot": null
+                                    },
+                                    {
+                                      "id": "id_1790884910498_ssdjm",
+                                      "time": "01.10.2026, 23:01",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Потеряно 1 очко повышения",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "replace",
+                                          "path": "levelUpPoints",
+                                          "oldValue": 5,
+                                          "value": 4
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "id_1790884930972_3axh2",
+                                      "time": "01.10.2026, 23:02",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Потеряно 1 очко повышения",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "replace",
+                                          "path": "levelUpPoints",
+                                          "oldValue": 4,
+                                          "value": 3
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "id_1790885945223_uje8o",
+                                      "time": "01.10.2026, 23:19",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Потеряно 1 очко повышения",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "replace",
+                                          "path": "levelUpPoints",
+                                          "oldValue": 3,
+                                          "value": 2
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "id_1790885959564_owizs",
+                                      "time": "01.10.2026, 23:19",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Потеряно 1 очко повышения",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "replace",
+                                          "path": "levelUpPoints",
+                                          "oldValue": 2,
+                                          "value": 1
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "id_1790885976791_0iajy",
+                                      "time": "01.10.2026, 23:19",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Потеряно 1 очко повышения",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "replace",
+                                          "path": "levelUpPoints",
+                                          "oldValue": 1,
+                                          "value": 0
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "id_1790887375491_a43hj",
+                                      "time": "01.10.2026, 23:42",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Фишки | Добавлено «Сила Стихий»",
+                                      "type": "full",
+                                      "snapshot": null
+                                    },
+                                    {
+                                      "id": "id_1790887401038_qk1c2",
+                                      "time": "01.10.2026, 23:43",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Фишки | Добавлено «Асоциал»",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "add",
+                                          "path": "quirks",
+                                          "value": {
+                                            "id": "id_1790887401038_ds2ux",
+                                            "name": "Асоциал",
+                                            "desc": "Штраф в 3 единицы при совершении социальных действий вроде убеждения, устрашения и т.д.",
+                                            "stats": {
+                                              "hp": 0,
+                                              "str": 0,
+                                              "agi": 0,
+                                              "int": 0
+                                            },
+                                            "log": []
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "id_1790887424555_mqnq5",
+                                      "time": "01.10.2026, 23:43",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Активные способности | Добавлено «Замена»",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "add",
+                                          "path": "active",
+                                          "value": {
+                                            "id": "id_1790887424555_auzke",
+                                            "name": "Замена",
+                                            "desc": "Преобразование одной стихии в её противоположный аспект.\nВозможные преобразовательные пары: (Огонь-Вода), (Воздух-Молния) (Земля-Камень) (Свет-Тьма).\nКоличество одновременно преобразованных стихий ограничено особым ресурсом.\nЗаменённую стихию можно \"отпустить\", и тогда она вернётся в изначальное состояние. Стихия отпускается сама по себе, если:\n-производится замена, превышающая допустимый лимит - в этом случае, развоплощение происходит в хронологическом порядке (старые первые);\n-мастер находится слишком далеко;\n-стихия растворяется в окружающей среде.",
+                                            "stats": {
+                                              "hp": 0,
+                                              "str": 0,
+                                              "agi": 0,
+                                              "int": 0
+                                            },
+                                            "log": []
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "id_1790887445178_b6uni",
+                                      "time": "01.10.2026, 23:44",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Пассивные способности | Добавлено «Сила Аспектов (ур. 2)»",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "add",
+                                          "path": "passive",
+                                          "value": {
+                                            "id": "id_1790887445178_4rerz",
+                                            "name": "Сила Аспектов (ур. 2)",
+                                            "desc": "Находясь в окружении подменённой стихии (в форме лужи), получает дополнительный бонус в 2 ед. ко всем видам бросков.",
+                                            "stats": {
+                                              "hp": 0,
+                                              "str": 0,
+                                              "agi": 0,
+                                              "int": 0
+                                            },
+                                            "log": []
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "id_1790887468028_7qreb",
+                                      "time": "01.10.2026, 23:44",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Образование | Добавлено «Книга \"Аспектная магия, Том 1\"»",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "add",
+                                          "path": "education",
+                                          "value": {
+                                            "id": "id_1790887468028_a5cnr",
+                                            "name": "Книга \"Аспектная магия, Том 1\"",
+                                            "desc": "+1 к успеху к действиям базовой аспектной магии (\"Замена\" и \"Манипуляция\");\n+3 стартового прогресса все последующих тренировоки школы Аспектов;",
+                                            "stats": {
+                                              "hp": 0,
+                                              "str": 0,
+                                              "agi": 0,
+                                              "int": 0
+                                            },
+                                            "log": []
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "id_1790887485576_rs9ur",
+                                      "time": "01.10.2026, 23:44",
+                                      "text": "Сез.1.5 Сесс.25 | Чушка | Таланты | Добавлено «Мастер плавания»",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "add",
+                                          "path": "talents",
+                                          "value": {
+                                            "id": "id_1790887485576_qjgy1",
+                                            "name": "Мастер плавания",
+                                            "desc": "Отлично умеет плавать.",
+                                            "stats": {
+                                              "hp": 0,
+                                              "str": 0,
+                                              "agi": 0,
+                                              "int": 0
+                                            },
+                                            "log": []
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              }
+                            },
+                            {
+                              "id": "id_1790887536057_0c6o6",
+                              "time": "01.10.2026, 23:45",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Тренировки (в плане) | Добавлено «Поглощение силы»",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "add",
+                                  "path": "trainingsPlanned",
+                                  "value": {
+                                    "id": "id_1790887536057_icptt",
+                                    "name": "Поглощение силы",
+                                    "desc": "Находясь в контакте с заменённой стихией, восстанавливает небольшое количество здоровья пассивно. Стихия при этом имеет шанс рассеяться после поглощения.",
+                                    "stats": {
+                                      "hp": 0,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "log": []
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "id_1790887590536_pec9k",
+                              "time": "01.10.2026, 23:46",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Правка «Арканное кольцо малое»",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "update",
+                                  "path": "equipment",
+                                  "id": "id_1790881175707_hfw9v",
+                                  "oldValue": {
+                                    "id": "id_1790881175707_hfw9v",
+                                    "itemId": "id_1790864452298_4fe6v",
+                                    "name": "Арканное кольцо малое",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 0,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 10,
+                                    "extraSlotsName": "Арканное кольцо",
+                                    "description": "",
+                                    "hiddenDescription": "Неизвестный предмет",
+                                    "condition": "",
+                                    "revealed": true,
+                                    "obtained": "",
+                                    "log": []
+                                  },
+                                  "value": {
+                                    "id": "id_1790881175707_hfw9v",
+                                    "itemId": "id_1790864452298_4fe6v",
+                                    "name": "Арканное кольцо малое",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 0,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 10,
+                                    "extraSlotsName": "Арканное кольцо",
+                                    "description": "",
+                                    "hiddenDescription": "Неизвестный предмет",
+                                    "condition": "",
+                                    "revealed": true,
+                                    "obtained": "Выдано братьями-капитанами в дар",
+                                    "log": []
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "id_1790887607167_d5cux",
+                              "time": "01.10.2026, 23:46",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Правка «Арканное кольцо малое»",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "update",
+                                  "path": "equipment",
+                                  "id": "id_1790881175707_hfw9v",
+                                  "oldValue": {
+                                    "id": "id_1790881175707_hfw9v",
+                                    "itemId": "id_1790864452298_4fe6v",
+                                    "name": "Арканное кольцо малое",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 0,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 10,
+                                    "extraSlotsName": "Арканное кольцо",
+                                    "description": "",
+                                    "hiddenDescription": "Неизвестный предмет",
+                                    "condition": "(на пальце)",
+                                    "revealed": true,
+                                    "obtained": "Выдано братьями-капитанами в дар",
+                                    "log": []
+                                  },
+                                  "value": {
+                                    "id": "id_1790881175707_hfw9v",
+                                    "itemId": "id_1790864452298_4fe6v",
+                                    "name": "Арканное кольцо малое",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 0,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 10,
+                                    "extraSlotsName": "Арканное кольцо",
+                                    "description": "",
+                                    "hiddenDescription": "Неизвестный предмет",
+                                    "condition": "",
+                                    "revealed": true,
+                                    "obtained": "Выдано братьями-капитанами в дар",
+                                    "log": []
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "id_1790887631557_oe37k",
+                              "time": "01.10.2026, 23:47",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Основное",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "replace",
+                                  "path": "race",
+                                  "oldValue": "",
+                                  "value": "Цивельзион"
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "personality",
+                                  "oldValue": "",
+                                  "value": "Перфекционист"
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "background",
+                                  "oldValue": "",
+                                  "value": "Амнезиак с загадочным прошлым..."
+                                }
+                              ]
+                            },
+                            {
+                              "id": "id_1790914387867_3eh5s",
+                              "time": "02.10.2026, 07:13",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | База — «\"Расслабляющие\" таблетки»"
+                            },
+                            {
+                              "id": "id_1790914398284_dics5",
+                              "time": "02.10.2026, 07:13",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | База — «\"Расслабляющие\" таблетки»"
+                            },
+                            {
+                              "id": "id_1790914421215_fgoxo",
+                              "time": "02.10.2026, 07:13",
+                              "text": "Сез.1.5 Сесс.25 | Чушка | Инвентарь | Добавлено «\"Расслабляющие\" таблетки» (×9)",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "add",
+                                  "path": "inventory",
+                                  "value": {
+                                    "id": "id_1790914421215_ye896",
+                                    "itemId": "id_1790914387866_gj5yt",
+                                    "name": "\"Расслабляющие\" таблетки",
+                                    "category": "consumable",
+                                    "stats": {
+                                      "hp": 0,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 0,
+                                    "extraSlotsName": "",
+                                    "description": "Со слов Хармака, должны успокаивать.",
+                                    "hiddenDescription": "Неизвестный предмет",
+                                    "condition": "",
+                                    "revealed": true,
+                                    "obtained": "",
+                                    "quantity": 9,
+                                    "log": []
+                                  }
+                                }
+                              ]
                             }
                           ]
                         }
                       }
                     },
                     {
-                      "id": "id_1790887536057_0c6o6",
-                      "time": "01.10.2026, 23:45",
-                      "text": "Сез.1.5 Сесс.25 | Чушка | Тренировки (в плане) | Добавлено «Поглощение силы»",
-                      "type": "delta",
-                      "delta": [
-                        {
-                          "op": "add",
-                          "path": "trainingsPlanned",
-                          "value": {
-                            "id": "id_1790887536057_icptt",
-                            "name": "Поглощение силы",
-                            "desc": "Находясь в контакте с заменённой стихией, восстанавливает небольшое количество здоровья пассивно. Стихия при этом имеет шанс рассеяться после поглощения.",
-                            "stats": {
-                              "hp": 0,
-                              "str": 0,
-                              "agi": 0,
-                              "int": 0
-                            },
-                            "log": []
-                          }
-                        }
-                      ]
+                      "id": "id_1790919905730_lgc4w",
+                      "time": "02.10.2026, 08:45",
+                      "text": "Сез.1.5 Сесс.25 | Чушка | База — «Магический ковёр»"
                     },
                     {
-                      "id": "id_1790887590536_pec9k",
-                      "time": "01.10.2026, 23:46",
-                      "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Правка «Арканное кольцо малое»",
-                      "type": "delta",
-                      "delta": [
-                        {
-                          "op": "update",
-                          "path": "equipment",
-                          "id": "id_1790881175707_hfw9v",
-                          "oldValue": {
-                            "id": "id_1790881175707_hfw9v",
-                            "itemId": "id_1790864452298_4fe6v",
-                            "name": "Арканное кольцо малое",
-                            "category": "other",
-                            "stats": {
-                              "hp": 0,
-                              "str": 0,
-                              "agi": 0,
-                              "int": 0
-                            },
-                            "extraSlots": 10,
-                            "extraSlotsName": "Арканное кольцо",
-                            "description": "",
-                            "hiddenDescription": "Неизвестный предмет",
-                            "condition": "",
-                            "revealed": true,
-                            "obtained": "",
-                            "log": []
-                          },
-                          "value": {
-                            "id": "id_1790881175707_hfw9v",
-                            "itemId": "id_1790864452298_4fe6v",
-                            "name": "Арканное кольцо малое",
-                            "category": "other",
-                            "stats": {
-                              "hp": 0,
-                              "str": 0,
-                              "agi": 0,
-                              "int": 0
-                            },
-                            "extraSlots": 10,
-                            "extraSlotsName": "Арканное кольцо",
-                            "description": "",
-                            "hiddenDescription": "Неизвестный предмет",
-                            "condition": "",
-                            "revealed": true,
-                            "obtained": "Выдано братьями-капитанами в дар",
-                            "log": []
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "id": "id_1790887607167_d5cux",
-                      "time": "01.10.2026, 23:46",
-                      "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Правка «Арканное кольцо малое»",
-                      "type": "delta",
-                      "delta": [
-                        {
-                          "op": "update",
-                          "path": "equipment",
-                          "id": "id_1790881175707_hfw9v",
-                          "oldValue": {
-                            "id": "id_1790881175707_hfw9v",
-                            "itemId": "id_1790864452298_4fe6v",
-                            "name": "Арканное кольцо малое",
-                            "category": "other",
-                            "stats": {
-                              "hp": 0,
-                              "str": 0,
-                              "agi": 0,
-                              "int": 0
-                            },
-                            "extraSlots": 10,
-                            "extraSlotsName": "Арканное кольцо",
-                            "description": "",
-                            "hiddenDescription": "Неизвестный предмет",
-                            "condition": "(на пальце)",
-                            "revealed": true,
-                            "obtained": "Выдано братьями-капитанами в дар",
-                            "log": []
-                          },
-                          "value": {
-                            "id": "id_1790881175707_hfw9v",
-                            "itemId": "id_1790864452298_4fe6v",
-                            "name": "Арканное кольцо малое",
-                            "category": "other",
-                            "stats": {
-                              "hp": 0,
-                              "str": 0,
-                              "agi": 0,
-                              "int": 0
-                            },
-                            "extraSlots": 10,
-                            "extraSlotsName": "Арканное кольцо",
-                            "description": "",
-                            "hiddenDescription": "Неизвестный предмет",
-                            "condition": "",
-                            "revealed": true,
-                            "obtained": "Выдано братьями-капитанами в дар",
-                            "log": []
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "id": "id_1790887631557_oe37k",
-                      "time": "01.10.2026, 23:47",
-                      "text": "Сез.1.5 Сесс.25 | Чушка | Экипировка | Основное",
-                      "type": "delta",
-                      "delta": [
-                        {
-                          "op": "replace",
-                          "path": "race",
-                          "oldValue": "",
-                          "value": "Цивельзион"
-                        },
-                        {
-                          "op": "replace",
-                          "path": "personality",
-                          "oldValue": "",
-                          "value": "Перфекционист"
-                        },
-                        {
-                          "op": "replace",
-                          "path": "background",
-                          "oldValue": "",
-                          "value": "Амнезиак с загадочным прошлым..."
-                        }
-                      ]
-                    },
-                    {
-                      "id": "id_1790914387867_3eh5s",
-                      "time": "02.10.2026, 07:13",
-                      "text": "Сез.1.5 Сесс.25 | Чушка | База — «\"Расслабляющие\" таблетки»"
-                    },
-                    {
-                      "id": "id_1790914398284_dics5",
-                      "time": "02.10.2026, 07:13",
-                      "text": "Сез.1.5 Сесс.25 | Чушка | База — «\"Расслабляющие\" таблетки»"
-                    },
-                    {
-                      "id": "id_1790914421215_fgoxo",
-                      "time": "02.10.2026, 07:13",
-                      "text": "Сез.1.5 Сесс.25 | Чушка | Инвентарь | Добавлено «\"Расслабляющие\" таблетки» (×9)",
+                      "id": "id_1790919999980_xm76i",
+                      "time": "02.10.2026, 08:46",
+                      "text": "Сез.1.5 Сесс.25 | Чушка | Доп. слоты: id_1790881175707_g3lqw | Добавлено «Магический ковёр»",
                       "type": "delta",
                       "delta": [
                         {
                           "op": "add",
                           "path": "inventory",
                           "value": {
-                            "id": "id_1790914421215_ye896",
+                            "id": "id_1790919999980_fpt3z",
+                            "itemId": "id_1790919905730_bdc1r",
+                            "name": "Магический ковёр",
+                            "category": "other",
+                            "stats": {
+                              "hp": 0,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 0,
+                            "extraSlotsName": "",
+                            "description": "",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "Сильно повреждённый",
+                            "revealed": true,
+                            "obtained": "\"Добыт\" Решалами в Фортунаре для штурма Министерства.",
+                            "quantity": 1,
+                            "log": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1790921301401_rr09y",
+                      "time": "02.10.2026, 09:08",
+                      "text": "Сез.1.5 Сесс.25 | Чушка | Перемещено «Тяжёлый молот наследия»: Оружие в руках → Экипировка",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "replace",
+                          "path": "handWeapon",
+                          "oldValue": {
+                            "id": "id_1790881110601_rhrc9",
+                            "itemId": "id_1790881073108_8a7ka",
+                            "name": "Тяжёлый молот наследия",
+                            "category": "weapon",
+                            "stats": {
+                              "hp": 0,
+                              "str": 3,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 0,
+                            "extraSlotsName": "Арканное кольцо",
+                            "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
+                            "revealed": true,
+                            "obtained": "",
+                            "log": [],
+                            "quantity": 1
+                          },
+                          "value": null
+                        },
+                        {
+                          "op": "add",
+                          "path": "equipment",
+                          "value": {
+                            "id": "id_1790881110601_rhrc9",
+                            "itemId": "id_1790881073108_8a7ka",
+                            "name": "Тяжёлый молот наследия",
+                            "category": "weapon",
+                            "stats": {
+                              "hp": 0,
+                              "str": 3,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 0,
+                            "extraSlotsName": "Арканное кольцо",
+                            "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
+                            "revealed": true,
+                            "obtained": "",
+                            "log": [],
+                            "quantity": 1
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1790921309551_g7ipx",
+                      "time": "02.10.2026, 09:08",
+                      "text": "Сез.1.5 Сесс.25 | Чушка | Перемещено «Тяжёлый молот наследия»: Экипировка → Оружие в руках",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "replace",
+                          "path": "handWeapon",
+                          "oldValue": null,
+                          "value": {
+                            "id": "id_1790881110601_rhrc9",
+                            "itemId": "id_1790881073108_8a7ka",
+                            "name": "Тяжёлый молот наследия",
+                            "category": "weapon",
+                            "stats": {
+                              "hp": 0,
+                              "str": 3,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 0,
+                            "extraSlotsName": "Арканное кольцо",
+                            "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
+                            "revealed": true,
+                            "obtained": "",
+                            "log": [],
+                            "quantity": 1
+                          }
+                        },
+                        {
+                          "op": "remove",
+                          "path": "equipment",
+                          "id": "id_1790881110601_rhrc9",
+                          "oldValue": {
+                            "id": "id_1790881110601_rhrc9",
+                            "itemId": "id_1790881073108_8a7ka",
+                            "name": "Тяжёлый молот наследия",
+                            "category": "weapon",
+                            "stats": {
+                              "hp": 0,
+                              "str": 3,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 0,
+                            "extraSlotsName": "Арканное кольцо",
+                            "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
+                            "revealed": true,
+                            "obtained": "",
+                            "log": [],
+                            "quantity": 1
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1790922560357_fb6fl",
+                      "time": "02.10.2026, 09:29",
+                      "text": "Сез.1.5 Сесс.25 | Чушка | Доп. слоты: id_1790881175707_g3lqw | Добавлено «\"Расслабляющие\" таблетки»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "add",
+                          "path": "inventory",
+                          "value": {
+                            "id": "id_1790922560357_3zh9o",
                             "itemId": "id_1790914387866_gj5yt",
                             "name": "\"Расслабляющие\" таблетки",
                             "category": "consumable",
@@ -3081,12 +4582,46 @@
                             },
                             "extraSlots": 0,
                             "extraSlotsName": "",
-                            "description": "Со слов Хармака, должны успокаивать.",
+                            "description": "",
                             "hiddenDescription": "Неизвестный предмет",
                             "condition": "",
-                            "revealed": true,
+                            "revealed": false,
                             "obtained": "",
-                            "quantity": 9,
+                            "quantity": 1,
+                            "log": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1790922567647_rdi4u",
+                      "time": "02.10.2026, 09:29",
+                      "text": "Сез.1.5 Сесс.25 | Чушка | Доп. слоты: id_1790881175707_g3lqw | Убрано «\"Расслабляющие\" таблетки»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "remove",
+                          "path": "inventory",
+                          "id": "id_1790922560357_3zh9o",
+                          "oldValue": {
+                            "id": "id_1790922560357_3zh9o",
+                            "itemId": "id_1790914387866_gj5yt",
+                            "name": "\"Расслабляющие\" таблетки",
+                            "category": "consumable",
+                            "stats": {
+                              "hp": 0,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 0,
+                            "extraSlotsName": "",
+                            "description": "",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "",
+                            "revealed": false,
+                            "obtained": "",
+                            "quantity": 1,
                             "log": []
                           }
                         }
@@ -3097,24 +4632,29 @@
               }
             },
             {
-              "id": "id_1790919905730_lgc4w",
-              "time": "02.10.2026, 08:45",
-              "text": "Сез.1.5 Сесс.25 | Чушка | База — «Магический ковёр»"
+              "id": "id_1791219821901_f84r7",
+              "time": "05.10.2026, 20:03",
+              "text": "Сез.1.5 Сесс.26 | Чушка | Сессия: 1.5/25 → 1.5/26"
             },
             {
-              "id": "id_1790919999980_xm76i",
-              "time": "02.10.2026, 08:46",
-              "text": "Сез.1.5 Сесс.25 | Чушка | Доп. слоты: id_1790881175707_g3lqw | Добавлено «Магический ковёр»",
+              "id": "id_1791220544411_vhzmh",
+              "time": "05.10.2026, 20:15",
+              "text": "Сез.1.5 Сесс.26 | Чушка | База — «Декоративная статуэтка»"
+            },
+            {
+              "id": "id_1791220580073_1nkrw",
+              "time": "05.10.2026, 20:16",
+              "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Добавлено «Декоративная статуэтка»",
               "type": "delta",
               "delta": [
                 {
                   "op": "add",
                   "path": "inventory",
                   "value": {
-                    "id": "id_1790919999980_fpt3z",
-                    "itemId": "id_1790919905730_bdc1r",
-                    "name": "Магический ковёр",
-                    "category": "other",
+                    "id": "id_1791220580073_dupds",
+                    "itemId": "id_1791220544411_gkx6x",
+                    "name": "Декоративная статуэтка",
+                    "category": "valuable",
                     "stats": {
                       "hp": 0,
                       "str": 0,
@@ -3125,9 +4665,9 @@
                     "extraSlotsName": "",
                     "description": "",
                     "hiddenDescription": "Неизвестный предмет",
-                    "condition": "Сильно повреждённый",
+                    "condition": "Дорогая",
                     "revealed": true,
-                    "obtained": "\"Добыт\" Решалами в Фортунаре для штурма Министерства.",
+                    "obtained": "Получена от Арии во время тренировки",
                     "quantity": 1,
                     "log": []
                   }
@@ -3135,135 +4675,38 @@
               ]
             },
             {
-              "id": "id_1790921301401_rr09y",
-              "time": "02.10.2026, 09:08",
-              "text": "Сез.1.5 Сесс.25 | Чушка | Перемещено «Тяжёлый молот наследия»: Оружие в руках → Экипировка",
+              "id": "id_1791220587280_a0p2y",
+              "time": "05.10.2026, 20:16",
+              "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Количество «\"Расслабляющие\" таблетки»: 9 → 8",
               "type": "delta",
               "delta": [
                 {
-                  "op": "replace",
-                  "path": "handWeapon",
+                  "op": "update",
+                  "path": "inventory",
+                  "id": "id_1790914421215_ye896",
                   "oldValue": {
-                    "id": "id_1790881110601_rhrc9",
-                    "itemId": "id_1790881073108_8a7ka",
-                    "name": "Тяжёлый молот наследия",
-                    "category": "weapon",
+                    "id": "id_1790914421215_ye896",
+                    "itemId": "id_1790914387866_gj5yt",
+                    "name": "\"Расслабляющие\" таблетки",
+                    "category": "consumable",
                     "stats": {
                       "hp": 0,
-                      "str": 3,
+                      "str": 0,
                       "agi": 0,
                       "int": 0
                     },
                     "extraSlots": 0,
-                    "extraSlotsName": "Арканное кольцо",
-                    "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
+                    "extraSlotsName": "",
+                    "description": "Со слов Хармака, должны успокаивать.",
                     "hiddenDescription": "Неизвестный предмет",
-                    "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
+                    "condition": "",
                     "revealed": true,
                     "obtained": "",
-                    "log": [],
-                    "quantity": 1
+                    "quantity": 9,
+                    "log": []
                   },
-                  "value": null
-                },
-                {
-                  "op": "add",
-                  "path": "equipment",
                   "value": {
-                    "id": "id_1790881110601_rhrc9",
-                    "itemId": "id_1790881073108_8a7ka",
-                    "name": "Тяжёлый молот наследия",
-                    "category": "weapon",
-                    "stats": {
-                      "hp": 0,
-                      "str": 3,
-                      "agi": 0,
-                      "int": 0
-                    },
-                    "extraSlots": 0,
-                    "extraSlotsName": "Арканное кольцо",
-                    "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
-                    "hiddenDescription": "Неизвестный предмет",
-                    "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
-                    "revealed": true,
-                    "obtained": "",
-                    "log": [],
-                    "quantity": 1
-                  }
-                }
-              ]
-            },
-            {
-              "id": "id_1790921309551_g7ipx",
-              "time": "02.10.2026, 09:08",
-              "text": "Сез.1.5 Сесс.25 | Чушка | Перемещено «Тяжёлый молот наследия»: Экипировка → Оружие в руках",
-              "type": "delta",
-              "delta": [
-                {
-                  "op": "replace",
-                  "path": "handWeapon",
-                  "oldValue": null,
-                  "value": {
-                    "id": "id_1790881110601_rhrc9",
-                    "itemId": "id_1790881073108_8a7ka",
-                    "name": "Тяжёлый молот наследия",
-                    "category": "weapon",
-                    "stats": {
-                      "hp": 0,
-                      "str": 3,
-                      "agi": 0,
-                      "int": 0
-                    },
-                    "extraSlots": 0,
-                    "extraSlotsName": "Арканное кольцо",
-                    "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
-                    "hiddenDescription": "Неизвестный предмет",
-                    "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
-                    "revealed": true,
-                    "obtained": "",
-                    "log": [],
-                    "quantity": 1
-                  }
-                },
-                {
-                  "op": "remove",
-                  "path": "equipment",
-                  "id": "id_1790881110601_rhrc9",
-                  "oldValue": {
-                    "id": "id_1790881110601_rhrc9",
-                    "itemId": "id_1790881073108_8a7ka",
-                    "name": "Тяжёлый молот наследия",
-                    "category": "weapon",
-                    "stats": {
-                      "hp": 0,
-                      "str": 3,
-                      "agi": 0,
-                      "int": 0
-                    },
-                    "extraSlots": 0,
-                    "extraSlotsName": "Арканное кольцо",
-                    "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
-                    "hiddenDescription": "Неизвестный предмет",
-                    "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
-                    "revealed": true,
-                    "obtained": "",
-                    "log": [],
-                    "quantity": 1
-                  }
-                }
-              ]
-            },
-            {
-              "id": "id_1790922560357_fb6fl",
-              "time": "02.10.2026, 09:29",
-              "text": "Сез.1.5 Сесс.25 | Чушка | Доп. слоты: id_1790881175707_g3lqw | Добавлено «\"Расслабляющие\" таблетки»",
-              "type": "delta",
-              "delta": [
-                {
-                  "op": "add",
-                  "path": "inventory",
-                  "value": {
-                    "id": "id_1790922560357_3zh9o",
+                    "id": "id_1790914421215_ye896",
                     "itemId": "id_1790914387866_gj5yt",
                     "name": "\"Расслабляющие\" таблетки",
                     "category": "consumable",
@@ -3275,29 +4718,29 @@
                     },
                     "extraSlots": 0,
                     "extraSlotsName": "",
-                    "description": "",
+                    "description": "Со слов Хармака, должны успокаивать.",
                     "hiddenDescription": "Неизвестный предмет",
                     "condition": "",
-                    "revealed": false,
+                    "revealed": true,
                     "obtained": "",
-                    "quantity": 1,
+                    "quantity": 8,
                     "log": []
                   }
                 }
               ]
             },
             {
-              "id": "id_1790922567647_rdi4u",
-              "time": "02.10.2026, 09:29",
-              "text": "Сез.1.5 Сесс.25 | Чушка | Доп. слоты: id_1790881175707_g3lqw | Убрано «\"Расслабляющие\" таблетки»",
+              "id": "id_1791220589749_4x18j",
+              "time": "05.10.2026, 20:16",
+              "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Количество «\"Расслабляющие\" таблетки»: 8 → 7",
               "type": "delta",
               "delta": [
                 {
-                  "op": "remove",
+                  "op": "update",
                   "path": "inventory",
-                  "id": "id_1790922560357_3zh9o",
+                  "id": "id_1790914421215_ye896",
                   "oldValue": {
-                    "id": "id_1790922560357_3zh9o",
+                    "id": "id_1790914421215_ye896",
                     "itemId": "id_1790914387866_gj5yt",
                     "name": "\"Расслабляющие\" таблетки",
                     "category": "consumable",
@@ -3309,11 +4752,142 @@
                     },
                     "extraSlots": 0,
                     "extraSlotsName": "",
+                    "description": "Со слов Хармака, должны успокаивать.",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "",
+                    "revealed": true,
+                    "obtained": "",
+                    "quantity": 8,
+                    "log": []
+                  },
+                  "value": {
+                    "id": "id_1790914421215_ye896",
+                    "itemId": "id_1790914387866_gj5yt",
+                    "name": "\"Расслабляющие\" таблетки",
+                    "category": "consumable",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "",
+                    "description": "Со слов Хармака, должны успокаивать.",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "",
+                    "revealed": true,
+                    "obtained": "",
+                    "quantity": 8,
+                    "log": []
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1791220594461_g4os9",
+              "time": "05.10.2026, 20:16",
+              "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Количество «\"Расслабляющие\" таблетки»: 7 → 8",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "update",
+                  "path": "inventory",
+                  "id": "id_1790914421215_ye896",
+                  "oldValue": {
+                    "id": "id_1790914421215_ye896",
+                    "itemId": "id_1790914387866_gj5yt",
+                    "name": "\"Расслабляющие\" таблетки",
+                    "category": "consumable",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "",
+                    "description": "Со слов Хармака, должны успокаивать.",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "",
+                    "revealed": true,
+                    "obtained": "",
+                    "quantity": 7,
+                    "log": []
+                  },
+                  "value": {
+                    "id": "id_1790914421215_ye896",
+                    "itemId": "id_1790914387866_gj5yt",
+                    "name": "\"Расслабляющие\" таблетки",
+                    "category": "consumable",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "",
+                    "description": "Со слов Хармака, должны успокаивать.",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "",
+                    "revealed": true,
+                    "obtained": "",
+                    "quantity": 8,
+                    "log": []
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1791220614545_gphwk",
+              "time": "05.10.2026, 20:16",
+              "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Правка «Декоративная статуэтка»",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "update",
+                  "path": "inventory",
+                  "id": "id_1791220580073_dupds",
+                  "oldValue": {
+                    "id": "id_1791220580073_dupds",
+                    "itemId": "id_1791220544411_gkx6x",
+                    "name": "Декоративная статуэтка",
+                    "category": "valuable",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "",
                     "description": "",
                     "hiddenDescription": "Неизвестный предмет",
                     "condition": "",
-                    "revealed": false,
-                    "obtained": "",
+                    "revealed": true,
+                    "obtained": "Получена от Арии во время тренировки",
+                    "quantity": 1,
+                    "log": []
+                  },
+                  "value": {
+                    "id": "id_1791220580073_dupds",
+                    "itemId": "id_1791220544411_gkx6x",
+                    "name": "Декоративная статуэтка",
+                    "category": "valuable",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "",
+                    "description": "",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "Дорогая",
+                    "revealed": true,
+                    "obtained": "Получена от Арии во время тренировки",
                     "quantity": 1,
                     "log": []
                   }
@@ -3323,269 +4897,6 @@
           ]
         }
       }
-    },
-    {
-      "id": "id_1791219821901_f84r7",
-      "time": "05.10.2026, 20:03",
-      "text": "Сез.1.5 Сесс.26 | Чушка | Сессия: 1.5/25 → 1.5/26"
-    },
-    {
-      "id": "id_1791220544411_vhzmh",
-      "time": "05.10.2026, 20:15",
-      "text": "Сез.1.5 Сесс.26 | Чушка | База — «Декоративная статуэтка»"
-    },
-    {
-      "id": "id_1791220580073_1nkrw",
-      "time": "05.10.2026, 20:16",
-      "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Добавлено «Декоративная статуэтка»",
-      "type": "delta",
-      "delta": [
-        {
-          "op": "add",
-          "path": "inventory",
-          "value": {
-            "id": "id_1791220580073_dupds",
-            "itemId": "id_1791220544411_gkx6x",
-            "name": "Декоративная статуэтка",
-            "category": "valuable",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 0,
-            "extraSlotsName": "",
-            "description": "",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "Дорогая",
-            "revealed": true,
-            "obtained": "Получена от Арии во время тренировки",
-            "quantity": 1,
-            "log": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "id_1791220587280_a0p2y",
-      "time": "05.10.2026, 20:16",
-      "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Количество «\"Расслабляющие\" таблетки»: 9 → 8",
-      "type": "delta",
-      "delta": [
-        {
-          "op": "update",
-          "path": "inventory",
-          "id": "id_1790914421215_ye896",
-          "oldValue": {
-            "id": "id_1790914421215_ye896",
-            "itemId": "id_1790914387866_gj5yt",
-            "name": "\"Расслабляющие\" таблетки",
-            "category": "consumable",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 0,
-            "extraSlotsName": "",
-            "description": "Со слов Хармака, должны успокаивать.",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "",
-            "revealed": true,
-            "obtained": "",
-            "quantity": 9,
-            "log": []
-          },
-          "value": {
-            "id": "id_1790914421215_ye896",
-            "itemId": "id_1790914387866_gj5yt",
-            "name": "\"Расслабляющие\" таблетки",
-            "category": "consumable",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 0,
-            "extraSlotsName": "",
-            "description": "Со слов Хармака, должны успокаивать.",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "",
-            "revealed": true,
-            "obtained": "",
-            "quantity": 8,
-            "log": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "id_1791220589749_4x18j",
-      "time": "05.10.2026, 20:16",
-      "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Количество «\"Расслабляющие\" таблетки»: 8 → 7",
-      "type": "delta",
-      "delta": [
-        {
-          "op": "update",
-          "path": "inventory",
-          "id": "id_1790914421215_ye896",
-          "oldValue": {
-            "id": "id_1790914421215_ye896",
-            "itemId": "id_1790914387866_gj5yt",
-            "name": "\"Расслабляющие\" таблетки",
-            "category": "consumable",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 0,
-            "extraSlotsName": "",
-            "description": "Со слов Хармака, должны успокаивать.",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "",
-            "revealed": true,
-            "obtained": "",
-            "quantity": 8,
-            "log": []
-          },
-          "value": {
-            "id": "id_1790914421215_ye896",
-            "itemId": "id_1790914387866_gj5yt",
-            "name": "\"Расслабляющие\" таблетки",
-            "category": "consumable",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 0,
-            "extraSlotsName": "",
-            "description": "Со слов Хармака, должны успокаивать.",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "",
-            "revealed": true,
-            "obtained": "",
-            "quantity": 8,
-            "log": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "id_1791220594461_g4os9",
-      "time": "05.10.2026, 20:16",
-      "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Количество «\"Расслабляющие\" таблетки»: 7 → 8",
-      "type": "delta",
-      "delta": [
-        {
-          "op": "update",
-          "path": "inventory",
-          "id": "id_1790914421215_ye896",
-          "oldValue": {
-            "id": "id_1790914421215_ye896",
-            "itemId": "id_1790914387866_gj5yt",
-            "name": "\"Расслабляющие\" таблетки",
-            "category": "consumable",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 0,
-            "extraSlotsName": "",
-            "description": "Со слов Хармака, должны успокаивать.",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "",
-            "revealed": true,
-            "obtained": "",
-            "quantity": 7,
-            "log": []
-          },
-          "value": {
-            "id": "id_1790914421215_ye896",
-            "itemId": "id_1790914387866_gj5yt",
-            "name": "\"Расслабляющие\" таблетки",
-            "category": "consumable",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 0,
-            "extraSlotsName": "",
-            "description": "Со слов Хармака, должны успокаивать.",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "",
-            "revealed": true,
-            "obtained": "",
-            "quantity": 8,
-            "log": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "id_1791220614545_gphwk",
-      "time": "05.10.2026, 20:16",
-      "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Правка «Декоративная статуэтка»",
-      "type": "delta",
-      "delta": [
-        {
-          "op": "update",
-          "path": "inventory",
-          "id": "id_1791220580073_dupds",
-          "oldValue": {
-            "id": "id_1791220580073_dupds",
-            "itemId": "id_1791220544411_gkx6x",
-            "name": "Декоративная статуэтка",
-            "category": "valuable",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 0,
-            "extraSlotsName": "",
-            "description": "",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "",
-            "revealed": true,
-            "obtained": "Получена от Арии во время тренировки",
-            "quantity": 1,
-            "log": []
-          },
-          "value": {
-            "id": "id_1791220580073_dupds",
-            "itemId": "id_1791220544411_gkx6x",
-            "name": "Декоративная статуэтка",
-            "category": "valuable",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 0,
-            "extraSlotsName": "",
-            "description": "",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "Дорогая",
-            "revealed": true,
-            "obtained": "Получена от Арии во время тренировки",
-            "quantity": 1,
-            "log": []
-          }
-        }
-      ]
     }
   ]
 }
