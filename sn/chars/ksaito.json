@@ -1,0 +1,54 @@
+{
+  "id": "ksaito",
+  "name": "Ксайто",
+  "portrait": null,
+  "isCompanion": false,
+  "class": "",
+  "race": "",
+  "personality": "",
+  "background": "",
+  "level": 1,
+  "xp": 0,
+  "levelUpPoints": 0,
+  "neurali": 0,
+  "baseStats": {
+    "hp": 0,
+    "str": 0,
+    "agi": 0,
+    "int": 0
+  },
+  "handWeapon": null,
+  "equipment": [],
+  "inventory": [
+    {
+      "id": "id_1790914421215_ye896",
+      "itemId": "id_1790914387866_gj5yt",
+      "name": "\"Расслабляющие\" таблетки",
+      "category": "consumable",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Со слов Хармака, должны успокаивать.",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": true,
+      "obtained": "",
+      "quantity": 8,
+      "log": []
+    }
+  ],
+  "extraSections": [],
+  "active": [],
+  "passive": [],
+  "quirks": [],
+  "talents": [],
+  "education": [],
+  "trainingsActive": [],
+  "trainingsPlanned": [],
+  "log": []
+}
