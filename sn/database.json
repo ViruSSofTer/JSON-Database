@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T06:29:20.358Z",
+  "updatedAt": "2026-10-05T17:15:44.412Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -35,6 +35,23 @@
       "hiddenDescription": "",
       "condition": "",
       "known": true
+    },
+    {
+      "id": "id_1791220544411_gkx6x",
+      "name": "Декоративная статуэтка",
+      "category": "valuable",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": false
     },
     {
       "id": "id_1790881348665_fm3og",
