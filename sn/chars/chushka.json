@@ -126,27 +126,6 @@
       "quantity": 1
     },
     {
-      "id": "id_1790914421215_ye896",
-      "itemId": "id_1790914387866_gj5yt",
-      "name": "\"Расслабляющие\" таблетки",
-      "category": "consumable",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Со слов Хармака, должны успокаивать.",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 8,
-      "log": []
-    },
-    {
       "id": "id_1791220580073_dupds",
       "itemId": "id_1791220544411_gkx6x",
       "name": "Декоративная статуэтка",
@@ -4897,6 +4876,394 @@
           ]
         }
       }
+    },
+    {
+      "id": "id_1791228024224_lyd4m",
+      "time": "05.10.2026, 22:20",
+      "text": "Сез.1.5 Сесс.26 | Чушка | Передано «\"Расслабляющие\" таблетки» → Ксайто",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "name",
+          "value": "Чушка"
+        },
+        {
+          "op": "replace",
+          "path": "class",
+          "value": "Мастер Аспектов"
+        },
+        {
+          "op": "replace",
+          "path": "race",
+          "value": "Цивельзион"
+        },
+        {
+          "op": "replace",
+          "path": "personality",
+          "value": "Перфекционист"
+        },
+        {
+          "op": "replace",
+          "path": "background",
+          "value": "Амнезиак с загадочным прошлым..."
+        },
+        {
+          "op": "replace",
+          "path": "level",
+          "value": 7
+        },
+        {
+          "op": "replace",
+          "path": "xp",
+          "value": 58
+        },
+        {
+          "op": "replace",
+          "path": "levelUpPoints",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "neurali",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "portrait",
+          "value": null
+        },
+        {
+          "op": "replace",
+          "path": "baseStats",
+          "value": {
+            "hp": 100,
+            "str": 4,
+            "agi": 2,
+            "int": 3
+          }
+        },
+        {
+          "op": "replace",
+          "path": "handWeapon",
+          "value": {
+            "id": "id_1790881110601_rhrc9",
+            "itemId": "id_1790881073108_8a7ka",
+            "name": "Тяжёлый молот наследия",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 3,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Арканное кольцо",
+            "description": "Зачарование \"Воскрешение\" - при падении в бою, возвращает назад в строй с небольшим запасом здоровья. Ослабевает с каждым применением (1).",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Имеет повреждения. Покрыт красными скверными трещинами после битвы против Лариана.",
+            "revealed": true,
+            "obtained": "",
+            "log": [],
+            "quantity": 1
+          }
+        },
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1790879600989_kg3zt",
+            "itemId": "id_1790869762006_1b41n",
+            "name": "Одежда Огненного Чародея",
+            "category": "other",
+            "stats": {
+              "hp": 7,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "Карманы одежды",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Слегка потрёпанная",
+            "revealed": true,
+            "obtained": "",
+            "log": [],
+            "quantity": 1
+          }
+        },
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1790881175707_hfw9v",
+            "itemId": "id_1790864452298_4fe6v",
+            "name": "Арканное кольцо малое",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 10,
+            "extraSlotsName": "Арканное кольцо",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "Выдано братьями-капитанами в дар",
+            "log": [],
+            "quantity": 1
+          }
+        },
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1790881163012_j44ip",
+            "itemId": "id_1790861241524_xerfo",
+            "name": "Фляга Элизабет",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Арканное кольцо",
+            "description": "Простая маленькая фляжка для воды",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Пустая",
+            "revealed": true,
+            "obtained": "",
+            "log": [],
+            "quantity": 1
+          }
+        },
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1790881380165_lcd55",
+            "itemId": "id_1790881348665_fm3og",
+            "name": "Камень призыва элементаля",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Арканное кольцо",
+            "description": "Призывает элементаля желаемой стихии при контакте с этой стихией.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "log": [],
+            "quantity": 1
+          }
+        },
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1791220580073_dupds",
+            "itemId": "id_1791220544411_gkx6x",
+            "name": "Декоративная статуэтка",
+            "category": "valuable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Дорогая",
+            "revealed": true,
+            "obtained": "Получена от Арии во время тренировки",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "add",
+          "path": "active",
+          "value": {
+            "id": "id_1790887424555_auzke",
+            "name": "Замена",
+            "desc": "Преобразование одной стихии в её противоположный аспект.\nВозможные преобразовательные пары: (Огонь-Вода), (Воздух-Молния) (Земля-Камень) (Свет-Тьма).\nКоличество одновременно преобразованных стихий ограничено особым ресурсом.\nЗаменённую стихию можно \"отпустить\", и тогда она вернётся в изначальное состояние. Стихия отпускается сама по себе, если:\n-производится замена, превышающая допустимый лимит - в этом случае, развоплощение происходит в хронологическом порядке (старые первые);\n-мастер находится слишком далеко;\n-стихия растворяется в окружающей среде.",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "log": []
+          }
+        },
+        {
+          "op": "add",
+          "path": "passive",
+          "value": {
+            "id": "id_1790887445178_4rerz",
+            "name": "Сила Аспектов (ур. 2)",
+            "desc": "Находясь в окружении подменённой стихии (в форме лужи), получает дополнительный бонус в 2 ед. ко всем видам бросков.",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "log": []
+          }
+        },
+        {
+          "op": "add",
+          "path": "quirks",
+          "value": {
+            "id": "id_1790887375491_xcy69",
+            "name": "Сила Стихий",
+            "desc": "Возможно одновременно удерживать 2 \"гелиона\"  (инстанции заменённой стихии).",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "log": []
+          }
+        },
+        {
+          "op": "add",
+          "path": "quirks",
+          "value": {
+            "id": "id_1790887401038_ds2ux",
+            "name": "Асоциал",
+            "desc": "Штраф в 3 единицы при совершении социальных действий вроде убеждения, устрашения и т.д.",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "log": []
+          }
+        },
+        {
+          "op": "add",
+          "path": "talents",
+          "value": {
+            "id": "id_1790887485576_qjgy1",
+            "name": "Мастер плавания",
+            "desc": "Отлично умеет плавать.",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "log": []
+          }
+        },
+        {
+          "op": "add",
+          "path": "education",
+          "value": {
+            "id": "id_1790887468028_a5cnr",
+            "name": "Книга \"Аспектная магия, Том 1\"",
+            "desc": "+1 к успеху к действиям базовой аспектной магии (\"Замена\" и \"Манипуляция\");\n+3 стартового прогресса все последующих тренировоки школы Аспектов;",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "log": []
+          }
+        },
+        {
+          "op": "add",
+          "path": "trainingsActive",
+          "value": {
+            "id": "id_1790887516332_30bj0",
+            "name": "Повышение интеллекта (4)",
+            "desc": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "log": []
+          }
+        },
+        {
+          "op": "add",
+          "path": "trainingsPlanned",
+          "value": {
+            "id": "id_1790887536057_icptt",
+            "name": "Поглощение силы",
+            "desc": "Находясь в контакте с заменённой стихией, восстанавливает небольшое количество здоровья пассивно. Стихия при этом имеет шанс рассеяться после поглощения.",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "log": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1790879600989_rn68e",
+            "name": "Карманы одежды",
+            "sourceItemId": "id_1790869762006_1b41n",
+            "capacity": 1,
+            "items": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1790881175707_g3lqw",
+            "name": "Арканное кольцо",
+            "sourceItemId": "id_1790864452298_4fe6v",
+            "capacity": 10,
+            "items": [
+              {
+                "id": "id_1790919999980_fpt3z",
+                "itemId": "id_1790919905730_bdc1r",
+                "name": "Магический ковёр",
+                "category": "other",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "Сильно повреждённый",
+                "revealed": true,
+                "obtained": "\"Добыт\" Решалами в Фортунаре для штурма Министерства.",
+                "quantity": 1,
+                "log": []
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }
