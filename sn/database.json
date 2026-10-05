@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T19:20:46.418Z",
+  "updatedAt": "2026-10-05T19:20:56.189Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -138,28 +138,5 @@
       "known": true
     }
   ],
-  "commonPool": [
-    {
-      "id": "id_1790914421215_ye896",
-      "itemId": "id_1790914387866_gj5yt",
-      "name": "\"Расслабляющие\" таблетки",
-      "category": "consumable",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Со слов Хармака, должны успокаивать.",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 8,
-      "log": [],
-      "extraSections": []
-    }
-  ]
+  "commonPool": []
 }
