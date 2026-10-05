@@ -161,7 +161,7 @@
       "extraSlotsName": "",
       "description": "",
       "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
+      "condition": "Дорогая",
       "revealed": true,
       "obtained": "Получена от Арии во время тренировки",
       "quantity": 1,
@@ -3358,7 +3358,7 @@
             "extraSlotsName": "",
             "description": "",
             "hiddenDescription": "Неизвестный предмет",
-            "condition": "",
+            "condition": "Дорогая",
             "revealed": true,
             "obtained": "Получена от Арии во время тренировки",
             "quantity": 1,
@@ -3527,6 +3527,61 @@
             "revealed": true,
             "obtained": "",
             "quantity": 8,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791220614545_gphwk",
+      "time": "05.10.2026, 20:16",
+      "text": "Сез.1.5 Сесс.26 | Чушка | Инвентарь | Правка «Декоративная статуэтка»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1791220580073_dupds",
+          "oldValue": {
+            "id": "id_1791220580073_dupds",
+            "itemId": "id_1791220544411_gkx6x",
+            "name": "Декоративная статуэтка",
+            "category": "valuable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "Получена от Арии во время тренировки",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791220580073_dupds",
+            "itemId": "id_1791220544411_gkx6x",
+            "name": "Декоративная статуэтка",
+            "category": "valuable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Дорогая",
+            "revealed": true,
+            "obtained": "Получена от Арии во время тренировки",
+            "quantity": 1,
             "log": []
           }
         }
