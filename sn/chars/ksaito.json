@@ -190,27 +190,6 @@
   ],
   "inventory": [
     {
-      "id": "id_1791299457371_wwf8f",
-      "itemId": "id_1791299457371_ud6jo",
-      "name": "Простая винтовка",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 1,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": false,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    },
-    {
       "id": "id_1791299483668_x48qu",
       "itemId": "id_1791299457371_ud6jo",
       "name": "Простая винтовка",
@@ -11019,6 +10998,40 @@
             "hiddenDescription": "Неизвестный предмет",
             "condition": "",
             "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791299625171_1rh9q",
+      "time": "06.10.2026, 18:13",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Инвентарь | Убрано «Простая винтовка»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1791299457371_wwf8f",
+          "oldValue": {
+            "id": "id_1791299457371_wwf8f",
+            "itemId": "id_1791299457371_ud6jo",
+            "name": "Простая винтовка",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 1,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
             "obtained": "",
             "quantity": 1,
             "log": []
