@@ -34,29 +34,7 @@
       "log": []
     }
   ],
-  "inventory": [
-    {
-      "id": "id_1791302007283_xaf4b",
-      "itemId": "id_1791302001189_na8et",
-      "name": "Простая винтовка",
-      "category": "weapon",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 1,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "Карманы одежды",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    }
-  ],
+  "inventory": [],
   "extraSections": [
     {
       "id": "id_1791297947233_kn2ha",
@@ -20895,6 +20873,66 @@
           }
         }
       ]
+    },
+    {
+      "id": "id_1791302103742_v1xb7",
+      "time": "06.10.2026, 18:55",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Инвентарь | Взял в руки «Простая винтовка» (было: ничего)",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "handWeapon",
+          "oldValue": null,
+          "value": {
+            "id": "id_1791302007283_xaf4b",
+            "itemId": "id_1791302001189_na8et",
+            "name": "Простая винтовка",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 1,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Карманы одежды",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1791302007283_xaf4b",
+          "oldValue": {
+            "id": "id_1791302007283_xaf4b",
+            "itemId": "id_1791302001189_na8et",
+            "name": "Простая винтовка",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 1,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Карманы одежды",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
     }
   ],
   "name": "Ксайто",
@@ -20903,5 +20941,25 @@
   "race": "Нефалем",
   "personality": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии",
   "background": "",
-  "handWeapon": null
+  "handWeapon": {
+    "id": "id_1791302007283_xaf4b",
+    "itemId": "id_1791302001189_na8et",
+    "name": "Простая винтовка",
+    "category": "weapon",
+    "stats": {
+      "hp": 0,
+      "str": 0,
+      "agi": 1,
+      "int": 0
+    },
+    "extraSlots": 0,
+    "extraSlotsName": "Карманы одежды",
+    "description": "",
+    "hiddenDescription": "Неизвестный предмет",
+    "condition": "",
+    "revealed": true,
+    "obtained": "",
+    "quantity": 1,
+    "log": []
+  }
 }
