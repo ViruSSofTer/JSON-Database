@@ -18,7 +18,29 @@
     "int": 7
   },
   "handWeapon": null,
-  "equipment": [],
+  "equipment": [
+    {
+      "id": "id_1791296978673_x5ybc",
+      "itemId": "id_1791296942892_0mwbb",
+      "name": "Роба Чёрного Мага",
+      "category": "other",
+      "stats": {
+        "hp": 10,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
+    }
+  ],
   "inventory": [
     {
       "id": "id_1791296942893_bngde",
@@ -481,6 +503,39 @@
           "id": "id_1791296953637_3955f",
           "oldValue": {
             "id": "id_1791296953637_3955f",
+            "itemId": "id_1791296942892_0mwbb",
+            "name": "Роба Чёрного Мага",
+            "category": "other",
+            "stats": {
+              "hp": 10,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791296978673_pfnza",
+      "time": "06.10.2026, 17:29",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Роба Чёрного Мага»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1791296978673_x5ybc",
             "itemId": "id_1791296942892_0mwbb",
             "name": "Роба Чёрного Мага",
             "category": "other",
