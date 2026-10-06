@@ -146,6 +146,27 @@
       "obtained": "",
       "quantity": 1,
       "log": []
+    },
+    {
+      "id": "id_1791297947233_vtnth",
+      "itemId": "id_1791297947233_ieygx",
+      "name": "Наплечный рюкзак",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 3,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
     }
   ],
   "extraSections": [
@@ -167,6 +188,13 @@
       "id": "id_1791297895103_xdgvy",
       "name": "Слоты от «Латексные чёрные перчатки»",
       "sourceItemId": "id_1791297883451_lc8z0",
+      "capacity": 3,
+      "items": []
+    },
+    {
+      "id": "id_1791297947233_kn2ha",
+      "name": "Слоты от «Наплечный рюкзак»",
+      "sourceItemId": "id_1791297947233_ieygx",
       "capacity": 3,
       "items": []
     }
@@ -2443,6 +2471,49 @@
             "id": "id_1791297895103_xdgvy",
             "name": "Слоты от «Латексные чёрные перчатки»",
             "sourceItemId": "id_1791297883451_lc8z0",
+            "capacity": 3,
+            "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791297947233_ivoid",
+      "time": "06.10.2026, 17:45",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Наплечный рюкзак»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1791297947233_vtnth",
+            "itemId": "id_1791297947233_ieygx",
+            "name": "Наплечный рюкзак",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 3,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1791297947233_kn2ha",
+            "name": "Слоты от «Наплечный рюкзак»",
+            "sourceItemId": "id_1791297947233_ieygx",
             "capacity": 3,
             "items": []
           }
