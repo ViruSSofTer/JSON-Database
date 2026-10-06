@@ -20987,6 +20987,40 @@
           }
         }
       ]
+    },
+    {
+      "id": "id_1791302162823_200tj",
+      "time": "06.10.2026, 18:56",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Оружие в руках | Убрано «Простая винтовка»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "handWeapon",
+          "oldValue": {
+            "id": "id_1791302007283_xaf4b",
+            "itemId": "id_1791302001189_na8et",
+            "name": "Простая винтовка",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 1,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Наплечный рюкзак",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": null
+        }
+      ]
     }
   ],
   "name": "Ксайто",
@@ -20995,25 +21029,5 @@
   "race": "Нефалем",
   "personality": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии",
   "background": "",
-  "handWeapon": {
-    "id": "id_1791302007283_xaf4b",
-    "itemId": "id_1791302001189_na8et",
-    "name": "Простая винтовка",
-    "category": "weapon",
-    "stats": {
-      "hp": 0,
-      "str": 0,
-      "agi": 1,
-      "int": 0
-    },
-    "extraSlots": 0,
-    "extraSlotsName": "Наплечный рюкзак",
-    "description": "",
-    "hiddenDescription": "Неизвестный предмет",
-    "condition": "",
-    "revealed": true,
-    "obtained": "",
-    "quantity": 1,
-    "log": []
-  }
+  "handWeapon": null
 }
