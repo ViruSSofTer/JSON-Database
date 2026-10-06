@@ -34,29 +34,7 @@
       "log": []
     }
   ],
-  "inventory": [
-    {
-      "id": "id_1791301640077_6iodl",
-      "itemId": "id_1791301640077_tqti7",
-      "name": "Роба Чёрного Мага",
-      "category": "armor",
-      "stats": {
-        "hp": 10,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 1,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": false,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    }
-  ],
+  "inventory": [],
   "extraSections": [
     {
       "id": "id_1791297947233_kn2ha",
@@ -18171,6 +18149,40 @@
             "sourceItemId": "id_1791301640077_tqti7",
             "capacity": 1,
             "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791301785990_ay1zt",
+      "time": "06.10.2026, 18:49",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Инвентарь | Убрано «Роба Чёрного Мага»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1791301640077_6iodl",
+          "oldValue": {
+            "id": "id_1791301640077_6iodl",
+            "itemId": "id_1791301640077_tqti7",
+            "name": "Роба Чёрного Мага",
+            "category": "armor",
+            "stats": {
+              "hp": 10,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
           }
         }
       ]
