@@ -70,9 +70,9 @@
         "hp": 0,
         "str": 0,
         "agi": 0,
-        "int": 0
+        "int": 4
       },
-      "extraSlots": 3,
+      "extraSlots": 0,
       "extraSlotsName": "Слоты от «Латексные чёрные перчатки»",
       "description": "",
       "hiddenDescription": "Неизвестный предмет",
@@ -1070,9 +1070,9 @@
               "hp": 0,
               "str": 0,
               "agi": 0,
-              "int": 0
+              "int": 4
             },
-            "extraSlots": 3,
+            "extraSlots": 0,
             "extraSlotsName": "Слоты от «Латексные чёрные перчатки»",
             "description": "",
             "hiddenDescription": "Неизвестный предмет",
@@ -6970,6 +6970,61 @@
             "str": 1,
             "agi": 3,
             "int": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791299163636_rqjx5",
+      "time": "06.10.2026, 18:06",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Латексные чёрные перчатки»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791297895103_2xhl8",
+          "oldValue": {
+            "id": "id_1791297895103_2xhl8",
+            "itemId": "id_1791297883451_lc8z0",
+            "name": "Латексные чёрные перчатки",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 3,
+            "extraSlotsName": "Слоты от «Латексные чёрные перчатки»",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791297895103_2xhl8",
+            "itemId": "id_1791297883451_lc8z0",
+            "name": "Латексные чёрные перчатки",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 4
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Слоты от «Латексные чёрные перчатки»",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
           }
         }
       ]
