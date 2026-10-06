@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T15:39:54.524Z",
+  "updatedAt": "2026-10-06T15:40:04.645Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -149,23 +149,6 @@
         "int": 0
       },
       "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "",
-      "condition": "",
-      "known": true
-    },
-    {
-      "id": "id_1791297947233_ieygx",
-      "name": "Наплечный рюкзак",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 3,
       "extraSlotsName": "",
       "description": "",
       "hiddenDescription": "",
