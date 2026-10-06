@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T15:10:57.373Z",
+  "updatedAt": "2026-10-06T15:11:23.670Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -207,6 +207,23 @@
       "known": true
     },
     {
+      "id": "id_1791299457371_ud6jo",
+      "name": "Простая винтовка",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 1,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": true
+    },
+    {
       "id": "id_1791296942892_0mwbb",
       "name": "Роба Чёрного Мага",
       "category": "other",
@@ -264,23 +281,6 @@
         "hp": 0,
         "str": 0,
         "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "",
-      "condition": "",
-      "known": true
-    },
-    {
-      "id": "id_1791299457371_ud6jo",
-      "name": "Простая винтовка",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 1,
         "int": 0
       },
       "extraSlots": 0,
