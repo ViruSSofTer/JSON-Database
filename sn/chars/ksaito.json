@@ -32,6 +32,27 @@
       "obtained": "",
       "quantity": 1,
       "log": []
+    },
+    {
+      "id": "id_1791305467055_nlu9b",
+      "itemId": "id_1791305456930_gz503",
+      "name": "Чёрные резиновые сапоги",
+      "category": "armor",
+      "stats": {
+        "hp": 10,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 1,
+      "extraSlotsName": "Карманы одежды",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": true,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
     }
   ],
   "inventory": [
@@ -126,6 +147,13 @@
     },
     {
       "id": "id_1791305456930_r7zwk",
+      "name": "Карманы одежды",
+      "sourceItemId": "id_1791305456930_gz503",
+      "capacity": 1,
+      "items": []
+    },
+    {
+      "id": "id_1791305467055_bl0fy",
       "name": "Карманы одежды",
       "sourceItemId": "id_1791305456930_gz503",
       "capacity": 1,
@@ -27731,6 +27759,49 @@
           "op": "addSection",
           "value": {
             "id": "id_1791305456930_r7zwk",
+            "name": "Карманы одежды",
+            "sourceItemId": "id_1791305456930_gz503",
+            "capacity": 1,
+            "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791305467055_sn36t",
+      "time": "06.10.2026, 19:51",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Чёрные резиновые сапоги»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1791305467055_nlu9b",
+            "itemId": "id_1791305456930_gz503",
+            "name": "Чёрные резиновые сапоги",
+            "category": "armor",
+            "stats": {
+              "hp": 10,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "Карманы одежды",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1791305467055_bl0fy",
             "name": "Карманы одежды",
             "sourceItemId": "id_1791305456930_gz503",
             "capacity": 1,
