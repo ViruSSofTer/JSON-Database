@@ -96,7 +96,8 @@
       "hiddenDescription": "",
       "condition": "",
       "obtained": "",
-      "revealed": true
+      "revealed": true,
+      "itemId": "id_1791306126426_wh7o4"
     }
   ],
   "inventory": [],
@@ -3965,7 +3966,8 @@
             "hiddenDescription": "",
             "condition": "",
             "obtained": "",
-            "revealed": true
+            "revealed": true,
+            "itemId": "id_1791306126426_wh7o4"
           }
         }
       ]
@@ -39584,6 +39586,62 @@
           "handWeapon": null
         }
       }
+    },
+    {
+      "id": "id_1791306126426_3bj87",
+      "time": "06.10.2026, 20:02",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Предмет «Наплечный рюкзак» добавлен в базу",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791306075866_27fyk",
+          "oldValue": {
+            "id": "id_1791306075866_27fyk",
+            "name": "Наплечный рюкзак",
+            "desc": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": [],
+            "category": "other",
+            "extraSlots": 3,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "",
+            "condition": "",
+            "obtained": "",
+            "revealed": true
+          },
+          "value": {
+            "id": "id_1791306075866_27fyk",
+            "name": "Наплечный рюкзак",
+            "desc": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": [],
+            "category": "other",
+            "extraSlots": 3,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "",
+            "condition": "",
+            "obtained": "",
+            "revealed": true,
+            "itemId": "id_1791306126426_wh7o4"
+          }
+        }
+      ]
     }
   ],
   "name": "Ксайто",
