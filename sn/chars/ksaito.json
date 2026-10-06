@@ -1,193 +1,17 @@
 {
   "id": "ksaito",
-  "name": "Ксайто",
-  "portrait": null,
   "isCompanion": false,
-  "class": "Догма",
-  "race": "Нефалем",
-  "personality": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии",
-  "background": "",
   "level": 1,
   "xp": 0,
   "levelUpPoints": 0,
-  "neurali": 88,
+  "neurali": 0,
   "baseStats": {
-    "hp": 100,
-    "str": 1,
-    "agi": 3,
-    "int": 3
+    "hp": 0,
+    "str": 0,
+    "agi": 0,
+    "int": 0
   },
-  "handWeapon": null,
-  "equipment": [
-    {
-      "id": "id_1791296978673_x5ybc",
-      "itemId": "id_1791296942892_0mwbb",
-      "name": "Роба Чёрного Мага",
-      "category": "other",
-      "stats": {
-        "hp": 10,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 1,
-      "extraSlotsName": "карманы одежды",
-      "description": "",
-      "hiddenDescription": "",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    },
-    {
-      "id": "id_1791297678866_odla2",
-      "itemId": "id_1791297671770_repkh",
-      "name": "Чёрные резиновые сапоги",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    },
-    {
-      "id": "id_1791298046514_ypl3w",
-      "itemId": "id_1791297947233_ieygx",
-      "name": "Наплечный рюкзак",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 3,
-      "extraSlotsName": "Наплечный рюкзак",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    },
-    {
-      "id": "id_1791298172329_zdg01",
-      "itemId": "id_1791298161206_eza2j",
-      "name": "Железный щит-обломок",
-      "category": "other",
-      "stats": {
-        "hp": 2,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "Слоты от «Наплечный рюкзак»",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    },
-    {
-      "id": "id_1791299060186_6pd2m",
-      "itemId": "id_1791299050277_vi3xr",
-      "name": "Мешочек с арканным пространством",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "Слоты от «Наплечный рюкзак»",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    },
-    {
-      "id": "id_1791299111062_uzfoa",
-      "itemId": "id_1791299094860_83bv1",
-      "name": "Кулон защиты",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "Слоты от «Наплечный рюкзак»",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    },
-    {
-      "id": "id_1791299245267_tyekl",
-      "itemId": "id_1791299235713_e0qd2",
-      "name": "Манатитовый крест",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "Слоты от «Наплечный рюкзак»",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    },
-    {
-      "id": "id_1791299893731_zts3t",
-      "itemId": "id_1791297883451_lc8z0",
-      "name": "Латексные чёрные перчатки",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 4
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    }
-  ],
+  "equipment": [],
   "inventory": [
     {
       "id": "id_1791300574708_d4pjm",
@@ -211,22 +35,7 @@
       "log": []
     }
   ],
-  "extraSections": [
-    {
-      "id": "id_1791297348663_itjao",
-      "name": "Слоты от «Роба Чёрного Мага»",
-      "sourceItemId": "id_1791296978673_x5ybc",
-      "capacity": 1,
-      "items": []
-    },
-    {
-      "id": "id_1791298046514_mqv5l",
-      "name": "Слоты от «Наплечный рюкзак»",
-      "sourceItemId": "id_1791297947233_ieygx",
-      "capacity": 3,
-      "items": []
-    }
-  ],
+  "extraSections": [],
   "active": [],
   "passive": [],
   "quirks": [],
