@@ -186,27 +186,6 @@
       "obtained": "",
       "quantity": 1,
       "log": []
-    },
-    {
-      "id": "id_1791299893731_zts3t",
-      "itemId": "id_1791297883451_lc8z0",
-      "name": "Латексные чёрные перчатки",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
     }
   ],
   "inventory": [],
@@ -13320,6 +13299,40 @@
             "log": []
           },
           "value": {
+            "id": "id_1791299893731_zts3t",
+            "itemId": "id_1791297883451_lc8z0",
+            "name": "Латексные чёрные перчатки",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791299923896_o8oaz",
+      "time": "06.10.2026, 18:18",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Латексные чёрные перчатки»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "equipment",
+          "id": "id_1791299893731_zts3t",
+          "oldValue": {
             "id": "id_1791299893731_zts3t",
             "itemId": "id_1791297883451_lc8z0",
             "name": "Латексные чёрные перчатки",
