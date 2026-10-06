@@ -209,27 +209,6 @@
       "obtained": "",
       "quantity": 1,
       "log": []
-    },
-    {
-      "id": "id_1791299050277_dukyg",
-      "itemId": "id_1791299050277_vi3xr",
-      "name": "Мешочек с арканным пространством",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": false,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
     }
   ],
   "extraSections": [
@@ -8934,6 +8913,40 @@
             "id": "id_1791299094860_tfgxt",
             "itemId": "id_1791299094860_83bv1",
             "name": "Кулон защиты",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791299284334_dnb9y",
+      "time": "06.10.2026, 18:08",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Мешочек с арканным пространством»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1791299050277_dukyg",
+          "oldValue": {
+            "id": "id_1791299050277_dukyg",
+            "itemId": "id_1791299050277_vi3xr",
+            "name": "Мешочек с арканным пространством",
             "category": "other",
             "stats": {
               "hp": 0,
