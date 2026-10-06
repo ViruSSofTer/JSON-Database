@@ -32,27 +32,6 @@
       "obtained": "",
       "quantity": 1,
       "log": []
-    },
-    {
-      "id": "id_1791305467055_nlu9b",
-      "itemId": "id_1791305456930_gz503",
-      "name": "Чёрные резиновые сапоги",
-      "category": "armor",
-      "stats": {
-        "hp": 10,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 1,
-      "extraSlotsName": "Карманы одежды",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
     }
   ],
   "inventory": [
@@ -27806,6 +27785,40 @@
             "sourceItemId": "id_1791305456930_gz503",
             "capacity": 1,
             "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791305524817_8xuvr",
+      "time": "06.10.2026, 19:52",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Убрано «Чёрные резиновые сапоги»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "equipment",
+          "id": "id_1791305467055_nlu9b",
+          "oldValue": {
+            "id": "id_1791305467055_nlu9b",
+            "itemId": "id_1791305456930_gz503",
+            "name": "Чёрные резиновые сапоги",
+            "category": "armor",
+            "stats": {
+              "hp": 10,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "Карманы одежды",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
           }
         }
       ]
