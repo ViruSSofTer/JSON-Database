@@ -104,7 +104,29 @@
       "log": []
     }
   ],
-  "inventory": [],
+  "inventory": [
+    {
+      "id": "id_1791298161206_t8yz5",
+      "itemId": "id_1791298161206_eza2j",
+      "name": "Железный щит-обломок",
+      "category": "other",
+      "stats": {
+        "hp": 2,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
+    }
+  ],
   "extraSections": [
     {
       "id": "id_1791297348663_itjao",
@@ -5087,6 +5109,39 @@
             "category": "other",
             "stats": {
               "hp": 10,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791298161206_qjkd0",
+      "time": "06.10.2026, 17:49",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Железный щит-обломок»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1791298161206_t8yz5",
+            "itemId": "id_1791298161206_eza2j",
+            "name": "Железный щит-обломок",
+            "category": "other",
+            "stats": {
+              "hp": 2,
               "str": 0,
               "agi": 0,
               "int": 0
