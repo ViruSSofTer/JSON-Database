@@ -19,7 +19,29 @@
   },
   "handWeapon": null,
   "equipment": [],
-  "inventory": [],
+  "inventory": [
+    {
+      "id": "id_1791296942893_bngde",
+      "itemId": "id_1791296942892_0mwbb",
+      "name": "Роба Чёрного Мага",
+      "category": "other",
+      "stats": {
+        "hp": 10,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
+    }
+  ],
   "extraSections": [],
   "active": [],
   "passive": [],
@@ -189,6 +211,230 @@
           "value": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии"
         }
       ]
+    },
+    {
+      "id": "id_1791296942893_l5k2o",
+      "time": "06.10.2026, 17:29",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Роба Чёрного Мага»",
+      "type": "full",
+      "snapshot": {
+        "charData": {
+          "id": "ksaito",
+          "name": "Ксайто",
+          "portrait": null,
+          "isCompanion": false,
+          "class": "Догма",
+          "race": "Нефалем",
+          "personality": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии",
+          "background": "",
+          "level": 1,
+          "xp": 0,
+          "levelUpPoints": 0,
+          "neurali": 88,
+          "baseStats": {
+            "hp": 112,
+            "str": 1,
+            "agi": 3,
+            "int": 7
+          },
+          "handWeapon": null,
+          "equipment": [],
+          "inventory": [
+            {
+              "id": "id_1791296942893_bngde",
+              "itemId": "id_1791296942892_0mwbb",
+              "name": "Роба Чёрного Мага",
+              "category": "other",
+              "stats": {
+                "hp": 10,
+                "str": 0,
+                "agi": 0,
+                "int": 0
+              },
+              "extraSlots": 0,
+              "extraSlotsName": "",
+              "description": "",
+              "hiddenDescription": "Неизвестный предмет",
+              "condition": "",
+              "revealed": false,
+              "obtained": "",
+              "quantity": 1,
+              "log": []
+            }
+          ],
+          "extraSections": [],
+          "active": [],
+          "passive": [],
+          "quirks": [],
+          "talents": [],
+          "education": [],
+          "trainingsActive": [],
+          "trainingsPlanned": [],
+          "log": [
+            {
+              "id": "id_1791228045021_l3xll",
+              "time": "05.10.2026, 22:20",
+              "text": "Сез.1.5 Сесс.26 | Ксайто | Отправлено «\"Расслабляющие\" таблетки» в общак",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "replace",
+                  "path": "name",
+                  "value": "Ксайто"
+                },
+                {
+                  "op": "replace",
+                  "path": "class",
+                  "value": ""
+                },
+                {
+                  "op": "replace",
+                  "path": "race",
+                  "value": ""
+                },
+                {
+                  "op": "replace",
+                  "path": "personality",
+                  "value": ""
+                },
+                {
+                  "op": "replace",
+                  "path": "background",
+                  "value": ""
+                },
+                {
+                  "op": "replace",
+                  "path": "level",
+                  "value": 1
+                },
+                {
+                  "op": "replace",
+                  "path": "xp",
+                  "value": 0
+                },
+                {
+                  "op": "replace",
+                  "path": "levelUpPoints",
+                  "value": 0
+                },
+                {
+                  "op": "replace",
+                  "path": "neurali",
+                  "value": 0
+                },
+                {
+                  "op": "replace",
+                  "path": "portrait",
+                  "value": null
+                },
+                {
+                  "op": "replace",
+                  "path": "baseStats",
+                  "value": {
+                    "hp": 0,
+                    "str": 0,
+                    "agi": 0,
+                    "int": 0
+                  }
+                },
+                {
+                  "op": "replace",
+                  "path": "handWeapon",
+                  "value": null
+                }
+              ]
+            },
+            {
+              "id": "id_1791296034261_kbkax",
+              "time": "06.10.2026, 17:13",
+              "text": "Сез.1.5 Сесс.26 | Ксайто | Неврали: 0 → 88",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "replace",
+                  "path": "neurali",
+                  "oldValue": 0,
+                  "value": 88
+                }
+              ]
+            },
+            {
+              "id": "id_1791296097059_rgut3",
+              "time": "06.10.2026, 17:14",
+              "text": "Сез.1.5 Сесс.26 | Ксайто | Базовые статы: ХП:0 Сил:0 Лов:0 Инт:0 → ХП:100 Сил:1 Лов:3 Инт:3",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "replace",
+                  "path": "baseStats",
+                  "oldValue": {
+                    "hp": 0,
+                    "str": 0,
+                    "agi": 0,
+                    "int": 0
+                  },
+                  "value": {
+                    "hp": 100,
+                    "str": 1,
+                    "agi": 3,
+                    "int": 3
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1791296262072_8ywgp",
+              "time": "06.10.2026, 17:17",
+              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Базовые статы: ХП:100 Сил:1 Лов:3 Инт:3 → ХП:112 Сил:1 Лов:3 Инт:7",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "replace",
+                  "path": "baseStats",
+                  "oldValue": {
+                    "hp": 100,
+                    "str": 1,
+                    "agi": 3,
+                    "int": 3
+                  },
+                  "value": {
+                    "hp": 112,
+                    "str": 1,
+                    "agi": 3,
+                    "int": 7
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1791296891391_ibd91",
+              "time": "06.10.2026, 17:28",
+              "text": "Сез.1.5 Сесс.26 | Ксайто | Основное",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "replace",
+                  "path": "class",
+                  "oldValue": "",
+                  "value": "Догма"
+                },
+                {
+                  "op": "replace",
+                  "path": "race",
+                  "oldValue": "",
+                  "value": "Нефалем"
+                },
+                {
+                  "op": "replace",
+                  "path": "personality",
+                  "oldValue": "",
+                  "value": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии"
+                }
+              ]
+            }
+          ]
+        }
+      }
     }
   ]
 }
