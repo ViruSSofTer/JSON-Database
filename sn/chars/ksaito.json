@@ -73,7 +73,7 @@
         "int": 0
       },
       "extraSlots": 3,
-      "extraSlotsName": "",
+      "extraSlotsName": "Наплечный рюкзак",
       "description": "",
       "hiddenDescription": "Неизвестный предмет",
       "condition": "",
@@ -15635,6 +15635,61 @@
             },
             "extraSlots": 0,
             "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791300327625_79s5c",
+      "time": "06.10.2026, 18:25",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Наплечный рюкзак»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791298046514_ypl3w",
+          "oldValue": {
+            "id": "id_1791298046514_ypl3w",
+            "itemId": "id_1791297947233_ieygx",
+            "name": "Наплечный рюкзак",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 3,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791298046514_ypl3w",
+            "itemId": "id_1791297947233_ieygx",
+            "name": "Наплечный рюкзак",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 3,
+            "extraSlotsName": "Наплечный рюкзак",
             "description": "",
             "hiddenDescription": "Неизвестный предмет",
             "condition": "",
