@@ -88,7 +88,15 @@
         "int": 0
       },
       "quantity": 1,
-      "log": []
+      "log": [],
+      "category": "other",
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "obtained": "",
+      "revealed": true
     }
   ],
   "inventory": [],
@@ -39576,7 +39584,15 @@
               "int": 0
             },
             "quantity": 1,
-            "log": []
+            "log": [],
+            "category": "other",
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "",
+            "condition": "",
+            "obtained": "",
+            "revealed": true
           }
         }
       ]
@@ -39603,6 +39619,53 @@
             },
             "quantity": 1,
             "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791307258570_260gn",
+      "time": "06.10.2026, 20:20",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Наплечный рюкзак»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791307240819_1hg5d",
+          "oldValue": {
+            "id": "id_1791307240819_1hg5d",
+            "name": "Наплечный рюкзак",
+            "desc": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791307240819_1hg5d",
+            "name": "Наплечный рюкзак",
+            "desc": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": [],
+            "category": "other",
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "",
+            "condition": "",
+            "obtained": "",
+            "revealed": true
           }
         }
       ]
