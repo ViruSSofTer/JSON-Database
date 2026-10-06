@@ -52,7 +52,8 @@
       "hiddenDescription": "",
       "condition": "",
       "obtained": "",
-      "revealed": true
+      "revealed": true,
+      "itemId": "id_1791305930552_8uh7e"
     }
   ],
   "inventory": [],
@@ -31500,7 +31501,64 @@
             "hiddenDescription": "",
             "condition": "",
             "obtained": "",
+            "revealed": true,
+            "itemId": "id_1791305930552_8uh7e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791305930552_ec09d",
+      "time": "06.10.2026, 19:58",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Предмет «Чёрные резиновые сапоги» добавлен в базу",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791305899615_wgnsk",
+          "oldValue": {
+            "id": "id_1791305899615_wgnsk",
+            "name": "Чёрные резиновые сапоги",
+            "desc": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": [],
+            "category": "armor",
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "",
+            "condition": "",
+            "obtained": "",
             "revealed": true
+          },
+          "value": {
+            "id": "id_1791305899615_wgnsk",
+            "name": "Чёрные резиновые сапоги",
+            "desc": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": [],
+            "category": "armor",
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "",
+            "condition": "",
+            "obtained": "",
+            "revealed": true,
+            "itemId": "id_1791305930552_8uh7e"
           }
         }
       ]
