@@ -211,27 +211,6 @@
       "log": []
     },
     {
-      "id": "id_1791299464997_vk4pc",
-      "itemId": "id_1791299457371_ud6jo",
-      "name": "Простая винтовка",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 1,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    },
-    {
       "id": "id_1791299483668_x48qu",
       "itemId": "id_1791299457371_ud6jo",
       "name": "Простая винтовка",
@@ -10991,6 +10970,40 @@
           "path": "inventory",
           "value": {
             "id": "id_1791299483668_x48qu",
+            "itemId": "id_1791299457371_ud6jo",
+            "name": "Простая винтовка",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 1,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791299606858_3wn9h",
+      "time": "06.10.2026, 18:13",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Доп. слоты: id_1791297883451_4myli | Убрано «Простая винтовка»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1791299464997_vk4pc",
+          "oldValue": {
+            "id": "id_1791299464997_vk4pc",
             "itemId": "id_1791299457371_ud6jo",
             "name": "Простая винтовка",
             "category": "other",
