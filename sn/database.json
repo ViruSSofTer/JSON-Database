@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T19:20:56.189Z",
+  "updatedAt": "2026-10-06T14:29:02.894Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -135,6 +135,23 @@
       "description": "Простая маленькая фляжка для воды",
       "hiddenDescription": "",
       "condition": "Пустая",
+      "known": true
+    },
+    {
+      "id": "id_1791296942892_0mwbb",
+      "name": "Роба Чёрного Мага",
+      "category": "other",
+      "stats": {
+        "hp": 10,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
       "known": true
     }
   ],
