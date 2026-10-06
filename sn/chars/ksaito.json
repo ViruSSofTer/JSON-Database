@@ -33,7 +33,7 @@
       "extraSlots": 0,
       "extraSlotsName": "",
       "description": "",
-      "hiddenDescription": "Неизвестный предмет",
+      "hiddenDescription": "Роба Чёрного Мага",
       "condition": "",
       "revealed": false,
       "obtained": "",
@@ -548,7 +548,62 @@
             "extraSlots": 0,
             "extraSlotsName": "",
             "description": "",
+            "hiddenDescription": "Роба Чёрного Мага",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791297023436_eabfq",
+      "time": "06.10.2026, 17:30",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791296978673_x5ybc",
+          "oldValue": {
+            "id": "id_1791296978673_x5ybc",
+            "itemId": "id_1791296942892_0mwbb",
+            "name": "Роба Чёрного Мага",
+            "category": "other",
+            "stats": {
+              "hp": 10,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
             "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791296978673_x5ybc",
+            "itemId": "id_1791296942892_0mwbb",
+            "name": "Роба Чёрного Мага",
+            "category": "other",
+            "stats": {
+              "hp": 10,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Роба Чёрного Мага",
             "condition": "",
             "revealed": false,
             "obtained": "",
