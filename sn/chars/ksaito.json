@@ -63,6 +63,19 @@
           "condition": "",
           "obtained": "",
           "revealed": true
+        },
+        {
+          "id": "id_1791302739071_9ijm3",
+          "name": "Скрытый клинок лидера Чудил",
+          "desc": "",
+          "stats": {
+            "hp": 0,
+            "str": 0,
+            "agi": 0,
+            "int": 0
+          },
+          "quantity": 1,
+          "log": []
         }
       ]
     },
@@ -23903,6 +23916,19 @@
                 "condition": "",
                 "obtained": "",
                 "revealed": true
+              },
+              {
+                "id": "id_1791302739071_9ijm3",
+                "name": "Скрытый клинок лидера Чудил",
+                "desc": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "quantity": 1,
+                "log": []
               }
             ]
           }
@@ -23967,6 +23993,104 @@
                 "condition": "",
                 "obtained": "",
                 "revealed": true
+              },
+              {
+                "id": "id_1791302739071_9ijm3",
+                "name": "Скрытый клинок лидера Чудил",
+                "desc": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "quantity": 1,
+                "log": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791302739071_u4xjs",
+      "time": "06.10.2026, 19:05",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Доп. слоты: id_1791297947233_kn2ha | Добавлено «Скрытый клинок лидера Чудил»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "updateSection",
+          "id": "id_1791297947233_kn2ha",
+          "oldValue": {
+            "id": "id_1791297947233_kn2ha",
+            "name": "Слоты от «Наплечный рюкзак»",
+            "sourceItemId": "id_1791297947233_ieygx",
+            "capacity": 3,
+            "items": [
+              {
+                "id": "id_1791302575704_shv1z",
+                "name": "Простая винтовка",
+                "desc": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 1,
+                  "int": 0
+                },
+                "quantity": 1,
+                "log": [],
+                "itemId": "id_1791302592022_sugiw",
+                "category": "other",
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "",
+                "hiddenDescription": "",
+                "condition": "",
+                "obtained": "",
+                "revealed": true
+              }
+            ]
+          },
+          "value": {
+            "id": "id_1791297947233_kn2ha",
+            "name": "Слоты от «Наплечный рюкзак»",
+            "sourceItemId": "id_1791297947233_ieygx",
+            "capacity": 3,
+            "items": [
+              {
+                "id": "id_1791302575704_shv1z",
+                "name": "Простая винтовка",
+                "desc": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 1,
+                  "int": 0
+                },
+                "quantity": 1,
+                "log": [],
+                "itemId": "id_1791302592022_sugiw",
+                "category": "other",
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "",
+                "hiddenDescription": "",
+                "condition": "",
+                "obtained": "",
+                "revealed": true
+              },
+              {
+                "id": "id_1791302739071_9ijm3",
+                "name": "Скрытый клинок лидера Чудил",
+                "desc": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "quantity": 1,
+                "log": []
               }
             ]
           }
