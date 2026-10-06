@@ -35,7 +35,7 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -341,7 +341,7 @@
             "description": "",
             "hiddenDescription": "",
             "condition": "",
-            "revealed": false,
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
@@ -396,7 +396,7 @@
             "description": "",
             "hiddenDescription": "",
             "condition": "",
-            "revealed": false,
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
@@ -451,7 +451,7 @@
             "description": "",
             "hiddenDescription": "",
             "condition": "",
-            "revealed": false,
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
@@ -1186,7 +1186,7 @@
             "description": "",
             "hiddenDescription": "",
             "condition": "",
-            "revealed": false,
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
@@ -1251,7 +1251,7 @@
             "description": "",
             "hiddenDescription": "",
             "condition": "",
-            "revealed": false,
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
@@ -1311,7 +1311,62 @@
             "description": "",
             "hiddenDescription": "",
             "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791297559244_134ic",
+      "time": "06.10.2026, 17:39",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Раскрыт «Роба Чёрного Мага»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791296978673_x5ybc",
+          "oldValue": {
+            "id": "id_1791296978673_x5ybc",
+            "itemId": "id_1791296942892_0mwbb",
+            "name": "Роба Чёрного Мага",
+            "category": "other",
+            "stats": {
+              "hp": 10,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "карманы одежды",
+            "description": "",
+            "hiddenDescription": "",
+            "condition": "",
             "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791296978673_x5ybc",
+            "itemId": "id_1791296942892_0mwbb",
+            "name": "Роба Чёрного Мага",
+            "category": "other",
+            "stats": {
+              "hp": 10,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "карманы одежды",
+            "description": "",
+            "hiddenDescription": "",
+            "condition": "",
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
