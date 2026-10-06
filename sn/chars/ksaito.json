@@ -34,29 +34,7 @@
       "log": []
     }
   ],
-  "inventory": [
-    {
-      "id": "id_1791305456930_flfic",
-      "itemId": "id_1791305456930_gz503",
-      "name": "Чёрные резиновые сапоги",
-      "category": "armor",
-      "stats": {
-        "hp": 10,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 1,
-      "extraSlotsName": "Карманы одежды",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": false,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    }
-  ],
+  "inventory": [],
   "extraSections": [
     {
       "id": "id_1791297947233_kn2ha",
@@ -121,13 +99,6 @@
       "id": "id_1791301666532_yxmfk",
       "name": "Карманы одежды",
       "sourceItemId": "id_1791301640077_tqti7",
-      "capacity": 1,
-      "items": []
-    },
-    {
-      "id": "id_1791305456930_r7zwk",
-      "name": "Карманы одежды",
-      "sourceItemId": "id_1791305456930_gz503",
       "capacity": 1,
       "items": []
     }
