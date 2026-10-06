@@ -11,7 +11,29 @@
     "agi": 3,
     "int": 3
   },
-  "equipment": [],
+  "equipment": [
+    {
+      "id": "id_1791301666532_u3k50",
+      "itemId": "id_1791301640077_tqti7",
+      "name": "Роба Чёрного Мага",
+      "category": "armor",
+      "stats": {
+        "hp": 10,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 1,
+      "extraSlotsName": "Карманы одежды",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": true,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
+    }
+  ],
   "inventory": [
     {
       "id": "id_1791301640077_6iodl",
@@ -67,6 +89,13 @@
     {
       "id": "id_1791301640077_oojx5",
       "name": "Слоты от «Роба Чёрного Мага»",
+      "sourceItemId": "id_1791301640077_tqti7",
+      "capacity": 1,
+      "items": []
+    },
+    {
+      "id": "id_1791301666532_yxmfk",
+      "name": "Карманы одежды",
       "sourceItemId": "id_1791301640077_tqti7",
       "capacity": 1,
       "items": []
@@ -18096,6 +18125,49 @@
           "value": {
             "id": "id_1791301640077_oojx5",
             "name": "Слоты от «Роба Чёрного Мага»",
+            "sourceItemId": "id_1791301640077_tqti7",
+            "capacity": 1,
+            "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791301666532_cwh52",
+      "time": "06.10.2026, 18:47",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Роба Чёрного Мага»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1791301666532_u3k50",
+            "itemId": "id_1791301640077_tqti7",
+            "name": "Роба Чёрного Мага",
+            "category": "armor",
+            "stats": {
+              "hp": 10,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "Карманы одежды",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1791301666532_yxmfk",
+            "name": "Карманы одежды",
             "sourceItemId": "id_1791301640077_tqti7",
             "capacity": 1,
             "items": []
