@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T15:04:20.188Z",
+  "updatedAt": "2026-10-06T15:04:54.862Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -225,6 +225,23 @@
     {
       "id": "id_1791297671770_repkh",
       "name": "Чёрные резиновые сапоги",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1791299094860_83bv1",
+      "name": "Кулон защиты",
       "category": "other",
       "stats": {
         "hp": 0,
