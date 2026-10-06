@@ -81,13 +81,6 @@
   "inventory": [],
   "extraSections": [
     {
-      "id": "id_1791297947233_kn2ha",
-      "name": "Слоты от «Наплечный рюкзак»",
-      "sourceItemId": "id_1791297947233_ieygx",
-      "capacity": 3,
-      "items": []
-    },
-    {
       "id": "id_1791305843387_zxy8x",
       "name": "Карманы одежды",
       "sourceItemId": "id_1791301640077_tqti7",
