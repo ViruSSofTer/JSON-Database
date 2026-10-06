@@ -165,6 +165,27 @@
       "obtained": "",
       "quantity": 1,
       "log": []
+    },
+    {
+      "id": "id_1791299893731_zts3t",
+      "itemId": "id_1791297883451_lc8z0",
+      "name": "Латексные чёрные перчатки",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": true,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
     }
   ],
   "inventory": [],
