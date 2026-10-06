@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T16:05:54.924Z",
+  "updatedAt": "2026-10-06T16:10:14.590Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -122,23 +122,6 @@
       "known": true
     },
     {
-      "id": "id_1791302592022_sugiw",
-      "name": "Простая винтовка",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 1,
-        "int": 0
-      },
-      "description": "",
-      "hiddenDescription": "",
-      "condition": "",
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "known": true
-    },
-    {
       "id": "id_1791301640077_tqti7",
       "name": "Роба Чёрного Мага",
       "category": "armor",
@@ -153,6 +136,23 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1791302754923_h8fuu",
+      "name": "Скрытый клинок лидера Чудил",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "extraSlots": 0,
+      "extraSlotsName": "",
       "known": true
     },
     {
@@ -186,23 +186,6 @@
       "description": "Простая маленькая фляжка для воды",
       "hiddenDescription": "",
       "condition": "Пустая",
-      "known": true
-    },
-    {
-      "id": "id_1791302754923_h8fuu",
-      "name": "Скрытый клинок лидера Чудил",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "description": "",
-      "hiddenDescription": "",
-      "condition": "",
-      "extraSlots": 0,
-      "extraSlotsName": "",
       "known": true
     }
   ],
