@@ -81,27 +81,6 @@
       "obtained": "",
       "quantity": 1,
       "log": []
-    },
-    {
-      "id": "id_1791297988510_h1g7m",
-      "itemId": "id_1791297947233_ieygx",
-      "name": "Наплечный рюкзак",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 3,
-      "extraSlotsName": "Слоты от «Наплечный рюкзак»",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
     }
   ],
   "inventory": [
@@ -3726,6 +3705,40 @@
             "sourceItemId": "id_1791297947233_ieygx",
             "capacity": 3,
             "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791298032782_1h7hf",
+      "time": "06.10.2026, 17:47",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Наплечный рюкзак»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "equipment",
+          "id": "id_1791297988510_h1g7m",
+          "oldValue": {
+            "id": "id_1791297988510_h1g7m",
+            "itemId": "id_1791297947233_ieygx",
+            "name": "Наплечный рюкзак",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 3,
+            "extraSlotsName": "Слоты от «Наплечный рюкзак»",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
           }
         }
       ]
