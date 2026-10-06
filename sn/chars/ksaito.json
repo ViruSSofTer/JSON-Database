@@ -62,6 +62,27 @@
       "obtained": "",
       "quantity": 1,
       "log": []
+    },
+    {
+      "id": "id_1791297671770_jx4g7",
+      "itemId": "id_1791297671770_repkh",
+      "name": "Чёрные резиновые сапоги",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
     }
   ],
   "extraSections": [
@@ -1378,6 +1399,39 @@
       "id": "id_1791297567958_jvexo",
       "time": "06.10.2026, 17:39",
       "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»"
+    },
+    {
+      "id": "id_1791297671770_o4r1l",
+      "time": "06.10.2026, 17:41",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Чёрные резиновые сапоги»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1791297671770_jx4g7",
+            "itemId": "id_1791297671770_repkh",
+            "name": "Чёрные резиновые сапоги",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
     }
   ]
 }
