@@ -54,6 +54,19 @@
       "obtained": "",
       "revealed": true,
       "itemId": "id_1791305930552_8uh7e"
+    },
+    {
+      "id": "id_1791305989897_kzcm9",
+      "name": "Латексные чёрные перчатки",
+      "desc": "",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 4
+      },
+      "quantity": 1,
+      "log": []
     }
   ],
   "inventory": [],
@@ -31559,6 +31572,31 @@
             "obtained": "",
             "revealed": true,
             "itemId": "id_1791305930552_8uh7e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791305989897_opbgf",
+      "time": "06.10.2026, 19:59",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Латексные чёрные перчатки»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1791305989897_kzcm9",
+            "name": "Латексные чёрные перчатки",
+            "desc": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 4
+            },
+            "quantity": 1,
+            "log": []
           }
         }
       ]
