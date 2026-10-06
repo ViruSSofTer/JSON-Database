@@ -205,7 +205,7 @@
       "description": "",
       "hiddenDescription": "Неизвестный предмет",
       "condition": "",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -15734,7 +15734,62 @@
             "description": "",
             "hiddenDescription": "Неизвестный предмет",
             "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791300542105_6le6m",
+      "time": "06.10.2026, 18:29",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Доп. слоты: id_1791298046514_mqv5l | Раскрыт «Простая винтовка»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1791300508977_cnp7h",
+          "oldValue": {
+            "id": "id_1791300508977_cnp7h",
+            "itemId": "id_1791299457371_ud6jo",
+            "name": "Простая винтовка",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 1,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
             "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791300508977_cnp7h",
+            "itemId": "id_1791299457371_ud6jo",
+            "name": "Простая винтовка",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 1,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
