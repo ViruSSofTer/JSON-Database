@@ -23,17 +23,17 @@
       "id": "id_1791296978673_x5ybc",
       "itemId": "id_1791296942892_0mwbb",
       "name": "Роба Чёрного Мага",
-      "category": "other",
+      "category": "armor",
       "stats": {
         "hp": 0,
         "str": 0,
         "agi": 0,
         "int": 0
       },
-      "extraSlots": 0,
+      "extraSlots": 1,
       "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+      "description": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+      "hiddenDescription": "",
       "condition": "",
       "revealed": false,
       "obtained": "",
@@ -64,7 +64,15 @@
       "log": []
     }
   ],
-  "extraSections": [],
+  "extraSections": [
+    {
+      "id": "id_1791297348663_itjao",
+      "name": "Слоты от «Роба Чёрного Мага»",
+      "sourceItemId": "id_1791296978673_x5ybc",
+      "capacity": 1,
+      "items": []
+    }
+  ],
   "active": [],
   "passive": [],
   "quirks": [],
@@ -321,17 +329,17 @@
             "id": "id_1791296978673_x5ybc",
             "itemId": "id_1791296942892_0mwbb",
             "name": "Роба Чёрного Мага",
-            "category": "other",
+            "category": "armor",
             "stats": {
               "hp": 0,
               "str": 0,
               "agi": 0,
               "int": 0
             },
-            "extraSlots": 0,
+            "extraSlots": 1,
             "extraSlotsName": "",
-            "description": "",
-            "hiddenDescription": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+            "description": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+            "hiddenDescription": "",
             "condition": "",
             "revealed": false,
             "obtained": "",
@@ -376,17 +384,17 @@
             "id": "id_1791296978673_x5ybc",
             "itemId": "id_1791296942892_0mwbb",
             "name": "Роба Чёрного Мага",
-            "category": "other",
+            "category": "armor",
             "stats": {
               "hp": 0,
               "str": 0,
               "agi": 0,
               "int": 0
             },
-            "extraSlots": 0,
+            "extraSlots": 1,
             "extraSlotsName": "",
-            "description": "",
-            "hiddenDescription": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+            "description": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+            "hiddenDescription": "",
             "condition": "",
             "revealed": false,
             "obtained": "",
@@ -431,17 +439,17 @@
             "id": "id_1791296978673_x5ybc",
             "itemId": "id_1791296942892_0mwbb",
             "name": "Роба Чёрного Мага",
-            "category": "other",
+            "category": "armor",
             "stats": {
               "hp": 0,
               "str": 0,
               "agi": 0,
               "int": 0
             },
-            "extraSlots": 0,
+            "extraSlots": 1,
             "extraSlotsName": "",
-            "description": "",
-            "hiddenDescription": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+            "description": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+            "hiddenDescription": "",
             "condition": "",
             "revealed": false,
             "obtained": "",
@@ -1130,6 +1138,71 @@
           ]
         }
       }
+    },
+    {
+      "id": "id_1791297348664_opzv3",
+      "time": "06.10.2026, 17:35",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791296978673_x5ybc",
+          "oldValue": {
+            "id": "id_1791296978673_x5ybc",
+            "itemId": "id_1791296942892_0mwbb",
+            "name": "Роба Чёрного Мага",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791296978673_x5ybc",
+            "itemId": "id_1791296942892_0mwbb",
+            "name": "Роба Чёрного Мага",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "",
+            "description": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+            "hiddenDescription": "",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1791297348663_itjao",
+            "name": "Слоты от «Роба Чёрного Мага»",
+            "sourceItemId": "id_1791296978673_x5ybc",
+            "capacity": 1,
+            "items": []
+          }
+        }
+      ]
     }
   ]
 }
