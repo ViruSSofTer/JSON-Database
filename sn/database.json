@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T15:34:36.998Z",
+  "updatedAt": "2026-10-06T15:38:51.912Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -98,23 +98,6 @@
         "int": 0
       },
       "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "",
-      "condition": "",
-      "known": true
-    },
-    {
-      "id": "id_1791297883451_lc8z0",
-      "name": "Латексные чёрные перчатки",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 3,
       "extraSlotsName": "",
       "description": "",
       "hiddenDescription": "",
