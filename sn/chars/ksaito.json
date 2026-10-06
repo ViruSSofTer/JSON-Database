@@ -34,7 +34,29 @@
       "log": []
     }
   ],
-  "inventory": [],
+  "inventory": [
+    {
+      "id": "id_1791302001189_zfepc",
+      "itemId": "id_1791302001189_na8et",
+      "name": "Простая винтовка",
+      "category": "weapon",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 1,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
+    }
+  ],
   "extraSections": [
     {
       "id": "id_1791297947233_kn2ha",
@@ -18154,6 +18176,39 @@
               "int": 0
             },
             "extraSlots": 1,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791302001189_mjynk",
+      "time": "06.10.2026, 18:53",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Доп. слоты: id_1791297947233_kn2ha | База — «Простая винтовка»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1791302001189_zfepc",
+            "itemId": "id_1791302001189_na8et",
+            "name": "Простая винтовка",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 1,
+              "int": 0
+            },
+            "extraSlots": 0,
             "extraSlotsName": "",
             "description": "",
             "hiddenDescription": "Неизвестный предмет",
