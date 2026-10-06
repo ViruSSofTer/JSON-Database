@@ -161,7 +161,7 @@
       "description": "",
       "hiddenDescription": "Неизвестный предмет",
       "condition": "",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -1613,7 +1613,7 @@
             "description": "",
             "hiddenDescription": "Неизвестный предмет",
             "condition": "",
-            "revealed": false,
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
@@ -8872,6 +8872,61 @@
           ]
         }
       }
+    },
+    {
+      "id": "id_1791299254023_kmda3",
+      "time": "06.10.2026, 18:07",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Кулон защиты»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791299111062_uzfoa",
+          "oldValue": {
+            "id": "id_1791299111062_uzfoa",
+            "itemId": "id_1791299094860_83bv1",
+            "name": "Кулон защиты",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Слоты от «Наплечный рюкзак»",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791299111062_uzfoa",
+            "itemId": "id_1791299094860_83bv1",
+            "name": "Кулон защиты",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Слоты от «Наплечный рюкзак»",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
     }
   ]
 }
