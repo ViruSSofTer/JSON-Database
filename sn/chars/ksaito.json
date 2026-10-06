@@ -230,27 +230,6 @@
       "obtained": "",
       "quantity": 1,
       "log": []
-    },
-    {
-      "id": "id_1791299094860_tfgxt",
-      "itemId": "id_1791299094860_83bv1",
-      "name": "Кулон защиты",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": false,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
     }
   ],
   "extraSections": [
@@ -8921,6 +8900,40 @@
             "id": "id_1791299235713_72cvb",
             "itemId": "id_1791299235713_e0qd2",
             "name": "Манатитовый крест",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791299277256_srdrf",
+      "time": "06.10.2026, 18:07",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Кулон защиты»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1791299094860_tfgxt",
+          "oldValue": {
+            "id": "id_1791299094860_tfgxt",
+            "itemId": "id_1791299094860_83bv1",
+            "name": "Кулон защиты",
             "category": "other",
             "stats": {
               "hp": 0,
