@@ -114,7 +114,7 @@
         "agi": 0,
         "int": 0
       },
-      "extraSlots": 0,
+      "extraSlots": 4,
       "extraSlotsName": "Слоты от «Наплечный рюкзак»",
       "description": "",
       "hiddenDescription": "Неизвестный предмет",
@@ -224,6 +224,13 @@
       "name": "Слоты от «Наплечный рюкзак»",
       "sourceItemId": "id_1791297947233_ieygx",
       "capacity": 3,
+      "items": []
+    },
+    {
+      "id": "id_1791300639145_bcf8r",
+      "name": "Слоты от «Наплечный рюкзак»",
+      "sourceItemId": "id_1791299060186_6pd2m",
+      "capacity": 4,
       "items": []
     }
   ],
@@ -2658,7 +2665,7 @@
               "agi": 0,
               "int": 0
             },
-            "extraSlots": 0,
+            "extraSlots": 4,
             "extraSlotsName": "Слоты от «Наплечный рюкзак»",
             "description": "",
             "hiddenDescription": "Неизвестный предмет",
@@ -18869,6 +18876,71 @@
           ]
         }
       }
+    },
+    {
+      "id": "id_1791300639145_slx3v",
+      "time": "06.10.2026, 18:30",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Мешочек с арканным пространством»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791299060186_6pd2m",
+          "oldValue": {
+            "id": "id_1791299060186_6pd2m",
+            "itemId": "id_1791299050277_vi3xr",
+            "name": "Мешочек с арканным пространством",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Слоты от «Наплечный рюкзак»",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791299060186_6pd2m",
+            "itemId": "id_1791299050277_vi3xr",
+            "name": "Мешочек с арканным пространством",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 4,
+            "extraSlotsName": "Слоты от «Наплечный рюкзак»",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1791300639145_bcf8r",
+            "name": "Слоты от «Наплечный рюкзак»",
+            "sourceItemId": "id_1791299060186_6pd2m",
+            "capacity": 4,
+            "items": []
+          }
+        }
+      ]
     }
   ]
 }
