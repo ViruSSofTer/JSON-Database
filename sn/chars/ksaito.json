@@ -20828,7 +20828,7 @@
               "int": 0
             },
             "extraSlots": 0,
-            "extraSlotsName": "Карманы одежды",
+            "extraSlotsName": "Наплечный рюкзак",
             "description": "",
             "hiddenDescription": "Неизвестный предмет",
             "condition": "",
@@ -20896,7 +20896,7 @@
               "int": 0
             },
             "extraSlots": 0,
-            "extraSlotsName": "Карманы одежды",
+            "extraSlotsName": "Наплечный рюкзак",
             "description": "",
             "hiddenDescription": "Неизвестный предмет",
             "condition": "",
@@ -20933,6 +20933,60 @@
           }
         }
       ]
+    },
+    {
+      "id": "id_1791302155036_f1fyl",
+      "time": "06.10.2026, 18:55",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Оружие в руках | Правка «Простая винтовка»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "handWeapon",
+          "oldValue": {
+            "id": "id_1791302007283_xaf4b",
+            "itemId": "id_1791302001189_na8et",
+            "name": "Простая винтовка",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 1,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Карманы одежды",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791302007283_xaf4b",
+            "itemId": "id_1791302001189_na8et",
+            "name": "Простая винтовка",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 1,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Наплечный рюкзак",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
     }
   ],
   "name": "Ксайто",
@@ -20953,7 +21007,7 @@
       "int": 0
     },
     "extraSlots": 0,
-    "extraSlotsName": "Карманы одежды",
+    "extraSlotsName": "Наплечный рюкзак",
     "description": "",
     "hiddenDescription": "Неизвестный предмет",
     "condition": "",
