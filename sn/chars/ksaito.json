@@ -3,9 +3,9 @@
   "name": "Ксайто",
   "portrait": null,
   "isCompanion": false,
-  "class": "",
-  "race": "",
-  "personality": "",
+  "class": "Догма",
+  "race": "Нефалем",
+  "personality": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии",
   "background": "",
   "level": 1,
   "xp": 0,
@@ -161,6 +161,32 @@
             "agi": 3,
             "int": 7
           }
+        }
+      ]
+    },
+    {
+      "id": "id_1791296891391_ibd91",
+      "time": "06.10.2026, 17:28",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Основное",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "class",
+          "oldValue": "",
+          "value": "Догма"
+        },
+        {
+          "op": "replace",
+          "path": "race",
+          "oldValue": "",
+          "value": "Нефалем"
+        },
+        {
+          "op": "replace",
+          "path": "personality",
+          "oldValue": "",
+          "value": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии"
         }
       ]
     }
