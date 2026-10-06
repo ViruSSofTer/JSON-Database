@@ -11,29 +11,7 @@
     "agi": 3,
     "int": 3
   },
-  "equipment": [
-    {
-      "id": "id_1791299245267_tyekl",
-      "itemId": "id_1791299235713_e0qd2",
-      "name": "Манатитовый крест",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "Слоты от «Наплечный рюкзак»",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    }
-  ],
+  "equipment": [],
   "inventory": [],
   "extraSections": [
     {
@@ -18018,6 +17996,40 @@
           "handWeapon": null
         }
       }
+    },
+    {
+      "id": "id_1791301497803_jdj3x",
+      "time": "06.10.2026, 18:44",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Манатитовый крест»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "equipment",
+          "id": "id_1791299245267_tyekl",
+          "oldValue": {
+            "id": "id_1791299245267_tyekl",
+            "itemId": "id_1791299235713_e0qd2",
+            "name": "Манатитовый крест",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Слоты от «Наплечный рюкзак»",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
     }
   ],
   "name": "Ксайто",
