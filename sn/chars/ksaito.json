@@ -56,7 +56,7 @@
       "description": "",
       "hiddenDescription": "Неизвестный предмет",
       "condition": "",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -2251,6 +2251,61 @@
       "id": "id_1791297701401_dvxyn",
       "time": "06.10.2026, 17:41",
       "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Чёрные резиновые сапоги»"
+    },
+    {
+      "id": "id_1791297705834_pi7qh",
+      "time": "06.10.2026, 17:41",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Чёрные резиновые сапоги»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791297678866_odla2",
+          "oldValue": {
+            "id": "id_1791297678866_odla2",
+            "itemId": "id_1791297671770_repkh",
+            "name": "Чёрные резиновые сапоги",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791297678866_odla2",
+            "itemId": "id_1791297671770_repkh",
+            "name": "Чёрные резиновые сапоги",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
     }
   ]
 }
