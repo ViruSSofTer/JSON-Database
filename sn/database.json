@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T14:49:21.208Z",
+  "updatedAt": "2026-10-06T14:49:32.330Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -42,6 +42,23 @@
       "category": "valuable",
       "stats": {
         "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1791298161206_eza2j",
+      "name": "Железный щит-обломок",
+      "category": "other",
+      "stats": {
+        "hp": 2,
         "str": 0,
         "agi": 0,
         "int": 0
@@ -194,23 +211,6 @@
       "category": "other",
       "stats": {
         "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "",
-      "condition": "",
-      "known": true
-    },
-    {
-      "id": "id_1791298161206_eza2j",
-      "name": "Железный щит-обломок",
-      "category": "other",
-      "stats": {
-        "hp": 2,
         "str": 0,
         "agi": 0,
         "int": 0
