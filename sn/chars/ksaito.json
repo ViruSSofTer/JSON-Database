@@ -13,27 +13,6 @@
   },
   "equipment": [
     {
-      "id": "id_1791297678866_odla2",
-      "itemId": "id_1791297671770_repkh",
-      "name": "Чёрные резиновые сапоги",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    },
-    {
       "id": "id_1791298046514_ypl3w",
       "itemId": "id_1791297947233_ieygx",
       "name": "Наплечный рюкзак",
@@ -15628,6 +15607,40 @@
             "sourceItemId": "id_1791296978673_x5ybc",
             "capacity": 1,
             "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791301479133_x95mi",
+      "time": "06.10.2026, 18:44",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Чёрные резиновые сапоги»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "equipment",
+          "id": "id_1791297678866_odla2",
+          "oldValue": {
+            "id": "id_1791297678866_odla2",
+            "itemId": "id_1791297671770_repkh",
+            "name": "Чёрные резиновые сапоги",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
           }
         }
       ]
