@@ -6,10 +6,10 @@
   "levelUpPoints": 0,
   "neurali": 0,
   "baseStats": {
-    "hp": 100,
-    "str": 1,
-    "agi": 3,
-    "int": 3
+    "hp": 0,
+    "str": 0,
+    "agi": 0,
+    "int": 0
   },
   "equipment": [
     {
