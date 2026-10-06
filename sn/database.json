@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T17:09:43.079Z",
+  "updatedAt": "2026-10-06T17:25:59.021Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -223,28 +223,5 @@
       "known": true
     }
   ],
-  "commonPool": [
-    {
-      "id": "id_1791300508977_cnp7h",
-      "itemId": "id_1791299457371_ud6jo",
-      "name": "Простая винтовка",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 1,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": [],
-      "extraSections": []
-    }
-  ]
+  "commonPool": []
 }
