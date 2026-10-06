@@ -81,27 +81,6 @@
       "obtained": "",
       "quantity": 1,
       "log": []
-    },
-    {
-      "id": "id_1791297962165_4been",
-      "itemId": "id_1791297671770_repkh",
-      "name": "Чёрные резиновые сапоги",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "Слоты от «Наплечный рюкзак»",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
     }
   ],
   "inventory": [
@@ -890,6 +869,235 @@
       "id": "id_1791297678866_e8j2u",
       "time": "06.10.2026, 17:41",
       "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Чёрные резиновые сапоги»",
+      "type": "delta",
+      "snapshot": null
+    },
+    {
+      "id": "id_1791297701401_dvxyn",
+      "time": "06.10.2026, 17:41",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Чёрные резиновые сапоги»"
+    },
+    {
+      "id": "id_1791297705834_pi7qh",
+      "time": "06.10.2026, 17:41",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Чёрные резиновые сапоги»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791297678866_odla2",
+          "oldValue": {
+            "id": "id_1791297678866_odla2",
+            "itemId": "id_1791297671770_repkh",
+            "name": "Чёрные резиновые сапоги",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791297678866_odla2",
+            "itemId": "id_1791297671770_repkh",
+            "name": "Чёрные резиновые сапоги",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791297883451_kup7n",
+      "time": "06.10.2026, 17:44",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Латексные чёрные перчатки»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1791297883451_y2ezr",
+            "itemId": "id_1791297883451_lc8z0",
+            "name": "Латексные чёрные перчатки",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 3,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1791297883451_4myli",
+            "name": "Слоты от «Латексные чёрные перчатки»",
+            "sourceItemId": "id_1791297883451_lc8z0",
+            "capacity": 3,
+            "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791297895103_l3sr1",
+      "time": "06.10.2026, 17:44",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Латексные чёрные перчатки»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1791297895103_2xhl8",
+            "itemId": "id_1791297883451_lc8z0",
+            "name": "Латексные чёрные перчатки",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 3,
+            "extraSlotsName": "Слоты от «Латексные чёрные перчатки»",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1791297895103_xdgvy",
+            "name": "Слоты от «Латексные чёрные перчатки»",
+            "sourceItemId": "id_1791297883451_lc8z0",
+            "capacity": 3,
+            "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791297947233_ivoid",
+      "time": "06.10.2026, 17:45",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Наплечный рюкзак»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1791297947233_vtnth",
+            "itemId": "id_1791297947233_ieygx",
+            "name": "Наплечный рюкзак",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 3,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1791297947233_kn2ha",
+            "name": "Слоты от «Наплечный рюкзак»",
+            "sourceItemId": "id_1791297947233_ieygx",
+            "capacity": 3,
+            "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791297962165_0y9zy",
+      "time": "06.10.2026, 17:46",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Чёрные резиновые сапоги»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1791297962165_4been",
+            "itemId": "id_1791297671770_repkh",
+            "name": "Чёрные резиновые сапоги",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Слоты от «Наплечный рюкзак»",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791297976084_ety9q",
+      "time": "06.10.2026, 17:46",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Чёрные резиновые сапоги»",
       "type": "full",
       "snapshot": {
         "charData": {
@@ -950,7 +1158,28 @@
               "description": "",
               "hiddenDescription": "Неизвестный предмет",
               "condition": "",
-              "revealed": false,
+              "revealed": true,
+              "obtained": "",
+              "quantity": 1,
+              "log": []
+            },
+            {
+              "id": "id_1791297895103_2xhl8",
+              "itemId": "id_1791297883451_lc8z0",
+              "name": "Латексные чёрные перчатки",
+              "category": "other",
+              "stats": {
+                "hp": 0,
+                "str": 0,
+                "agi": 0,
+                "int": 0
+              },
+              "extraSlots": 3,
+              "extraSlotsName": "Слоты от «Латексные чёрные перчатки»",
+              "description": "",
+              "hiddenDescription": "Неизвестный предмет",
+              "condition": "",
+              "revealed": true,
               "obtained": "",
               "quantity": 1,
               "log": []
@@ -998,6 +1227,48 @@
               "obtained": "",
               "quantity": 1,
               "log": []
+            },
+            {
+              "id": "id_1791297883451_y2ezr",
+              "itemId": "id_1791297883451_lc8z0",
+              "name": "Латексные чёрные перчатки",
+              "category": "other",
+              "stats": {
+                "hp": 0,
+                "str": 0,
+                "agi": 0,
+                "int": 0
+              },
+              "extraSlots": 3,
+              "extraSlotsName": "",
+              "description": "",
+              "hiddenDescription": "Неизвестный предмет",
+              "condition": "",
+              "revealed": false,
+              "obtained": "",
+              "quantity": 1,
+              "log": []
+            },
+            {
+              "id": "id_1791297947233_vtnth",
+              "itemId": "id_1791297947233_ieygx",
+              "name": "Наплечный рюкзак",
+              "category": "other",
+              "stats": {
+                "hp": 0,
+                "str": 0,
+                "agi": 0,
+                "int": 0
+              },
+              "extraSlots": 3,
+              "extraSlotsName": "",
+              "description": "",
+              "hiddenDescription": "Неизвестный предмет",
+              "condition": "",
+              "revealed": false,
+              "obtained": "",
+              "quantity": 1,
+              "log": []
             }
           ],
           "extraSections": [
@@ -1006,6 +1277,27 @@
               "name": "Слоты от «Роба Чёрного Мага»",
               "sourceItemId": "id_1791296978673_x5ybc",
               "capacity": 1,
+              "items": []
+            },
+            {
+              "id": "id_1791297883451_4myli",
+              "name": "Слоты от «Латексные чёрные перчатки»",
+              "sourceItemId": "id_1791297883451_lc8z0",
+              "capacity": 3,
+              "items": []
+            },
+            {
+              "id": "id_1791297895103_xdgvy",
+              "name": "Слоты от «Латексные чёрные перчатки»",
+              "sourceItemId": "id_1791297883451_lc8z0",
+              "capacity": 3,
+              "items": []
+            },
+            {
+              "id": "id_1791297947233_kn2ha",
+              "name": "Слоты от «Наплечный рюкзак»",
+              "sourceItemId": "id_1791297947233_ieygx",
+              "capacity": 3,
               "items": []
             }
           ],
@@ -1399,681 +1691,8 @@
               "id": "id_1791297269236_gkldx",
               "time": "06.10.2026, 17:34",
               "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»",
-              "type": "full",
-              "snapshot": {
-                "charData": {
-                  "id": "ksaito",
-                  "name": "Ксайто",
-                  "portrait": null,
-                  "isCompanion": false,
-                  "class": "Догма",
-                  "race": "Нефалем",
-                  "personality": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии",
-                  "background": "",
-                  "level": 1,
-                  "xp": 0,
-                  "levelUpPoints": 0,
-                  "neurali": 88,
-                  "baseStats": {
-                    "hp": 112,
-                    "str": 1,
-                    "agi": 3,
-                    "int": 7
-                  },
-                  "handWeapon": null,
-                  "equipment": [
-                    {
-                      "id": "id_1791296978673_x5ybc",
-                      "itemId": "id_1791296942892_0mwbb",
-                      "name": "Роба Чёрного Мага",
-                      "category": "other",
-                      "stats": {
-                        "hp": 0,
-                        "str": 0,
-                        "agi": 0,
-                        "int": 0
-                      },
-                      "extraSlots": 0,
-                      "extraSlotsName": "",
-                      "description": "",
-                      "hiddenDescription": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
-                      "condition": "",
-                      "revealed": false,
-                      "obtained": "",
-                      "quantity": 1,
-                      "log": []
-                    }
-                  ],
-                  "inventory": [
-                    {
-                      "id": "id_1791296942893_bngde",
-                      "itemId": "id_1791296942892_0mwbb",
-                      "name": "Роба Чёрного Мага",
-                      "category": "other",
-                      "stats": {
-                        "hp": 10,
-                        "str": 0,
-                        "agi": 0,
-                        "int": 0
-                      },
-                      "extraSlots": 0,
-                      "extraSlotsName": "",
-                      "description": "",
-                      "hiddenDescription": "Неизвестный предмет",
-                      "condition": "",
-                      "revealed": false,
-                      "obtained": "",
-                      "quantity": 1,
-                      "log": []
-                    }
-                  ],
-                  "extraSections": [],
-                  "active": [],
-                  "passive": [],
-                  "quirks": [],
-                  "talents": [],
-                  "education": [],
-                  "trainingsActive": [],
-                  "trainingsPlanned": [],
-                  "log": [
-                    {
-                      "id": "id_1791228045021_l3xll",
-                      "time": "05.10.2026, 22:20",
-                      "text": "Сез.1.5 Сесс.26 | Ксайто | Отправлено «\"Расслабляющие\" таблетки» в общак",
-                      "type": "delta",
-                      "delta": [
-                        {
-                          "op": "replace",
-                          "path": "name",
-                          "value": "Ксайто"
-                        },
-                        {
-                          "op": "replace",
-                          "path": "class",
-                          "value": ""
-                        },
-                        {
-                          "op": "replace",
-                          "path": "race",
-                          "value": ""
-                        },
-                        {
-                          "op": "replace",
-                          "path": "personality",
-                          "value": ""
-                        },
-                        {
-                          "op": "replace",
-                          "path": "background",
-                          "value": ""
-                        },
-                        {
-                          "op": "replace",
-                          "path": "level",
-                          "value": 1
-                        },
-                        {
-                          "op": "replace",
-                          "path": "xp",
-                          "value": 0
-                        },
-                        {
-                          "op": "replace",
-                          "path": "levelUpPoints",
-                          "value": 0
-                        },
-                        {
-                          "op": "replace",
-                          "path": "neurali",
-                          "value": 0
-                        },
-                        {
-                          "op": "replace",
-                          "path": "portrait",
-                          "value": null
-                        },
-                        {
-                          "op": "replace",
-                          "path": "baseStats",
-                          "value": {
-                            "hp": 0,
-                            "str": 0,
-                            "agi": 0,
-                            "int": 0
-                          }
-                        },
-                        {
-                          "op": "replace",
-                          "path": "handWeapon",
-                          "value": null
-                        }
-                      ]
-                    },
-                    {
-                      "id": "id_1791296034261_kbkax",
-                      "time": "06.10.2026, 17:13",
-                      "text": "Сез.1.5 Сесс.26 | Ксайто | Неврали: 0 → 88",
-                      "type": "delta",
-                      "delta": [
-                        {
-                          "op": "replace",
-                          "path": "neurali",
-                          "oldValue": 0,
-                          "value": 88
-                        }
-                      ]
-                    },
-                    {
-                      "id": "id_1791296097059_rgut3",
-                      "time": "06.10.2026, 17:14",
-                      "text": "Сез.1.5 Сесс.26 | Ксайто | Базовые статы: ХП:0 Сил:0 Лов:0 Инт:0 → ХП:100 Сил:1 Лов:3 Инт:3",
-                      "type": "delta",
-                      "delta": [
-                        {
-                          "op": "replace",
-                          "path": "baseStats",
-                          "oldValue": {
-                            "hp": 0,
-                            "str": 0,
-                            "agi": 0,
-                            "int": 0
-                          },
-                          "value": {
-                            "hp": 100,
-                            "str": 1,
-                            "agi": 3,
-                            "int": 3
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "id": "id_1791296262072_8ywgp",
-                      "time": "06.10.2026, 17:17",
-                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Базовые статы: ХП:100 Сил:1 Лов:3 Инт:3 → ХП:112 Сил:1 Лов:3 Инт:7",
-                      "type": "delta",
-                      "delta": [
-                        {
-                          "op": "replace",
-                          "path": "baseStats",
-                          "oldValue": {
-                            "hp": 100,
-                            "str": 1,
-                            "agi": 3,
-                            "int": 3
-                          },
-                          "value": {
-                            "hp": 112,
-                            "str": 1,
-                            "agi": 3,
-                            "int": 7
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "id": "id_1791296891391_ibd91",
-                      "time": "06.10.2026, 17:28",
-                      "text": "Сез.1.5 Сесс.26 | Ксайто | Основное",
-                      "type": "delta",
-                      "delta": [
-                        {
-                          "op": "replace",
-                          "path": "class",
-                          "oldValue": "",
-                          "value": "Догма"
-                        },
-                        {
-                          "op": "replace",
-                          "path": "race",
-                          "oldValue": "",
-                          "value": "Нефалем"
-                        },
-                        {
-                          "op": "replace",
-                          "path": "personality",
-                          "oldValue": "",
-                          "value": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии"
-                        }
-                      ]
-                    },
-                    {
-                      "id": "id_1791296942893_l5k2o",
-                      "time": "06.10.2026, 17:29",
-                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Роба Чёрного Мага»",
-                      "type": "full",
-                      "snapshot": {
-                        "charData": {
-                          "id": "ksaito",
-                          "name": "Ксайто",
-                          "portrait": null,
-                          "isCompanion": false,
-                          "class": "Догма",
-                          "race": "Нефалем",
-                          "personality": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии",
-                          "background": "",
-                          "level": 1,
-                          "xp": 0,
-                          "levelUpPoints": 0,
-                          "neurali": 88,
-                          "baseStats": {
-                            "hp": 112,
-                            "str": 1,
-                            "agi": 3,
-                            "int": 7
-                          },
-                          "handWeapon": null,
-                          "equipment": [],
-                          "inventory": [
-                            {
-                              "id": "id_1791296942893_bngde",
-                              "itemId": "id_1791296942892_0mwbb",
-                              "name": "Роба Чёрного Мага",
-                              "category": "other",
-                              "stats": {
-                                "hp": 10,
-                                "str": 0,
-                                "agi": 0,
-                                "int": 0
-                              },
-                              "extraSlots": 0,
-                              "extraSlotsName": "",
-                              "description": "",
-                              "hiddenDescription": "Неизвестный предмет",
-                              "condition": "",
-                              "revealed": false,
-                              "obtained": "",
-                              "quantity": 1,
-                              "log": []
-                            }
-                          ],
-                          "extraSections": [],
-                          "active": [],
-                          "passive": [],
-                          "quirks": [],
-                          "talents": [],
-                          "education": [],
-                          "trainingsActive": [],
-                          "trainingsPlanned": [],
-                          "log": [
-                            {
-                              "id": "id_1791228045021_l3xll",
-                              "time": "05.10.2026, 22:20",
-                              "text": "Сез.1.5 Сесс.26 | Ксайто | Отправлено «\"Расслабляющие\" таблетки» в общак",
-                              "type": "delta",
-                              "delta": [
-                                {
-                                  "op": "replace",
-                                  "path": "name",
-                                  "value": "Ксайто"
-                                },
-                                {
-                                  "op": "replace",
-                                  "path": "class",
-                                  "value": ""
-                                },
-                                {
-                                  "op": "replace",
-                                  "path": "race",
-                                  "value": ""
-                                },
-                                {
-                                  "op": "replace",
-                                  "path": "personality",
-                                  "value": ""
-                                },
-                                {
-                                  "op": "replace",
-                                  "path": "background",
-                                  "value": ""
-                                },
-                                {
-                                  "op": "replace",
-                                  "path": "level",
-                                  "value": 1
-                                },
-                                {
-                                  "op": "replace",
-                                  "path": "xp",
-                                  "value": 0
-                                },
-                                {
-                                  "op": "replace",
-                                  "path": "levelUpPoints",
-                                  "value": 0
-                                },
-                                {
-                                  "op": "replace",
-                                  "path": "neurali",
-                                  "value": 0
-                                },
-                                {
-                                  "op": "replace",
-                                  "path": "portrait",
-                                  "value": null
-                                },
-                                {
-                                  "op": "replace",
-                                  "path": "baseStats",
-                                  "value": {
-                                    "hp": 0,
-                                    "str": 0,
-                                    "agi": 0,
-                                    "int": 0
-                                  }
-                                },
-                                {
-                                  "op": "replace",
-                                  "path": "handWeapon",
-                                  "value": null
-                                }
-                              ]
-                            },
-                            {
-                              "id": "id_1791296034261_kbkax",
-                              "time": "06.10.2026, 17:13",
-                              "text": "Сез.1.5 Сесс.26 | Ксайто | Неврали: 0 → 88",
-                              "type": "delta",
-                              "delta": [
-                                {
-                                  "op": "replace",
-                                  "path": "neurali",
-                                  "oldValue": 0,
-                                  "value": 88
-                                }
-                              ]
-                            },
-                            {
-                              "id": "id_1791296097059_rgut3",
-                              "time": "06.10.2026, 17:14",
-                              "text": "Сез.1.5 Сесс.26 | Ксайто | Базовые статы: ХП:0 Сил:0 Лов:0 Инт:0 → ХП:100 Сил:1 Лов:3 Инт:3",
-                              "type": "delta",
-                              "delta": [
-                                {
-                                  "op": "replace",
-                                  "path": "baseStats",
-                                  "oldValue": {
-                                    "hp": 0,
-                                    "str": 0,
-                                    "agi": 0,
-                                    "int": 0
-                                  },
-                                  "value": {
-                                    "hp": 100,
-                                    "str": 1,
-                                    "agi": 3,
-                                    "int": 3
-                                  }
-                                }
-                              ]
-                            },
-                            {
-                              "id": "id_1791296262072_8ywgp",
-                              "time": "06.10.2026, 17:17",
-                              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Базовые статы: ХП:100 Сил:1 Лов:3 Инт:3 → ХП:112 Сил:1 Лов:3 Инт:7",
-                              "type": "delta",
-                              "delta": [
-                                {
-                                  "op": "replace",
-                                  "path": "baseStats",
-                                  "oldValue": {
-                                    "hp": 100,
-                                    "str": 1,
-                                    "agi": 3,
-                                    "int": 3
-                                  },
-                                  "value": {
-                                    "hp": 112,
-                                    "str": 1,
-                                    "agi": 3,
-                                    "int": 7
-                                  }
-                                }
-                              ]
-                            },
-                            {
-                              "id": "id_1791296891391_ibd91",
-                              "time": "06.10.2026, 17:28",
-                              "text": "Сез.1.5 Сесс.26 | Ксайто | Основное",
-                              "type": "delta",
-                              "delta": [
-                                {
-                                  "op": "replace",
-                                  "path": "class",
-                                  "oldValue": "",
-                                  "value": "Догма"
-                                },
-                                {
-                                  "op": "replace",
-                                  "path": "race",
-                                  "oldValue": "",
-                                  "value": "Нефалем"
-                                },
-                                {
-                                  "op": "replace",
-                                  "path": "personality",
-                                  "oldValue": "",
-                                  "value": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии"
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      }
-                    },
-                    {
-                      "id": "id_1791296953637_5gktw",
-                      "time": "06.10.2026, 17:29",
-                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Роба Чёрного Мага»",
-                      "type": "delta",
-                      "delta": [
-                        {
-                          "op": "add",
-                          "path": "equipment",
-                          "value": {
-                            "id": "id_1791296953637_3955f",
-                            "itemId": "id_1791296942892_0mwbb",
-                            "name": "Роба Чёрного Мага",
-                            "category": "other",
-                            "stats": {
-                              "hp": 10,
-                              "str": 0,
-                              "agi": 0,
-                              "int": 0
-                            },
-                            "extraSlots": 0,
-                            "extraSlotsName": "",
-                            "description": "",
-                            "hiddenDescription": "Неизвестный предмет",
-                            "condition": "",
-                            "revealed": false,
-                            "obtained": "",
-                            "quantity": 1,
-                            "log": []
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "id": "id_1791296965451_4miqz",
-                      "time": "06.10.2026, 17:29",
-                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Роба Чёрного Мага»",
-                      "type": "delta",
-                      "delta": [
-                        {
-                          "op": "remove",
-                          "path": "equipment",
-                          "id": "id_1791296953637_3955f",
-                          "oldValue": {
-                            "id": "id_1791296953637_3955f",
-                            "itemId": "id_1791296942892_0mwbb",
-                            "name": "Роба Чёрного Мага",
-                            "category": "other",
-                            "stats": {
-                              "hp": 10,
-                              "str": 0,
-                              "agi": 0,
-                              "int": 0
-                            },
-                            "extraSlots": 0,
-                            "extraSlotsName": "",
-                            "description": "",
-                            "hiddenDescription": "Неизвестный предмет",
-                            "condition": "",
-                            "revealed": false,
-                            "obtained": "",
-                            "quantity": 1,
-                            "log": []
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "id": "id_1791296978673_pfnza",
-                      "time": "06.10.2026, 17:29",
-                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Роба Чёрного Мага»",
-                      "type": "delta",
-                      "delta": [
-                        {
-                          "op": "add",
-                          "path": "equipment",
-                          "value": {
-                            "id": "id_1791296978673_x5ybc",
-                            "itemId": "id_1791296942892_0mwbb",
-                            "name": "Роба Чёрного Мага",
-                            "category": "other",
-                            "stats": {
-                              "hp": 0,
-                              "str": 0,
-                              "agi": 0,
-                              "int": 0
-                            },
-                            "extraSlots": 0,
-                            "extraSlotsName": "",
-                            "description": "",
-                            "hiddenDescription": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
-                            "condition": "",
-                            "revealed": false,
-                            "obtained": "",
-                            "quantity": 1,
-                            "log": []
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "id": "id_1791297023436_eabfq",
-                      "time": "06.10.2026, 17:30",
-                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»",
-                      "type": "delta",
-                      "delta": [
-                        {
-                          "op": "update",
-                          "path": "equipment",
-                          "id": "id_1791296978673_x5ybc",
-                          "oldValue": {
-                            "id": "id_1791296978673_x5ybc",
-                            "itemId": "id_1791296942892_0mwbb",
-                            "name": "Роба Чёрного Мага",
-                            "category": "other",
-                            "stats": {
-                              "hp": 10,
-                              "str": 0,
-                              "agi": 0,
-                              "int": 0
-                            },
-                            "extraSlots": 0,
-                            "extraSlotsName": "",
-                            "description": "",
-                            "hiddenDescription": "Неизвестный предмет",
-                            "condition": "",
-                            "revealed": false,
-                            "obtained": "",
-                            "quantity": 1,
-                            "log": []
-                          },
-                          "value": {
-                            "id": "id_1791296978673_x5ybc",
-                            "itemId": "id_1791296942892_0mwbb",
-                            "name": "Роба Чёрного Мага",
-                            "category": "other",
-                            "stats": {
-                              "hp": 0,
-                              "str": 0,
-                              "agi": 0,
-                              "int": 0
-                            },
-                            "extraSlots": 0,
-                            "extraSlotsName": "",
-                            "description": "",
-                            "hiddenDescription": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
-                            "condition": "",
-                            "revealed": false,
-                            "obtained": "",
-                            "quantity": 1,
-                            "log": []
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "id": "id_1791297060656_ftt10",
-                      "time": "06.10.2026, 17:31",
-                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»",
-                      "type": "delta",
-                      "delta": [
-                        {
-                          "op": "update",
-                          "path": "equipment",
-                          "id": "id_1791296978673_x5ybc",
-                          "oldValue": {
-                            "id": "id_1791296978673_x5ybc",
-                            "itemId": "id_1791296942892_0mwbb",
-                            "name": "Роба Чёрного Мага",
-                            "category": "other",
-                            "stats": {
-                              "hp": 10,
-                              "str": 0,
-                              "agi": 0,
-                              "int": 0
-                            },
-                            "extraSlots": 0,
-                            "extraSlotsName": "",
-                            "description": "",
-                            "hiddenDescription": "Роба Чёрного Мага",
-                            "condition": "",
-                            "revealed": false,
-                            "obtained": "",
-                            "quantity": 1,
-                            "log": []
-                          },
-                          "value": {
-                            "id": "id_1791296978673_x5ybc",
-                            "itemId": "id_1791296942892_0mwbb",
-                            "name": "Роба Чёрного Мага",
-                            "category": "other",
-                            "stats": {
-                              "hp": 0,
-                              "str": 0,
-                              "agi": 0,
-                              "int": 0
-                            },
-                            "extraSlots": 0,
-                            "extraSlotsName": "",
-                            "description": "",
-                            "hiddenDescription": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
-                            "condition": "",
-                            "revealed": false,
-                            "obtained": "",
-                            "quantity": 1,
-                            "log": []
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              }
+              "type": "delta",
+              "snapshot": null
             },
             {
               "id": "id_1791297348664_opzv3",
@@ -2347,232 +1966,1698 @@
                   }
                 }
               ]
+            },
+            {
+              "id": "id_1791297678866_e8j2u",
+              "time": "06.10.2026, 17:41",
+              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Чёрные резиновые сапоги»",
+              "type": "full",
+              "snapshot": {
+                "charData": {
+                  "id": "ksaito",
+                  "name": "Ксайто",
+                  "portrait": null,
+                  "isCompanion": false,
+                  "class": "Догма",
+                  "race": "Нефалем",
+                  "personality": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии",
+                  "background": "",
+                  "level": 1,
+                  "xp": 0,
+                  "levelUpPoints": 0,
+                  "neurali": 88,
+                  "baseStats": {
+                    "hp": 112,
+                    "str": 1,
+                    "agi": 3,
+                    "int": 7
+                  },
+                  "handWeapon": null,
+                  "equipment": [
+                    {
+                      "id": "id_1791296978673_x5ybc",
+                      "itemId": "id_1791296942892_0mwbb",
+                      "name": "Роба Чёрного Мага",
+                      "category": "other",
+                      "stats": {
+                        "hp": 10,
+                        "str": 0,
+                        "agi": 0,
+                        "int": 0
+                      },
+                      "extraSlots": 1,
+                      "extraSlotsName": "карманы одежды",
+                      "description": "",
+                      "hiddenDescription": "",
+                      "condition": "",
+                      "revealed": true,
+                      "obtained": "",
+                      "quantity": 1,
+                      "log": []
+                    },
+                    {
+                      "id": "id_1791297678866_odla2",
+                      "itemId": "id_1791297671770_repkh",
+                      "name": "Чёрные резиновые сапоги",
+                      "category": "other",
+                      "stats": {
+                        "hp": 0,
+                        "str": 0,
+                        "agi": 0,
+                        "int": 0
+                      },
+                      "extraSlots": 0,
+                      "extraSlotsName": "",
+                      "description": "",
+                      "hiddenDescription": "Неизвестный предмет",
+                      "condition": "",
+                      "revealed": false,
+                      "obtained": "",
+                      "quantity": 1,
+                      "log": []
+                    }
+                  ],
+                  "inventory": [
+                    {
+                      "id": "id_1791296942893_bngde",
+                      "itemId": "id_1791296942892_0mwbb",
+                      "name": "Роба Чёрного Мага",
+                      "category": "other",
+                      "stats": {
+                        "hp": 10,
+                        "str": 0,
+                        "agi": 0,
+                        "int": 0
+                      },
+                      "extraSlots": 0,
+                      "extraSlotsName": "",
+                      "description": "",
+                      "hiddenDescription": "Неизвестный предмет",
+                      "condition": "",
+                      "revealed": false,
+                      "obtained": "",
+                      "quantity": 1,
+                      "log": []
+                    },
+                    {
+                      "id": "id_1791297671770_jx4g7",
+                      "itemId": "id_1791297671770_repkh",
+                      "name": "Чёрные резиновые сапоги",
+                      "category": "other",
+                      "stats": {
+                        "hp": 0,
+                        "str": 0,
+                        "agi": 0,
+                        "int": 0
+                      },
+                      "extraSlots": 0,
+                      "extraSlotsName": "",
+                      "description": "",
+                      "hiddenDescription": "Неизвестный предмет",
+                      "condition": "",
+                      "revealed": false,
+                      "obtained": "",
+                      "quantity": 1,
+                      "log": []
+                    }
+                  ],
+                  "extraSections": [
+                    {
+                      "id": "id_1791297348663_itjao",
+                      "name": "Слоты от «Роба Чёрного Мага»",
+                      "sourceItemId": "id_1791296978673_x5ybc",
+                      "capacity": 1,
+                      "items": []
+                    }
+                  ],
+                  "active": [],
+                  "passive": [],
+                  "quirks": [],
+                  "talents": [],
+                  "education": [],
+                  "trainingsActive": [],
+                  "trainingsPlanned": [],
+                  "log": [
+                    {
+                      "id": "id_1791228045021_l3xll",
+                      "time": "05.10.2026, 22:20",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Отправлено «\"Расслабляющие\" таблетки» в общак",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "replace",
+                          "path": "name",
+                          "value": "Ксайто"
+                        },
+                        {
+                          "op": "replace",
+                          "path": "class",
+                          "value": ""
+                        },
+                        {
+                          "op": "replace",
+                          "path": "race",
+                          "value": ""
+                        },
+                        {
+                          "op": "replace",
+                          "path": "personality",
+                          "value": ""
+                        },
+                        {
+                          "op": "replace",
+                          "path": "background",
+                          "value": ""
+                        },
+                        {
+                          "op": "replace",
+                          "path": "level",
+                          "value": 1
+                        },
+                        {
+                          "op": "replace",
+                          "path": "xp",
+                          "value": 0
+                        },
+                        {
+                          "op": "replace",
+                          "path": "levelUpPoints",
+                          "value": 0
+                        },
+                        {
+                          "op": "replace",
+                          "path": "neurali",
+                          "value": 0
+                        },
+                        {
+                          "op": "replace",
+                          "path": "portrait",
+                          "value": null
+                        },
+                        {
+                          "op": "replace",
+                          "path": "baseStats",
+                          "value": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          }
+                        },
+                        {
+                          "op": "replace",
+                          "path": "handWeapon",
+                          "value": null
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1791296034261_kbkax",
+                      "time": "06.10.2026, 17:13",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Неврали: 0 → 88",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "replace",
+                          "path": "neurali",
+                          "oldValue": 0,
+                          "value": 88
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1791296097059_rgut3",
+                      "time": "06.10.2026, 17:14",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Базовые статы: ХП:0 Сил:0 Лов:0 Инт:0 → ХП:100 Сил:1 Лов:3 Инт:3",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "replace",
+                          "path": "baseStats",
+                          "oldValue": {
+                            "hp": 0,
+                            "str": 0,
+                            "agi": 0,
+                            "int": 0
+                          },
+                          "value": {
+                            "hp": 100,
+                            "str": 1,
+                            "agi": 3,
+                            "int": 3
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1791296262072_8ywgp",
+                      "time": "06.10.2026, 17:17",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Базовые статы: ХП:100 Сил:1 Лов:3 Инт:3 → ХП:112 Сил:1 Лов:3 Инт:7",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "replace",
+                          "path": "baseStats",
+                          "oldValue": {
+                            "hp": 100,
+                            "str": 1,
+                            "agi": 3,
+                            "int": 3
+                          },
+                          "value": {
+                            "hp": 112,
+                            "str": 1,
+                            "agi": 3,
+                            "int": 7
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1791296891391_ibd91",
+                      "time": "06.10.2026, 17:28",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Основное",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "replace",
+                          "path": "class",
+                          "oldValue": "",
+                          "value": "Догма"
+                        },
+                        {
+                          "op": "replace",
+                          "path": "race",
+                          "oldValue": "",
+                          "value": "Нефалем"
+                        },
+                        {
+                          "op": "replace",
+                          "path": "personality",
+                          "oldValue": "",
+                          "value": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1791296942893_l5k2o",
+                      "time": "06.10.2026, 17:29",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Роба Чёрного Мага»",
+                      "type": "delta",
+                      "snapshot": null
+                    },
+                    {
+                      "id": "id_1791296953637_5gktw",
+                      "time": "06.10.2026, 17:29",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Роба Чёрного Мага»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "add",
+                          "path": "equipment",
+                          "value": {
+                            "id": "id_1791296953637_3955f",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "other",
+                            "stats": {
+                              "hp": 10,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 0,
+                            "extraSlotsName": "",
+                            "description": "",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "",
+                            "revealed": false,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1791296965451_4miqz",
+                      "time": "06.10.2026, 17:29",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Роба Чёрного Мага»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "remove",
+                          "path": "equipment",
+                          "id": "id_1791296953637_3955f",
+                          "oldValue": {
+                            "id": "id_1791296953637_3955f",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "other",
+                            "stats": {
+                              "hp": 10,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 0,
+                            "extraSlotsName": "",
+                            "description": "",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "",
+                            "revealed": false,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1791296978673_pfnza",
+                      "time": "06.10.2026, 17:29",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Роба Чёрного Мага»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "add",
+                          "path": "equipment",
+                          "value": {
+                            "id": "id_1791296978673_x5ybc",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "other",
+                            "stats": {
+                              "hp": 10,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 1,
+                            "extraSlotsName": "карманы одежды",
+                            "description": "",
+                            "hiddenDescription": "",
+                            "condition": "",
+                            "revealed": true,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1791297023436_eabfq",
+                      "time": "06.10.2026, 17:30",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "update",
+                          "path": "equipment",
+                          "id": "id_1791296978673_x5ybc",
+                          "oldValue": {
+                            "id": "id_1791296978673_x5ybc",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "other",
+                            "stats": {
+                              "hp": 10,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 0,
+                            "extraSlotsName": "",
+                            "description": "",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "",
+                            "revealed": false,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          },
+                          "value": {
+                            "id": "id_1791296978673_x5ybc",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "other",
+                            "stats": {
+                              "hp": 10,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 1,
+                            "extraSlotsName": "карманы одежды",
+                            "description": "",
+                            "hiddenDescription": "",
+                            "condition": "",
+                            "revealed": true,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1791297060656_ftt10",
+                      "time": "06.10.2026, 17:31",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "update",
+                          "path": "equipment",
+                          "id": "id_1791296978673_x5ybc",
+                          "oldValue": {
+                            "id": "id_1791296978673_x5ybc",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "other",
+                            "stats": {
+                              "hp": 10,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 0,
+                            "extraSlotsName": "",
+                            "description": "",
+                            "hiddenDescription": "Роба Чёрного Мага",
+                            "condition": "",
+                            "revealed": false,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          },
+                          "value": {
+                            "id": "id_1791296978673_x5ybc",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "other",
+                            "stats": {
+                              "hp": 10,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 1,
+                            "extraSlotsName": "карманы одежды",
+                            "description": "",
+                            "hiddenDescription": "",
+                            "condition": "",
+                            "revealed": true,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1791297269236_gkldx",
+                      "time": "06.10.2026, 17:34",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»",
+                      "type": "full",
+                      "snapshot": {
+                        "charData": {
+                          "id": "ksaito",
+                          "name": "Ксайто",
+                          "portrait": null,
+                          "isCompanion": false,
+                          "class": "Догма",
+                          "race": "Нефалем",
+                          "personality": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии",
+                          "background": "",
+                          "level": 1,
+                          "xp": 0,
+                          "levelUpPoints": 0,
+                          "neurali": 88,
+                          "baseStats": {
+                            "hp": 112,
+                            "str": 1,
+                            "agi": 3,
+                            "int": 7
+                          },
+                          "handWeapon": null,
+                          "equipment": [
+                            {
+                              "id": "id_1791296978673_x5ybc",
+                              "itemId": "id_1791296942892_0mwbb",
+                              "name": "Роба Чёрного Мага",
+                              "category": "other",
+                              "stats": {
+                                "hp": 0,
+                                "str": 0,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "extraSlots": 0,
+                              "extraSlotsName": "",
+                              "description": "",
+                              "hiddenDescription": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+                              "condition": "",
+                              "revealed": false,
+                              "obtained": "",
+                              "quantity": 1,
+                              "log": []
+                            }
+                          ],
+                          "inventory": [
+                            {
+                              "id": "id_1791296942893_bngde",
+                              "itemId": "id_1791296942892_0mwbb",
+                              "name": "Роба Чёрного Мага",
+                              "category": "other",
+                              "stats": {
+                                "hp": 10,
+                                "str": 0,
+                                "agi": 0,
+                                "int": 0
+                              },
+                              "extraSlots": 0,
+                              "extraSlotsName": "",
+                              "description": "",
+                              "hiddenDescription": "Неизвестный предмет",
+                              "condition": "",
+                              "revealed": false,
+                              "obtained": "",
+                              "quantity": 1,
+                              "log": []
+                            }
+                          ],
+                          "extraSections": [],
+                          "active": [],
+                          "passive": [],
+                          "quirks": [],
+                          "talents": [],
+                          "education": [],
+                          "trainingsActive": [],
+                          "trainingsPlanned": [],
+                          "log": [
+                            {
+                              "id": "id_1791228045021_l3xll",
+                              "time": "05.10.2026, 22:20",
+                              "text": "Сез.1.5 Сесс.26 | Ксайто | Отправлено «\"Расслабляющие\" таблетки» в общак",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "replace",
+                                  "path": "name",
+                                  "value": "Ксайто"
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "class",
+                                  "value": ""
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "race",
+                                  "value": ""
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "personality",
+                                  "value": ""
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "background",
+                                  "value": ""
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "level",
+                                  "value": 1
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "xp",
+                                  "value": 0
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "levelUpPoints",
+                                  "value": 0
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "neurali",
+                                  "value": 0
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "portrait",
+                                  "value": null
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "baseStats",
+                                  "value": {
+                                    "hp": 0,
+                                    "str": 0,
+                                    "agi": 0,
+                                    "int": 0
+                                  }
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "handWeapon",
+                                  "value": null
+                                }
+                              ]
+                            },
+                            {
+                              "id": "id_1791296034261_kbkax",
+                              "time": "06.10.2026, 17:13",
+                              "text": "Сез.1.5 Сесс.26 | Ксайто | Неврали: 0 → 88",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "replace",
+                                  "path": "neurali",
+                                  "oldValue": 0,
+                                  "value": 88
+                                }
+                              ]
+                            },
+                            {
+                              "id": "id_1791296097059_rgut3",
+                              "time": "06.10.2026, 17:14",
+                              "text": "Сез.1.5 Сесс.26 | Ксайто | Базовые статы: ХП:0 Сил:0 Лов:0 Инт:0 → ХП:100 Сил:1 Лов:3 Инт:3",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "replace",
+                                  "path": "baseStats",
+                                  "oldValue": {
+                                    "hp": 0,
+                                    "str": 0,
+                                    "agi": 0,
+                                    "int": 0
+                                  },
+                                  "value": {
+                                    "hp": 100,
+                                    "str": 1,
+                                    "agi": 3,
+                                    "int": 3
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "id_1791296262072_8ywgp",
+                              "time": "06.10.2026, 17:17",
+                              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Базовые статы: ХП:100 Сил:1 Лов:3 Инт:3 → ХП:112 Сил:1 Лов:3 Инт:7",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "replace",
+                                  "path": "baseStats",
+                                  "oldValue": {
+                                    "hp": 100,
+                                    "str": 1,
+                                    "agi": 3,
+                                    "int": 3
+                                  },
+                                  "value": {
+                                    "hp": 112,
+                                    "str": 1,
+                                    "agi": 3,
+                                    "int": 7
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "id_1791296891391_ibd91",
+                              "time": "06.10.2026, 17:28",
+                              "text": "Сез.1.5 Сесс.26 | Ксайто | Основное",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "replace",
+                                  "path": "class",
+                                  "oldValue": "",
+                                  "value": "Догма"
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "race",
+                                  "oldValue": "",
+                                  "value": "Нефалем"
+                                },
+                                {
+                                  "op": "replace",
+                                  "path": "personality",
+                                  "oldValue": "",
+                                  "value": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии"
+                                }
+                              ]
+                            },
+                            {
+                              "id": "id_1791296942893_l5k2o",
+                              "time": "06.10.2026, 17:29",
+                              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Роба Чёрного Мага»",
+                              "type": "full",
+                              "snapshot": {
+                                "charData": {
+                                  "id": "ksaito",
+                                  "name": "Ксайто",
+                                  "portrait": null,
+                                  "isCompanion": false,
+                                  "class": "Догма",
+                                  "race": "Нефалем",
+                                  "personality": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии",
+                                  "background": "",
+                                  "level": 1,
+                                  "xp": 0,
+                                  "levelUpPoints": 0,
+                                  "neurali": 88,
+                                  "baseStats": {
+                                    "hp": 112,
+                                    "str": 1,
+                                    "agi": 3,
+                                    "int": 7
+                                  },
+                                  "handWeapon": null,
+                                  "equipment": [],
+                                  "inventory": [
+                                    {
+                                      "id": "id_1791296942893_bngde",
+                                      "itemId": "id_1791296942892_0mwbb",
+                                      "name": "Роба Чёрного Мага",
+                                      "category": "other",
+                                      "stats": {
+                                        "hp": 10,
+                                        "str": 0,
+                                        "agi": 0,
+                                        "int": 0
+                                      },
+                                      "extraSlots": 0,
+                                      "extraSlotsName": "",
+                                      "description": "",
+                                      "hiddenDescription": "Неизвестный предмет",
+                                      "condition": "",
+                                      "revealed": false,
+                                      "obtained": "",
+                                      "quantity": 1,
+                                      "log": []
+                                    }
+                                  ],
+                                  "extraSections": [],
+                                  "active": [],
+                                  "passive": [],
+                                  "quirks": [],
+                                  "talents": [],
+                                  "education": [],
+                                  "trainingsActive": [],
+                                  "trainingsPlanned": [],
+                                  "log": [
+                                    {
+                                      "id": "id_1791228045021_l3xll",
+                                      "time": "05.10.2026, 22:20",
+                                      "text": "Сез.1.5 Сесс.26 | Ксайто | Отправлено «\"Расслабляющие\" таблетки» в общак",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "replace",
+                                          "path": "name",
+                                          "value": "Ксайто"
+                                        },
+                                        {
+                                          "op": "replace",
+                                          "path": "class",
+                                          "value": ""
+                                        },
+                                        {
+                                          "op": "replace",
+                                          "path": "race",
+                                          "value": ""
+                                        },
+                                        {
+                                          "op": "replace",
+                                          "path": "personality",
+                                          "value": ""
+                                        },
+                                        {
+                                          "op": "replace",
+                                          "path": "background",
+                                          "value": ""
+                                        },
+                                        {
+                                          "op": "replace",
+                                          "path": "level",
+                                          "value": 1
+                                        },
+                                        {
+                                          "op": "replace",
+                                          "path": "xp",
+                                          "value": 0
+                                        },
+                                        {
+                                          "op": "replace",
+                                          "path": "levelUpPoints",
+                                          "value": 0
+                                        },
+                                        {
+                                          "op": "replace",
+                                          "path": "neurali",
+                                          "value": 0
+                                        },
+                                        {
+                                          "op": "replace",
+                                          "path": "portrait",
+                                          "value": null
+                                        },
+                                        {
+                                          "op": "replace",
+                                          "path": "baseStats",
+                                          "value": {
+                                            "hp": 0,
+                                            "str": 0,
+                                            "agi": 0,
+                                            "int": 0
+                                          }
+                                        },
+                                        {
+                                          "op": "replace",
+                                          "path": "handWeapon",
+                                          "value": null
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "id_1791296034261_kbkax",
+                                      "time": "06.10.2026, 17:13",
+                                      "text": "Сез.1.5 Сесс.26 | Ксайто | Неврали: 0 → 88",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "replace",
+                                          "path": "neurali",
+                                          "oldValue": 0,
+                                          "value": 88
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "id_1791296097059_rgut3",
+                                      "time": "06.10.2026, 17:14",
+                                      "text": "Сез.1.5 Сесс.26 | Ксайто | Базовые статы: ХП:0 Сил:0 Лов:0 Инт:0 → ХП:100 Сил:1 Лов:3 Инт:3",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "replace",
+                                          "path": "baseStats",
+                                          "oldValue": {
+                                            "hp": 0,
+                                            "str": 0,
+                                            "agi": 0,
+                                            "int": 0
+                                          },
+                                          "value": {
+                                            "hp": 100,
+                                            "str": 1,
+                                            "agi": 3,
+                                            "int": 3
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "id_1791296262072_8ywgp",
+                                      "time": "06.10.2026, 17:17",
+                                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Базовые статы: ХП:100 Сил:1 Лов:3 Инт:3 → ХП:112 Сил:1 Лов:3 Инт:7",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "replace",
+                                          "path": "baseStats",
+                                          "oldValue": {
+                                            "hp": 100,
+                                            "str": 1,
+                                            "agi": 3,
+                                            "int": 3
+                                          },
+                                          "value": {
+                                            "hp": 112,
+                                            "str": 1,
+                                            "agi": 3,
+                                            "int": 7
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "id": "id_1791296891391_ibd91",
+                                      "time": "06.10.2026, 17:28",
+                                      "text": "Сез.1.5 Сесс.26 | Ксайто | Основное",
+                                      "type": "delta",
+                                      "delta": [
+                                        {
+                                          "op": "replace",
+                                          "path": "class",
+                                          "oldValue": "",
+                                          "value": "Догма"
+                                        },
+                                        {
+                                          "op": "replace",
+                                          "path": "race",
+                                          "oldValue": "",
+                                          "value": "Нефалем"
+                                        },
+                                        {
+                                          "op": "replace",
+                                          "path": "personality",
+                                          "oldValue": "",
+                                          "value": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              }
+                            },
+                            {
+                              "id": "id_1791296953637_5gktw",
+                              "time": "06.10.2026, 17:29",
+                              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Роба Чёрного Мага»",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "add",
+                                  "path": "equipment",
+                                  "value": {
+                                    "id": "id_1791296953637_3955f",
+                                    "itemId": "id_1791296942892_0mwbb",
+                                    "name": "Роба Чёрного Мага",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 10,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 0,
+                                    "extraSlotsName": "",
+                                    "description": "",
+                                    "hiddenDescription": "Неизвестный предмет",
+                                    "condition": "",
+                                    "revealed": false,
+                                    "obtained": "",
+                                    "quantity": 1,
+                                    "log": []
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "id_1791296965451_4miqz",
+                              "time": "06.10.2026, 17:29",
+                              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Роба Чёрного Мага»",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "remove",
+                                  "path": "equipment",
+                                  "id": "id_1791296953637_3955f",
+                                  "oldValue": {
+                                    "id": "id_1791296953637_3955f",
+                                    "itemId": "id_1791296942892_0mwbb",
+                                    "name": "Роба Чёрного Мага",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 10,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 0,
+                                    "extraSlotsName": "",
+                                    "description": "",
+                                    "hiddenDescription": "Неизвестный предмет",
+                                    "condition": "",
+                                    "revealed": false,
+                                    "obtained": "",
+                                    "quantity": 1,
+                                    "log": []
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "id_1791296978673_pfnza",
+                              "time": "06.10.2026, 17:29",
+                              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Роба Чёрного Мага»",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "add",
+                                  "path": "equipment",
+                                  "value": {
+                                    "id": "id_1791296978673_x5ybc",
+                                    "itemId": "id_1791296942892_0mwbb",
+                                    "name": "Роба Чёрного Мага",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 0,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 0,
+                                    "extraSlotsName": "",
+                                    "description": "",
+                                    "hiddenDescription": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+                                    "condition": "",
+                                    "revealed": false,
+                                    "obtained": "",
+                                    "quantity": 1,
+                                    "log": []
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "id_1791297023436_eabfq",
+                              "time": "06.10.2026, 17:30",
+                              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "update",
+                                  "path": "equipment",
+                                  "id": "id_1791296978673_x5ybc",
+                                  "oldValue": {
+                                    "id": "id_1791296978673_x5ybc",
+                                    "itemId": "id_1791296942892_0mwbb",
+                                    "name": "Роба Чёрного Мага",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 10,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 0,
+                                    "extraSlotsName": "",
+                                    "description": "",
+                                    "hiddenDescription": "Неизвестный предмет",
+                                    "condition": "",
+                                    "revealed": false,
+                                    "obtained": "",
+                                    "quantity": 1,
+                                    "log": []
+                                  },
+                                  "value": {
+                                    "id": "id_1791296978673_x5ybc",
+                                    "itemId": "id_1791296942892_0mwbb",
+                                    "name": "Роба Чёрного Мага",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 0,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 0,
+                                    "extraSlotsName": "",
+                                    "description": "",
+                                    "hiddenDescription": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+                                    "condition": "",
+                                    "revealed": false,
+                                    "obtained": "",
+                                    "quantity": 1,
+                                    "log": []
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "id_1791297060656_ftt10",
+                              "time": "06.10.2026, 17:31",
+                              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»",
+                              "type": "delta",
+                              "delta": [
+                                {
+                                  "op": "update",
+                                  "path": "equipment",
+                                  "id": "id_1791296978673_x5ybc",
+                                  "oldValue": {
+                                    "id": "id_1791296978673_x5ybc",
+                                    "itemId": "id_1791296942892_0mwbb",
+                                    "name": "Роба Чёрного Мага",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 10,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 0,
+                                    "extraSlotsName": "",
+                                    "description": "",
+                                    "hiddenDescription": "Роба Чёрного Мага",
+                                    "condition": "",
+                                    "revealed": false,
+                                    "obtained": "",
+                                    "quantity": 1,
+                                    "log": []
+                                  },
+                                  "value": {
+                                    "id": "id_1791296978673_x5ybc",
+                                    "itemId": "id_1791296942892_0mwbb",
+                                    "name": "Роба Чёрного Мага",
+                                    "category": "other",
+                                    "stats": {
+                                      "hp": 0,
+                                      "str": 0,
+                                      "agi": 0,
+                                      "int": 0
+                                    },
+                                    "extraSlots": 0,
+                                    "extraSlotsName": "",
+                                    "description": "",
+                                    "hiddenDescription": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+                                    "condition": "",
+                                    "revealed": false,
+                                    "obtained": "",
+                                    "quantity": 1,
+                                    "log": []
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "id": "id_1791297348664_opzv3",
+                      "time": "06.10.2026, 17:35",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "update",
+                          "path": "equipment",
+                          "id": "id_1791296978673_x5ybc",
+                          "oldValue": {
+                            "id": "id_1791296978673_x5ybc",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "other",
+                            "stats": {
+                              "hp": 0,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 0,
+                            "extraSlotsName": "",
+                            "description": "",
+                            "hiddenDescription": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+                            "condition": "",
+                            "revealed": false,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          },
+                          "value": {
+                            "id": "id_1791296978673_x5ybc",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "other",
+                            "stats": {
+                              "hp": 10,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 1,
+                            "extraSlotsName": "карманы одежды",
+                            "description": "",
+                            "hiddenDescription": "",
+                            "condition": "",
+                            "revealed": true,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          }
+                        },
+                        {
+                          "op": "addSection",
+                          "value": {
+                            "id": "id_1791297348663_itjao",
+                            "name": "Слоты от «Роба Чёрного Мага»",
+                            "sourceItemId": "id_1791296978673_x5ybc",
+                            "capacity": 1,
+                            "items": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1791297475563_kcxxs",
+                      "time": "06.10.2026, 17:37",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "update",
+                          "path": "equipment",
+                          "id": "id_1791296978673_x5ybc",
+                          "oldValue": {
+                            "id": "id_1791296978673_x5ybc",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "armor",
+                            "stats": {
+                              "hp": 0,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 1,
+                            "extraSlotsName": "",
+                            "description": "ХП +10\nОгнеустойчивость\n+1 доп. слот: Карманы одежды",
+                            "hiddenDescription": "",
+                            "condition": "",
+                            "revealed": false,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          },
+                          "value": {
+                            "id": "id_1791296978673_x5ybc",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "other",
+                            "stats": {
+                              "hp": 10,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 1,
+                            "extraSlotsName": "карманы одежды",
+                            "description": "",
+                            "hiddenDescription": "",
+                            "condition": "",
+                            "revealed": true,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1791297486708_zf8m6",
+                      "time": "06.10.2026, 17:38",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»"
+                    },
+                    {
+                      "id": "id_1791297549637_dau8r",
+                      "time": "06.10.2026, 17:39",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "update",
+                          "path": "equipment",
+                          "id": "id_1791296978673_x5ybc",
+                          "oldValue": {
+                            "id": "id_1791296978673_x5ybc",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "armor",
+                            "stats": {
+                              "hp": 10,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 1,
+                            "extraSlotsName": "карманы одежды",
+                            "description": "",
+                            "hiddenDescription": "",
+                            "condition": "",
+                            "revealed": false,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          },
+                          "value": {
+                            "id": "id_1791296978673_x5ybc",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "other",
+                            "stats": {
+                              "hp": 10,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 1,
+                            "extraSlotsName": "карманы одежды",
+                            "description": "",
+                            "hiddenDescription": "",
+                            "condition": "",
+                            "revealed": true,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1791297559244_134ic",
+                      "time": "06.10.2026, 17:39",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Раскрыт «Роба Чёрного Мага»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "update",
+                          "path": "equipment",
+                          "id": "id_1791296978673_x5ybc",
+                          "oldValue": {
+                            "id": "id_1791296978673_x5ybc",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "other",
+                            "stats": {
+                              "hp": 10,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 1,
+                            "extraSlotsName": "карманы одежды",
+                            "description": "",
+                            "hiddenDescription": "",
+                            "condition": "",
+                            "revealed": false,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          },
+                          "value": {
+                            "id": "id_1791296978673_x5ybc",
+                            "itemId": "id_1791296942892_0mwbb",
+                            "name": "Роба Чёрного Мага",
+                            "category": "other",
+                            "stats": {
+                              "hp": 10,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 1,
+                            "extraSlotsName": "карманы одежды",
+                            "description": "",
+                            "hiddenDescription": "",
+                            "condition": "",
+                            "revealed": true,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "id_1791297567958_jvexo",
+                      "time": "06.10.2026, 17:39",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Роба Чёрного Мага»"
+                    },
+                    {
+                      "id": "id_1791297671770_o4r1l",
+                      "time": "06.10.2026, 17:41",
+                      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Чёрные резиновые сапоги»",
+                      "type": "delta",
+                      "delta": [
+                        {
+                          "op": "add",
+                          "path": "inventory",
+                          "value": {
+                            "id": "id_1791297671770_jx4g7",
+                            "itemId": "id_1791297671770_repkh",
+                            "name": "Чёрные резиновые сапоги",
+                            "category": "other",
+                            "stats": {
+                              "hp": 0,
+                              "str": 0,
+                              "agi": 0,
+                              "int": 0
+                            },
+                            "extraSlots": 0,
+                            "extraSlotsName": "",
+                            "description": "",
+                            "hiddenDescription": "Неизвестный предмет",
+                            "condition": "",
+                            "revealed": false,
+                            "obtained": "",
+                            "quantity": 1,
+                            "log": []
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "id_1791297701401_dvxyn",
+              "time": "06.10.2026, 17:41",
+              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Чёрные резиновые сапоги»"
+            },
+            {
+              "id": "id_1791297705834_pi7qh",
+              "time": "06.10.2026, 17:41",
+              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Чёрные резиновые сапоги»",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "update",
+                  "path": "equipment",
+                  "id": "id_1791297678866_odla2",
+                  "oldValue": {
+                    "id": "id_1791297678866_odla2",
+                    "itemId": "id_1791297671770_repkh",
+                    "name": "Чёрные резиновые сапоги",
+                    "category": "other",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "",
+                    "description": "",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "",
+                    "revealed": false,
+                    "obtained": "",
+                    "quantity": 1,
+                    "log": []
+                  },
+                  "value": {
+                    "id": "id_1791297678866_odla2",
+                    "itemId": "id_1791297671770_repkh",
+                    "name": "Чёрные резиновые сапоги",
+                    "category": "other",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "",
+                    "description": "",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "",
+                    "revealed": true,
+                    "obtained": "",
+                    "quantity": 1,
+                    "log": []
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1791297883451_kup7n",
+              "time": "06.10.2026, 17:44",
+              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Латексные чёрные перчатки»",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "add",
+                  "path": "inventory",
+                  "value": {
+                    "id": "id_1791297883451_y2ezr",
+                    "itemId": "id_1791297883451_lc8z0",
+                    "name": "Латексные чёрные перчатки",
+                    "category": "other",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 3,
+                    "extraSlotsName": "",
+                    "description": "",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "",
+                    "revealed": false,
+                    "obtained": "",
+                    "quantity": 1,
+                    "log": []
+                  }
+                },
+                {
+                  "op": "addSection",
+                  "value": {
+                    "id": "id_1791297883451_4myli",
+                    "name": "Слоты от «Латексные чёрные перчатки»",
+                    "sourceItemId": "id_1791297883451_lc8z0",
+                    "capacity": 3,
+                    "items": []
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1791297895103_l3sr1",
+              "time": "06.10.2026, 17:44",
+              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Латексные чёрные перчатки»",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "add",
+                  "path": "equipment",
+                  "value": {
+                    "id": "id_1791297895103_2xhl8",
+                    "itemId": "id_1791297883451_lc8z0",
+                    "name": "Латексные чёрные перчатки",
+                    "category": "other",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 3,
+                    "extraSlotsName": "Слоты от «Латексные чёрные перчатки»",
+                    "description": "",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "",
+                    "revealed": true,
+                    "obtained": "",
+                    "quantity": 1,
+                    "log": []
+                  }
+                },
+                {
+                  "op": "addSection",
+                  "value": {
+                    "id": "id_1791297895103_xdgvy",
+                    "name": "Слоты от «Латексные чёрные перчатки»",
+                    "sourceItemId": "id_1791297883451_lc8z0",
+                    "capacity": 3,
+                    "items": []
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1791297947233_ivoid",
+              "time": "06.10.2026, 17:45",
+              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Наплечный рюкзак»",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "add",
+                  "path": "inventory",
+                  "value": {
+                    "id": "id_1791297947233_vtnth",
+                    "itemId": "id_1791297947233_ieygx",
+                    "name": "Наплечный рюкзак",
+                    "category": "other",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 3,
+                    "extraSlotsName": "",
+                    "description": "",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "",
+                    "revealed": false,
+                    "obtained": "",
+                    "quantity": 1,
+                    "log": []
+                  }
+                },
+                {
+                  "op": "addSection",
+                  "value": {
+                    "id": "id_1791297947233_kn2ha",
+                    "name": "Слоты от «Наплечный рюкзак»",
+                    "sourceItemId": "id_1791297947233_ieygx",
+                    "capacity": 3,
+                    "items": []
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1791297962165_0y9zy",
+              "time": "06.10.2026, 17:46",
+              "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Чёрные резиновые сапоги»",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "add",
+                  "path": "equipment",
+                  "value": {
+                    "id": "id_1791297962165_4been",
+                    "itemId": "id_1791297671770_repkh",
+                    "name": "Чёрные резиновые сапоги",
+                    "category": "other",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "Слоты от «Наплечный рюкзак»",
+                    "description": "",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "",
+                    "revealed": true,
+                    "obtained": "",
+                    "quantity": 1,
+                    "log": []
+                  }
+                }
+              ]
             }
           ]
         }
       }
-    },
-    {
-      "id": "id_1791297701401_dvxyn",
-      "time": "06.10.2026, 17:41",
-      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Чёрные резиновые сапоги»"
-    },
-    {
-      "id": "id_1791297705834_pi7qh",
-      "time": "06.10.2026, 17:41",
-      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Чёрные резиновые сапоги»",
-      "type": "delta",
-      "delta": [
-        {
-          "op": "update",
-          "path": "equipment",
-          "id": "id_1791297678866_odla2",
-          "oldValue": {
-            "id": "id_1791297678866_odla2",
-            "itemId": "id_1791297671770_repkh",
-            "name": "Чёрные резиновые сапоги",
-            "category": "other",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 0,
-            "extraSlotsName": "",
-            "description": "",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "",
-            "revealed": false,
-            "obtained": "",
-            "quantity": 1,
-            "log": []
-          },
-          "value": {
-            "id": "id_1791297678866_odla2",
-            "itemId": "id_1791297671770_repkh",
-            "name": "Чёрные резиновые сапоги",
-            "category": "other",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 0,
-            "extraSlotsName": "",
-            "description": "",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "",
-            "revealed": true,
-            "obtained": "",
-            "quantity": 1,
-            "log": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "id_1791297883451_kup7n",
-      "time": "06.10.2026, 17:44",
-      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Латексные чёрные перчатки»",
-      "type": "delta",
-      "delta": [
-        {
-          "op": "add",
-          "path": "inventory",
-          "value": {
-            "id": "id_1791297883451_y2ezr",
-            "itemId": "id_1791297883451_lc8z0",
-            "name": "Латексные чёрные перчатки",
-            "category": "other",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 3,
-            "extraSlotsName": "",
-            "description": "",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "",
-            "revealed": false,
-            "obtained": "",
-            "quantity": 1,
-            "log": []
-          }
-        },
-        {
-          "op": "addSection",
-          "value": {
-            "id": "id_1791297883451_4myli",
-            "name": "Слоты от «Латексные чёрные перчатки»",
-            "sourceItemId": "id_1791297883451_lc8z0",
-            "capacity": 3,
-            "items": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "id_1791297895103_l3sr1",
-      "time": "06.10.2026, 17:44",
-      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Латексные чёрные перчатки»",
-      "type": "delta",
-      "delta": [
-        {
-          "op": "add",
-          "path": "equipment",
-          "value": {
-            "id": "id_1791297895103_2xhl8",
-            "itemId": "id_1791297883451_lc8z0",
-            "name": "Латексные чёрные перчатки",
-            "category": "other",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 3,
-            "extraSlotsName": "Слоты от «Латексные чёрные перчатки»",
-            "description": "",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "",
-            "revealed": true,
-            "obtained": "",
-            "quantity": 1,
-            "log": []
-          }
-        },
-        {
-          "op": "addSection",
-          "value": {
-            "id": "id_1791297895103_xdgvy",
-            "name": "Слоты от «Латексные чёрные перчатки»",
-            "sourceItemId": "id_1791297883451_lc8z0",
-            "capacity": 3,
-            "items": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "id_1791297947233_ivoid",
-      "time": "06.10.2026, 17:45",
-      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Наплечный рюкзак»",
-      "type": "delta",
-      "delta": [
-        {
-          "op": "add",
-          "path": "inventory",
-          "value": {
-            "id": "id_1791297947233_vtnth",
-            "itemId": "id_1791297947233_ieygx",
-            "name": "Наплечный рюкзак",
-            "category": "other",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 3,
-            "extraSlotsName": "",
-            "description": "",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "",
-            "revealed": false,
-            "obtained": "",
-            "quantity": 1,
-            "log": []
-          }
-        },
-        {
-          "op": "addSection",
-          "value": {
-            "id": "id_1791297947233_kn2ha",
-            "name": "Слоты от «Наплечный рюкзак»",
-            "sourceItemId": "id_1791297947233_ieygx",
-            "capacity": 3,
-            "items": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "id_1791297962165_0y9zy",
-      "time": "06.10.2026, 17:46",
-      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Чёрные резиновые сапоги»",
-      "type": "delta",
-      "delta": [
-        {
-          "op": "add",
-          "path": "equipment",
-          "value": {
-            "id": "id_1791297962165_4been",
-            "itemId": "id_1791297671770_repkh",
-            "name": "Чёрные резиновые сапоги",
-            "category": "other",
-            "stats": {
-              "hp": 0,
-              "str": 0,
-              "agi": 0,
-              "int": 0
-            },
-            "extraSlots": 0,
-            "extraSlotsName": "Слоты от «Наплечный рюкзак»",
-            "description": "",
-            "hiddenDescription": "Неизвестный предмет",
-            "condition": "",
-            "revealed": true,
-            "obtained": "",
-            "quantity": 1,
-            "log": []
-          }
-        }
-      ]
     }
   ]
 }
