@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T15:39:26.969Z",
+  "updatedAt": "2026-10-06T15:39:54.524Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -184,23 +184,6 @@
       },
       "extraSlots": 1,
       "extraSlotsName": "Карманы одежды",
-      "description": "",
-      "hiddenDescription": "",
-      "condition": "",
-      "known": true
-    },
-    {
-      "id": "id_1791299457371_ud6jo",
-      "name": "Простая винтовка",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 1,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
       "description": "",
       "hiddenDescription": "",
       "condition": "",
