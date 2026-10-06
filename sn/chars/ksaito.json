@@ -12,10 +12,10 @@
   "levelUpPoints": 0,
   "neurali": 88,
   "baseStats": {
-    "hp": 100,
+    "hp": 112,
     "str": 1,
     "agi": 3,
-    "int": 3
+    "int": 7
   },
   "handWeapon": null,
   "equipment": [],
@@ -136,6 +136,30 @@
             "str": 1,
             "agi": 3,
             "int": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791296262072_8ywgp",
+      "time": "06.10.2026, 17:17",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Базовые статы: ХП:100 Сил:1 Лов:3 Инт:3 → ХП:112 Сил:1 Лов:3 Инт:7",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "baseStats",
+          "oldValue": {
+            "hp": 100,
+            "str": 1,
+            "agi": 3,
+            "int": 3
+          },
+          "value": {
+            "hp": 112,
+            "str": 1,
+            "agi": 3,
+            "int": 7
           }
         }
       ]
