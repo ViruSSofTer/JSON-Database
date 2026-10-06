@@ -76,6 +76,19 @@
       "obtained": "",
       "revealed": true,
       "itemId": "id_1791306029457_53owb"
+    },
+    {
+      "id": "id_1791307234745_612aj",
+      "name": "Наплечный рюкзак",
+      "desc": "",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "quantity": 1,
+      "log": []
     }
   ],
   "inventory": [],
@@ -39514,6 +39527,31 @@
             "sourceItemId": "id_1791297947233_ieygx",
             "capacity": 3,
             "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791307234745_so0t6",
+      "time": "06.10.2026, 20:20",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Наплечный рюкзак»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1791307234745_612aj",
+            "name": "Наплечный рюкзак",
+            "desc": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": []
           }
         }
       ]
