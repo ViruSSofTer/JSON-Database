@@ -11,29 +11,7 @@
     "agi": 3,
     "int": 3
   },
-  "equipment": [
-    {
-      "id": "id_1791301666532_u3k50",
-      "itemId": "id_1791301640077_tqti7",
-      "name": "Роба Чёрного Мага",
-      "category": "armor",
-      "stats": {
-        "hp": 10,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 1,
-      "extraSlotsName": "Карманы одежды",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    }
-  ],
+  "equipment": [],
   "inventory": [],
   "extraSections": [
     {
@@ -91,13 +69,6 @@
     {
       "id": "id_1791301640077_oojx5",
       "name": "Слоты от «Роба Чёрного Мага»",
-      "sourceItemId": "id_1791301640077_tqti7",
-      "capacity": 1,
-      "items": []
-    },
-    {
-      "id": "id_1791301666532_yxmfk",
-      "name": "Карманы одежды",
       "sourceItemId": "id_1791301640077_tqti7",
       "capacity": 1,
       "items": []
