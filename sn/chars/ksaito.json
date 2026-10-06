@@ -12,7 +12,29 @@
     "int": 3
   },
   "equipment": [],
-  "inventory": [],
+  "inventory": [
+    {
+      "id": "id_1791301640077_6iodl",
+      "itemId": "id_1791301640077_tqti7",
+      "name": "Роба Чёрного Мага",
+      "category": "armor",
+      "stats": {
+        "hp": 10,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 1,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
+    }
+  ],
   "extraSections": [
     {
       "id": "id_1791297947233_kn2ha",
@@ -40,6 +62,13 @@
       "name": "Слоты от «Латексные чёрные перчатки»",
       "sourceItemId": "id_1791297883451_lc8z0",
       "capacity": 3,
+      "items": []
+    },
+    {
+      "id": "id_1791301640077_oojx5",
+      "name": "Слоты от «Роба Чёрного Мага»",
+      "sourceItemId": "id_1791301640077_tqti7",
+      "capacity": 1,
       "items": []
     }
   ],
@@ -18027,6 +18056,49 @@
             "obtained": "",
             "quantity": 1,
             "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791301640077_w0267",
+      "time": "06.10.2026, 18:47",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Роба Чёрного Мага»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1791301640077_6iodl",
+            "itemId": "id_1791301640077_tqti7",
+            "name": "Роба Чёрного Мага",
+            "category": "armor",
+            "stats": {
+              "hp": 10,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1791301640077_oojx5",
+            "name": "Слоты от «Роба Чёрного Мага»",
+            "sourceItemId": "id_1791301640077_tqti7",
+            "capacity": 1,
+            "items": []
           }
         }
       ]
