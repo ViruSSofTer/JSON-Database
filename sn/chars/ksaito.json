@@ -76,27 +76,6 @@
       "obtained": "",
       "revealed": true,
       "itemId": "id_1791306029457_53owb"
-    },
-    {
-      "id": "id_1791306190193_z6p1b",
-      "itemId": "id_1791306126426_wh7o4",
-      "name": "Наплечный рюкзак",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 3,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
     }
   ],
   "inventory": [],
@@ -164,13 +143,6 @@
       "id": "id_1791306112750_ttt0b",
       "name": "Слоты от «Наплечный рюкзак»",
       "sourceItemId": "id_1791306075866_27fyk",
-      "capacity": 3,
-      "items": []
-    },
-    {
-      "id": "id_1791306190193_h449o",
-      "name": "Слоты от «Наплечный рюкзак»",
-      "sourceItemId": "id_1791306126426_wh7o4",
       "capacity": 3,
       "items": []
     }
