@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T15:47:20.079Z",
+  "updatedAt": "2026-10-06T15:47:46.534Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -105,6 +105,23 @@
       "known": true
     },
     {
+      "id": "id_1791301640077_tqti7",
+      "name": "Роба Чёрного Мага",
+      "category": "armor",
+      "stats": {
+        "hp": 10,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 1,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": true
+    },
+    {
       "id": "id_1790881073108_8a7ka",
       "name": "Тяжёлый молот наследия",
       "category": "weapon",
@@ -135,23 +152,6 @@
       "description": "Простая маленькая фляжка для воды",
       "hiddenDescription": "",
       "condition": "Пустая",
-      "known": true
-    },
-    {
-      "id": "id_1791301640077_tqti7",
-      "name": "Роба Чёрного Мага",
-      "category": "armor",
-      "stats": {
-        "hp": 10,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 1,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "",
-      "condition": "",
       "known": true
     }
   ],
