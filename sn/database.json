@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T15:40:04.645Z",
+  "updatedAt": "2026-10-06T15:40:20.580Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -124,23 +124,6 @@
     {
       "id": "id_1791299235713_e0qd2",
       "name": "Манатитовый крест",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "",
-      "condition": "",
-      "known": true
-    },
-    {
-      "id": "id_1791299050277_vi3xr",
-      "name": "Мешочек с арканным пространством",
       "category": "other",
       "stats": {
         "hp": 0,
