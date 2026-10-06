@@ -186,6 +186,27 @@
       "obtained": "",
       "quantity": 1,
       "log": []
+    },
+    {
+      "id": "id_1791299893731_zts3t",
+      "itemId": "id_1791297883451_lc8z0",
+      "name": "Латексные чёрные перчатки",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 3,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": true,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
     }
   ],
   "inventory": [],
@@ -229,6 +250,13 @@
       "id": "id_1791298046514_mqv5l",
       "name": "Слоты от «Наплечный рюкзак»",
       "sourceItemId": "id_1791297947233_ieygx",
+      "capacity": 3,
+      "items": []
+    },
+    {
+      "id": "id_1791299893731_r8o2p",
+      "name": "Слоты от «Латексные чёрные перчатки»",
+      "sourceItemId": "id_1791297883451_lc8z0",
       "capacity": 3,
       "items": []
     }
@@ -13213,6 +13241,49 @@
             "obtained": "",
             "quantity": 1,
             "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791299893731_ad4v6",
+      "time": "06.10.2026, 18:18",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Латексные чёрные перчатки»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1791299893731_zts3t",
+            "itemId": "id_1791297883451_lc8z0",
+            "name": "Латексные чёрные перчатки",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 3,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1791299893731_r8o2p",
+            "name": "Слоты от «Латексные чёрные перчатки»",
+            "sourceItemId": "id_1791297883451_lc8z0",
+            "capacity": 3,
+            "items": []
           }
         }
       ]
