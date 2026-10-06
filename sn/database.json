@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T16:57:23.389Z",
+  "updatedAt": "2026-10-06T16:58:50.554Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -186,6 +186,23 @@
       "description": "Простая маленькая фляжка для воды",
       "hiddenDescription": "",
       "condition": "Пустая",
+      "known": true
+    },
+    {
+      "id": "id_1791305930552_8uh7e",
+      "name": "Чёрные резиновые сапоги",
+      "category": "armor",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "extraSlots": 0,
+      "extraSlotsName": "",
       "known": true
     }
   ],
