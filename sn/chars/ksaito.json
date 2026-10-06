@@ -167,27 +167,6 @@
       "obtained": "",
       "quantity": 1,
       "log": []
-    },
-    {
-      "id": "id_1791297947233_vtnth",
-      "itemId": "id_1791297947233_ieygx",
-      "name": "Наплечный рюкзак",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 3,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": false,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
     }
   ],
   "extraSections": [
@@ -3810,6 +3789,40 @@
             "sourceItemId": "id_1791297947233_ieygx",
             "capacity": 3,
             "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791298057134_jcjl8",
+      "time": "06.10.2026, 17:47",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Инвентарь | Убрано «Наплечный рюкзак»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1791297947233_vtnth",
+          "oldValue": {
+            "id": "id_1791297947233_vtnth",
+            "itemId": "id_1791297947233_ieygx",
+            "name": "Наплечный рюкзак",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 3,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
           }
         }
       ]
