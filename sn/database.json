@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T15:40:50.303Z",
+  "updatedAt": "2026-10-06T15:41:00.869Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -83,23 +83,6 @@
       "extraSlots": 0,
       "extraSlotsName": "",
       "description": "Призывает элементаля желаемой стихии при контакте с этой стихией.",
-      "hiddenDescription": "",
-      "condition": "",
-      "known": true
-    },
-    {
-      "id": "id_1791299094860_83bv1",
-      "name": "Кулон защиты",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
       "hiddenDescription": "",
       "condition": "",
       "known": true
