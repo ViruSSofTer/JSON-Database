@@ -13,48 +13,6 @@
   },
   "equipment": [
     {
-      "id": "id_1791298046514_ypl3w",
-      "itemId": "id_1791297947233_ieygx",
-      "name": "Наплечный рюкзак",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 3,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    },
-    {
-      "id": "id_1791298172329_zdg01",
-      "itemId": "id_1791298161206_eza2j",
-      "name": "Железный щит-обломок",
-      "category": "other",
-      "stats": {
-        "hp": 2,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "Слоты от «Наплечный рюкзак»",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    },
-    {
       "id": "id_1791299060186_6pd2m",
       "itemId": "id_1791299050277_vi3xr",
       "name": "Мешочек с арканным пространством",
@@ -15634,6 +15592,74 @@
             },
             "extraSlots": 0,
             "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791301487614_xuwo3",
+      "time": "06.10.2026, 18:44",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Наплечный рюкзак»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "equipment",
+          "id": "id_1791298046514_ypl3w",
+          "oldValue": {
+            "id": "id_1791298046514_ypl3w",
+            "itemId": "id_1791297947233_ieygx",
+            "name": "Наплечный рюкзак",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 3,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791301489231_3gaj4",
+      "time": "06.10.2026, 18:44",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Железный щит-обломок»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "equipment",
+          "id": "id_1791298172329_zdg01",
+          "oldValue": {
+            "id": "id_1791298172329_zdg01",
+            "itemId": "id_1791298161206_eza2j",
+            "name": "Железный щит-обломок",
+            "category": "other",
+            "stats": {
+              "hp": 2,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Слоты от «Наплечный рюкзак»",
             "description": "",
             "hiddenDescription": "Неизвестный предмет",
             "condition": "",
