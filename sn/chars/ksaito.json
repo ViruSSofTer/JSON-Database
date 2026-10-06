@@ -11,7 +11,29 @@
     "agi": 3,
     "int": 3
   },
-  "equipment": [],
+  "equipment": [
+    {
+      "id": "id_1791305843387_fyodn",
+      "itemId": "id_1791301640077_tqti7",
+      "name": "Роба Чёрного Мага",
+      "category": "armor",
+      "stats": {
+        "hp": 10,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 1,
+      "extraSlotsName": "Карманы одежды",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": true,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
+    }
+  ],
   "inventory": [],
   "extraSections": [
     {
@@ -65,6 +87,13 @@
           "revealed": true
         }
       ]
+    },
+    {
+      "id": "id_1791305843387_zxy8x",
+      "name": "Карманы одежды",
+      "sourceItemId": "id_1791301640077_tqti7",
+      "capacity": 1,
+      "items": []
     }
   ],
   "active": [],
@@ -27781,6 +27810,49 @@
             "obtained": "",
             "quantity": 1,
             "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791305843387_c1678",
+      "time": "06.10.2026, 19:57",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Добавлено «Роба Чёрного Мага»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1791305843387_fyodn",
+            "itemId": "id_1791301640077_tqti7",
+            "name": "Роба Чёрного Мага",
+            "category": "armor",
+            "stats": {
+              "hp": 10,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "Карманы одежды",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1791305843387_zxy8x",
+            "name": "Карманы одежды",
+            "sourceItemId": "id_1791301640077_tqti7",
+            "capacity": 1,
+            "items": []
           }
         }
       ]
