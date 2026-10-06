@@ -76,19 +76,6 @@
       "obtained": "",
       "revealed": true,
       "itemId": "id_1791306029457_53owb"
-    },
-    {
-      "id": "id_1791307240819_1hg5d",
-      "name": "Наплечный рюкзак",
-      "desc": "",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "quantity": 1,
-      "log": []
     }
   ],
   "inventory": [],
