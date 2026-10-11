@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-11T18:07:40.079Z",
+  "updatedAt": "2026-10-11T18:07:57.781Z",
   "friendships": {
     "chushka-ksaito": {
       "charA": "chushka",
@@ -1957,7 +1957,7 @@
       "charA": "chushka",
       "charB": "arian",
       "level": 3,
-      "xp": 61,
+      "xp": 23,
       "bonuses": [],
       "log": [
         {
@@ -1996,6 +1996,64 @@
                   "xp": 0,
                   "bonuses": [],
                   "log": [],
+                  "combos": []
+                }
+              }
+            ],
+            "combos": []
+          }
+        },
+        {
+          "id": "id_1791742077780_dlzqs",
+          "time": "11.10.2026, 21:07",
+          "text": "Сез.1.5 Сесс.26 | Флазиторы | Чушка—Ариан | XP -38",
+          "snapshot": {
+            "charA": "chushka",
+            "charB": "arian",
+            "level": 3,
+            "xp": 61,
+            "bonuses": [],
+            "log": [
+              {
+                "id": "id_1791741938604_ngv4q",
+                "time": "11.10.2026, 21:05",
+                "text": "Сез.1.5 Сесс.26 | Флазиторы | Чушка—Ариан | XP +150 | Уровень повышен до 4 (+3)",
+                "snapshot": {
+                  "charA": "chushka",
+                  "charB": "arian",
+                  "level": 1,
+                  "xp": 0,
+                  "bonuses": [],
+                  "log": [],
+                  "combos": []
+                }
+              },
+              {
+                "id": "id_1791741956874_9izvj",
+                "time": "11.10.2026, 21:05",
+                "text": "Сез.1.5 Сесс.26 | Флазиторы | Чушка—Ариан | XP -9 | Уровень понижен до 3",
+                "snapshot": {
+                  "charA": "chushka",
+                  "charB": "arian",
+                  "level": 4,
+                  "xp": 0,
+                  "bonuses": [],
+                  "log": [
+                    {
+                      "id": "id_1791741938604_ngv4q",
+                      "time": "11.10.2026, 21:05",
+                      "text": "Сез.1.5 Сесс.26 | Флазиторы | Чушка—Ариан | XP +150 | Уровень повышен до 4 (+3)",
+                      "snapshot": {
+                        "charA": "chushka",
+                        "charB": "arian",
+                        "level": 1,
+                        "xp": 0,
+                        "bonuses": [],
+                        "log": [],
+                        "combos": []
+                      }
+                    }
+                  ],
                   "combos": []
                 }
               }
