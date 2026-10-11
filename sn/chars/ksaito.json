@@ -120,29 +120,7 @@
       "log": []
     }
   ],
-  "inventory": [
-    {
-      "id": "id_1791743821249_k0p3k",
-      "itemId": "id_1791743821249_u1w64",
-      "name": "Труселя абсолютного стиля",
-      "category": "armor",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": false,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    }
-  ],
+  "inventory": [],
   "extraSections": [],
   "active": [
     {
@@ -96926,6 +96904,40 @@
           "handWeapon": null
         }
       }
+    },
+    {
+      "id": "id_1791743862086_hvjo4",
+      "time": "11.10.2026, 21:37",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Труселя абсолютного стиля»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1791743821249_k0p3k",
+          "oldValue": {
+            "id": "id_1791743821249_k0p3k",
+            "itemId": "id_1791743821249_u1w64",
+            "name": "Труселя абсолютного стиля",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
     }
   ],
   "name": "Ксайто",
