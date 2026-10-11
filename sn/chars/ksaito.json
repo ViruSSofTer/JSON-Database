@@ -78,7 +78,29 @@
       "itemId": "id_1791306029457_53owb"
     }
   ],
-  "inventory": [],
+  "inventory": [
+    {
+      "id": "id_1791741324880_0mgxe",
+      "itemId": "id_1791741324880_a0bgk",
+      "name": "Манатитовый крест",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
+    }
+  ],
   "extraSections": [],
   "active": [
     {
@@ -57947,6 +57969,39 @@
             "obtained": "",
             "revealed": true,
             "itemId": "id_1791305930552_8uh7e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791741324880_a9rz2",
+      "time": "11.10.2026, 20:55",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — «Манатитовый крест»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1791741324880_0mgxe",
+            "itemId": "id_1791741324880_a0bgk",
+            "name": "Манатитовый крест",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
           }
         }
       ]
