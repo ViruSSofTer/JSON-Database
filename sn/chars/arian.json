@@ -1,0 +1,65 @@
+{
+  "id": "arian",
+  "name": "Ариан",
+  "portrait": null,
+  "isCompanion": false,
+  "class": "Алхимк-травник",
+  "race": "Люпенталь(лис девятихвост)",
+  "personality": "Романтик",
+  "background": "Амнезиак с загадочным прошлым...",
+  "level": 1,
+  "xp": 0,
+  "levelUpPoints": 0,
+  "neurali": 0,
+  "baseStats": {
+    "hp": 0,
+    "str": 0,
+    "agi": 0,
+    "int": 0
+  },
+  "handWeapon": null,
+  "equipment": [],
+  "inventory": [],
+  "extraSections": [],
+  "active": [],
+  "passive": [],
+  "quirks": [],
+  "talents": [],
+  "education": [],
+  "trainingsActive": [],
+  "trainingsPlanned": [],
+  "log": [
+    {
+      "id": "id_1791739660169_auf3x",
+      "time": "11.10.2026, 20:27",
+      "text": "Сез.1.5 Сесс.26 | Ариан | Экипировка | Основное",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "class",
+          "oldValue": "",
+          "value": "Алхимк-травник"
+        },
+        {
+          "op": "replace",
+          "path": "race",
+          "oldValue": "",
+          "value": "Люпенталь(лис девятихвост)"
+        },
+        {
+          "op": "replace",
+          "path": "personality",
+          "oldValue": "",
+          "value": "Романтик"
+        },
+        {
+          "op": "replace",
+          "path": "background",
+          "oldValue": "",
+          "value": "Амнезиак с загадочным прошлым..."
+        }
+      ]
+    }
+  ]
+}
