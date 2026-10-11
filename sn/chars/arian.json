@@ -40,6 +40,27 @@
       "obtained": "",
       "quantity": 1,
       "log": []
+    },
+    {
+      "id": "id_1791740011332_tapxe",
+      "itemId": "id_1791740011332_t2til",
+      "name": "Шорты с семью дырками",
+      "category": "armor",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
     }
   ],
   "extraSections": [
@@ -193,6 +214,39 @@
             "sourceItemId": "id_1791739998119_lx2sp",
             "capacity": 1,
             "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791740011333_rcqzb",
+      "time": "11.10.2026, 20:33",
+      "text": "Сез.1.5 Сесс.26 | Ариан | Инвентарь | База — «Шорты с семью дырками»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1791740011332_tapxe",
+            "itemId": "id_1791740011332_t2til",
+            "name": "Шорты с семью дырками",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
           }
         }
       ]
