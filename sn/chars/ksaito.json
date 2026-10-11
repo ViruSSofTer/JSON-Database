@@ -3,7 +3,7 @@
   "isCompanion": false,
   "level": 9,
   "xp": 49,
-  "levelUpPoints": 1,
+  "levelUpPoints": 0,
   "neurali": 88,
   "baseStats": {
     "hp": 100,
@@ -79272,6 +79272,20 @@
           "path": "xp",
           "oldValue": 59,
           "value": 49
+        }
+      ]
+    },
+    {
+      "id": "id_1791741725516_qxq7v",
+      "time": "11.10.2026, 21:02",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Потеряно 1 очко повышения",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "levelUpPoints",
+          "oldValue": 1,
+          "value": 0
         }
       ]
     }
