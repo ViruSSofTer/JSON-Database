@@ -81,7 +81,7 @@
       "id": "id_1791743669241_17phi",
       "itemId": "id_1791741324880_a0bgk",
       "name": "Манатитовый крест",
-      "category": "other",
+      "category": "armor",
       "stats": {
         "hp": 0,
         "str": 0,
@@ -93,7 +93,7 @@
       "description": "",
       "hiddenDescription": "Неизвестный предмет",
       "condition": "",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -90758,7 +90758,7 @@
             "id": "id_1791743669241_17phi",
             "itemId": "id_1791741324880_a0bgk",
             "name": "Манатитовый крест",
-            "category": "other",
+            "category": "armor",
             "stats": {
               "hp": 0,
               "str": 0,
@@ -90770,7 +90770,7 @@
             "description": "",
             "hiddenDescription": "Неизвестный предмет",
             "condition": "",
-            "revealed": false,
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
@@ -90787,6 +90787,66 @@
       "id": "id_1791743699023_y4pzv",
       "time": "11.10.2026, 21:34",
       "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — удалено «Манатитовый крест»"
+    },
+    {
+      "id": "id_1791743704632_a25y5",
+      "time": "11.10.2026, 21:35",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | База — удалено «Манатитовый крест»"
+    },
+    {
+      "id": "id_1791743732057_bguhs",
+      "time": "11.10.2026, 21:35",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Манатитовый крест»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791743669241_17phi",
+          "oldValue": {
+            "id": "id_1791743669241_17phi",
+            "itemId": "id_1791741324880_a0bgk",
+            "name": "Манатитовый крест",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791743669241_17phi",
+            "itemId": "id_1791741324880_a0bgk",
+            "name": "Манатитовый крест",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
     }
   ],
   "name": "Ксайто",
