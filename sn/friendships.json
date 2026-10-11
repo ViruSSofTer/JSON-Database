@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-11T18:08:23.791Z",
+  "updatedAt": "2026-10-11T18:08:30.545Z",
   "friendships": {
     "chushka-ksaito": {
       "charA": "chushka",
@@ -2068,7 +2068,7 @@
       "charA": "ksaito",
       "charB": "arian",
       "level": 3,
-      "xp": 20,
+      "xp": 19,
       "bonuses": [],
       "log": [
         {
@@ -2082,6 +2082,35 @@
             "xp": 0,
             "bonuses": [],
             "log": [],
+            "combos": []
+          }
+        },
+        {
+          "id": "id_1791742110544_ptze6",
+          "time": "11.10.2026, 21:08",
+          "text": "Сез.1.5 Сесс.26 | Флазиторы | Ксайто—Ариан | XP -1",
+          "snapshot": {
+            "charA": "ksaito",
+            "charB": "arian",
+            "level": 3,
+            "xp": 20,
+            "bonuses": [],
+            "log": [
+              {
+                "id": "id_1791742103790_9yw0k",
+                "time": "11.10.2026, 21:08",
+                "text": "Сез.1.5 Сесс.26 | Флазиторы | Ксайто—Ариан | XP +100 | Уровень повышен до 3 (+2)",
+                "snapshot": {
+                  "charA": "ksaito",
+                  "charB": "arian",
+                  "level": 1,
+                  "xp": 0,
+                  "bonuses": [],
+                  "log": [],
+                  "combos": []
+                }
+              }
+            ],
             "combos": []
           }
         }
