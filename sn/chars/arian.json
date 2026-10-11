@@ -23,7 +23,7 @@
     {
       "id": "id_1791739998119_lx2sp",
       "itemId": "id_1791739998119_a5vpi",
-      "name": "рабочая форма ремесленника",
+      "name": "Рабочая форма ремесленника",
       "category": "armor",
       "stats": {
         "hp": 5,
@@ -34,7 +34,7 @@
       "extraSlots": 1,
       "extraSlotsName": "слоты одежды",
       "description": "",
-      "hiddenDescription": "Неизвестный предмет",
+      "hiddenDescription": "",
       "condition": "",
       "revealed": false,
       "obtained": "",
@@ -187,7 +187,7 @@
           "value": {
             "id": "id_1791739998119_lx2sp",
             "itemId": "id_1791739998119_a5vpi",
-            "name": "рабочая форма ремесленника",
+            "name": "Рабочая форма ремесленника",
             "category": "armor",
             "stats": {
               "hp": 5,
@@ -198,7 +198,7 @@
             "extraSlots": 1,
             "extraSlotsName": "слоты одежды",
             "description": "",
-            "hiddenDescription": "Неизвестный предмет",
+            "hiddenDescription": "",
             "condition": "",
             "revealed": false,
             "obtained": "",
@@ -250,6 +250,269 @@
           }
         }
       ]
+    },
+    {
+      "id": "id_1791740032575_gbcx0",
+      "time": "11.10.2026, 20:33",
+      "text": "Сез.1.5 Сесс.26 | Ариан | Инвентарь | Правка «Рабочая форма ремесленника»",
+      "type": "full",
+      "snapshot": {
+        "charData": {
+          "id": "arian",
+          "name": "Ариан",
+          "portrait": null,
+          "isCompanion": false,
+          "class": "Алхимк-травник",
+          "race": "Люпенталь(лис девятихвост)",
+          "personality": "Романтик",
+          "background": "Амнезиак с загадочным прошлым...",
+          "level": 1,
+          "xp": 0,
+          "levelUpPoints": 0,
+          "neurali": 0,
+          "baseStats": {
+            "hp": 90,
+            "str": -1,
+            "agi": 3,
+            "int": 2
+          },
+          "handWeapon": null,
+          "equipment": [],
+          "inventory": [
+            {
+              "id": "id_1791739998119_lx2sp",
+              "itemId": "id_1791739998119_a5vpi",
+              "name": "Рабочая форма ремесленника",
+              "category": "armor",
+              "stats": {
+                "hp": 5,
+                "str": 0,
+                "agi": 0,
+                "int": 0
+              },
+              "extraSlots": 1,
+              "extraSlotsName": "слоты одежды",
+              "description": "",
+              "hiddenDescription": "",
+              "condition": "",
+              "revealed": false,
+              "obtained": "",
+              "quantity": 1,
+              "log": []
+            },
+            {
+              "id": "id_1791740011332_tapxe",
+              "itemId": "id_1791740011332_t2til",
+              "name": "Шорты с семью дырками",
+              "category": "armor",
+              "stats": {
+                "hp": 0,
+                "str": 0,
+                "agi": 0,
+                "int": 0
+              },
+              "extraSlots": 0,
+              "extraSlotsName": "",
+              "description": "",
+              "hiddenDescription": "Неизвестный предмет",
+              "condition": "",
+              "revealed": false,
+              "obtained": "",
+              "quantity": 1,
+              "log": []
+            }
+          ],
+          "extraSections": [
+            {
+              "id": "id_1791739998119_myqpl",
+              "name": "слоты одежды",
+              "sourceItemId": "id_1791739998119_lx2sp",
+              "capacity": 1,
+              "items": []
+            }
+          ],
+          "active": [],
+          "passive": [],
+          "quirks": [
+            {
+              "id": "id_1791739934879_2vgfg",
+              "name": "Проклятье вечного насморка.",
+              "desc": "Каждое активное действие проходит проверку на чих. Чих, как правило, приводит к негативному эффекту.\n[Состоит из 3-х частей: болезнь + побочный эффект + дефект]",
+              "stats": {
+                "hp": 0,
+                "str": 0,
+                "agi": 0,
+                "int": 0
+              },
+              "quantity": 1,
+              "log": []
+            }
+          ],
+          "talents": [],
+          "education": [],
+          "trainingsActive": [],
+          "trainingsPlanned": [],
+          "log": [
+            {
+              "id": "id_1791739660169_auf3x",
+              "time": "11.10.2026, 20:27",
+              "text": "Сез.1.5 Сесс.26 | Ариан | Экипировка | Основное",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "replace",
+                  "path": "class",
+                  "oldValue": "",
+                  "value": "Алхимк-травник"
+                },
+                {
+                  "op": "replace",
+                  "path": "race",
+                  "oldValue": "",
+                  "value": "Люпенталь(лис девятихвост)"
+                },
+                {
+                  "op": "replace",
+                  "path": "personality",
+                  "oldValue": "",
+                  "value": "Романтик"
+                },
+                {
+                  "op": "replace",
+                  "path": "background",
+                  "oldValue": "",
+                  "value": "Амнезиак с загадочным прошлым..."
+                }
+              ]
+            },
+            {
+              "id": "id_1791739880489_gz4xr",
+              "time": "11.10.2026, 20:31",
+              "text": "Сез.1.5 Сесс.26 | Ариан | Экипировка | Базовые статы: ХП:0 Сил:0 Лов:0 Инт:0 → ХП:90 Сил:-1 Лов:3 Инт:2",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "replace",
+                  "path": "baseStats",
+                  "oldValue": {
+                    "hp": 0,
+                    "str": 0,
+                    "agi": 0,
+                    "int": 0
+                  },
+                  "value": {
+                    "hp": 90,
+                    "str": -1,
+                    "agi": 3,
+                    "int": 2
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1791739934879_tli1l",
+              "time": "11.10.2026, 20:32",
+              "text": "Сез.1.5 Сесс.26 | Ариан | Фишки | Добавлено «Проклятье вечного насморка.»",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "add",
+                  "path": "quirks",
+                  "value": {
+                    "id": "id_1791739934879_2vgfg",
+                    "name": "Проклятье вечного насморка.",
+                    "desc": "Каждое активное действие проходит проверку на чих. Чих, как правило, приводит к негативному эффекту.\n[Состоит из 3-х частей: болезнь + побочный эффект + дефект]",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "quantity": 1,
+                    "log": []
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1791739998119_bpnwt",
+              "time": "11.10.2026, 20:33",
+              "text": "Сез.1.5 Сесс.26 | Ариан | Экипировка | База — «рабочая форма ремесленника»",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "add",
+                  "path": "inventory",
+                  "value": {
+                    "id": "id_1791739998119_lx2sp",
+                    "itemId": "id_1791739998119_a5vpi",
+                    "name": "Рабочая форма ремесленника",
+                    "category": "armor",
+                    "stats": {
+                      "hp": 5,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 1,
+                    "extraSlotsName": "слоты одежды",
+                    "description": "",
+                    "hiddenDescription": "",
+                    "condition": "",
+                    "revealed": false,
+                    "obtained": "",
+                    "quantity": 1,
+                    "log": []
+                  }
+                },
+                {
+                  "op": "addSection",
+                  "value": {
+                    "id": "id_1791739998119_myqpl",
+                    "name": "слоты одежды",
+                    "sourceItemId": "id_1791739998119_lx2sp",
+                    "capacity": 1,
+                    "items": []
+                  }
+                }
+              ]
+            },
+            {
+              "id": "id_1791740011333_rcqzb",
+              "time": "11.10.2026, 20:33",
+              "text": "Сез.1.5 Сесс.26 | Ариан | Инвентарь | База — «Шорты с семью дырками»",
+              "type": "delta",
+              "delta": [
+                {
+                  "op": "add",
+                  "path": "inventory",
+                  "value": {
+                    "id": "id_1791740011332_tapxe",
+                    "itemId": "id_1791740011332_t2til",
+                    "name": "Шорты с семью дырками",
+                    "category": "armor",
+                    "stats": {
+                      "hp": 0,
+                      "str": 0,
+                      "agi": 0,
+                      "int": 0
+                    },
+                    "extraSlots": 0,
+                    "extraSlotsName": "",
+                    "description": "",
+                    "hiddenDescription": "Неизвестный предмет",
+                    "condition": "",
+                    "revealed": false,
+                    "obtained": "",
+                    "quantity": 1,
+                    "log": []
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
     }
   ]
 }
