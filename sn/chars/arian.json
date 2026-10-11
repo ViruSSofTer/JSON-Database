@@ -34,7 +34,7 @@
       "extraSlots": 1,
       "extraSlotsName": "слоты одежды",
       "description": "",
-      "hiddenDescription": "Известен",
+      "hiddenDescription": "Рабочая форма ремесленника",
       "condition": "",
       "revealed": false,
       "obtained": "",
@@ -198,7 +198,7 @@
             "extraSlots": 1,
             "extraSlotsName": "слоты одежды",
             "description": "",
-            "hiddenDescription": "Известен",
+            "hiddenDescription": "Рабочая форма ремесленника",
             "condition": "",
             "revealed": false,
             "obtained": "",
@@ -559,7 +559,62 @@
             "extraSlots": 1,
             "extraSlotsName": "слоты одежды",
             "description": "",
+            "hiddenDescription": "Рабочая форма ремесленника",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791740061859_foqqh",
+      "time": "11.10.2026, 20:34",
+      "text": "Сез.1.5 Сесс.26 | Ариан | Инвентарь | Правка «Рабочая форма ремесленника»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1791739998119_lx2sp",
+          "oldValue": {
+            "id": "id_1791739998119_lx2sp",
+            "itemId": "id_1791739998119_a5vpi",
+            "name": "Рабочая форма ремесленника",
+            "category": "armor",
+            "stats": {
+              "hp": 5,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "слоты одежды",
+            "description": "",
             "hiddenDescription": "Известен",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791739998119_lx2sp",
+            "itemId": "id_1791739998119_a5vpi",
+            "name": "Рабочая форма ремесленника",
+            "category": "armor",
+            "stats": {
+              "hp": 5,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "слоты одежды",
+            "description": "",
+            "hiddenDescription": "Рабочая форма ремесленника",
             "condition": "",
             "revealed": false,
             "obtained": "",
