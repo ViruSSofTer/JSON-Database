@@ -7,9 +7,9 @@
   "race": "Люпенталь(лис девятихвост)",
   "personality": "Романтик",
   "background": "Амнезиак с загадочным прошлым...",
-  "level": 1,
-  "xp": 0,
-  "levelUpPoints": 0,
+  "level": 4,
+  "xp": 5,
+  "levelUpPoints": 3,
   "neurali": 0,
   "baseStats": {
     "hp": 90,
@@ -3084,6 +3084,32 @@
       "id": "id_1791741201570_mz77f",
       "time": "11.10.2026, 20:53",
       "text": "Сез.1.5 Сесс.26 | Ариан | Таланты | Основное"
+    },
+    {
+      "id": "id_1791741512860_oaogo",
+      "time": "11.10.2026, 20:58",
+      "text": "Сез.1.5 Сесс.26 | Ариан | Экипировка | Опыт: +65 XP | Уровень повышен до 4 (+3)",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "level",
+          "oldValue": 1,
+          "value": 4
+        },
+        {
+          "op": "replace",
+          "path": "xp",
+          "oldValue": 0,
+          "value": 5
+        },
+        {
+          "op": "replace",
+          "path": "levelUpPoints",
+          "oldValue": 0,
+          "value": 3
+        }
+      ]
     }
   ]
 }
