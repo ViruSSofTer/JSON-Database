@@ -2,7 +2,7 @@
   "id": "ksaito",
   "isCompanion": false,
   "level": 8,
-  "xp": 75,
+  "xp": 175,
   "levelUpPoints": 7,
   "neurali": 88,
   "baseStats": {
@@ -68447,6 +68447,20 @@
           "path": "levelUpPoints",
           "oldValue": 0,
           "value": 7
+        }
+      ]
+    },
+    {
+      "id": "id_1791741661358_35pq3",
+      "time": "11.10.2026, 21:01",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Опыт: +100 XP",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "xp",
+          "oldValue": 75,
+          "value": 175
         }
       ]
     }
