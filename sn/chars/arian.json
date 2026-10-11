@@ -9,7 +9,7 @@
   "background": "Амнезиак с загадочным прошлым...",
   "level": 7,
   "xp": 65,
-  "levelUpPoints": 5,
+  "levelUpPoints": 4,
   "neurali": 0,
   "baseStats": {
     "hp": 90,
@@ -4186,6 +4186,20 @@
           ]
         }
       }
+    },
+    {
+      "id": "id_1791741612007_grkt3",
+      "time": "11.10.2026, 21:00",
+      "text": "Сез.1.5 Сесс.26 | Ариан | Экипировка | Потеряно 1 очко повышения",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "levelUpPoints",
+          "oldValue": 5,
+          "value": 4
+        }
+      ]
     }
   ]
 }
