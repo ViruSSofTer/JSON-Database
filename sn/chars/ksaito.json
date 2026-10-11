@@ -43,7 +43,7 @@
         "agi": 0,
         "int": 0
       },
-      "quantity": 1,
+      "quantity": 2,
       "log": [],
       "category": "armor",
       "extraSlots": 0,
@@ -57893,6 +57893,63 @@
       "id": "id_1791739562808_mv8ek",
       "time": "11.10.2026, 20:26",
       "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Основное"
+    },
+    {
+      "id": "id_1791741263221_g1654",
+      "time": "11.10.2026, 20:54",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Количество «Чёрные резиновые сапоги»: 1 → 2",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791305899615_wgnsk",
+          "oldValue": {
+            "id": "id_1791305899615_wgnsk",
+            "name": "Чёрные резиновые сапоги",
+            "desc": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": [],
+            "category": "armor",
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "",
+            "condition": "",
+            "obtained": "",
+            "revealed": true,
+            "itemId": "id_1791305930552_8uh7e"
+          },
+          "value": {
+            "id": "id_1791305899615_wgnsk",
+            "name": "Чёрные резиновые сапоги",
+            "desc": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 2,
+            "log": [],
+            "category": "armor",
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "",
+            "condition": "",
+            "obtained": "",
+            "revealed": true,
+            "itemId": "id_1791305930552_8uh7e"
+          }
+        }
+      ]
     }
   ],
   "name": "Ксайто",
