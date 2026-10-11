@@ -469,6 +469,19 @@
       },
       "quantity": 1,
       "log": []
+    },
+    {
+      "id": "id_1791744707462_6xslz",
+      "name": "Повышение силы(2)",
+      "desc": "",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "quantity": 1,
+      "log": []
     }
   ],
   "trainingsPlanned": [],
@@ -96933,6 +96946,31 @@
             "condition": "",
             "revealed": false,
             "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791744707462_kgw4d",
+      "time": "11.10.2026, 21:51",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Тренировки (в процессе) | Добавлено «Повышение силы(2)»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "trainingsActive",
+          "value": {
+            "id": "id_1791744707462_6xslz",
+            "name": "Повышение силы(2)",
+            "desc": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
             "quantity": 1,
             "log": []
           }
