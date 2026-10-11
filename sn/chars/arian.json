@@ -12,10 +12,10 @@
   "levelUpPoints": 0,
   "neurali": 0,
   "baseStats": {
-    "hp": 0,
-    "str": 0,
-    "agi": 0,
-    "int": 0
+    "hp": 90,
+    "str": -1,
+    "agi": 3,
+    "int": 2
   },
   "handWeapon": null,
   "equipment": [],
@@ -58,6 +58,30 @@
           "path": "background",
           "oldValue": "",
           "value": "Амнезиак с загадочным прошлым..."
+        }
+      ]
+    },
+    {
+      "id": "id_1791739880489_gz4xr",
+      "time": "11.10.2026, 20:31",
+      "text": "Сез.1.5 Сесс.26 | Ариан | Экипировка | Базовые статы: ХП:0 Сил:0 Лов:0 Инт:0 → ХП:90 Сил:-1 Лов:3 Инт:2",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "baseStats",
+          "oldValue": {
+            "hp": 0,
+            "str": 0,
+            "agi": 0,
+            "int": 0
+          },
+          "value": {
+            "hp": 90,
+            "str": -1,
+            "agi": 3,
+            "int": 2
+          }
         }
       ]
     }
