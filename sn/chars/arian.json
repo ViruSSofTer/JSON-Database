@@ -7,9 +7,9 @@
   "race": "Люпенталь(лис девятихвост)",
   "personality": "Романтик",
   "background": "Амнезиак с загадочным прошлым...",
-  "level": 5,
-  "xp": 25,
-  "levelUpPoints": 4,
+  "level": 6,
+  "xp": 55,
+  "levelUpPoints": 5,
   "neurali": 0,
   "baseStats": {
     "hp": 90,
@@ -3134,6 +3134,32 @@
           "path": "levelUpPoints",
           "oldValue": 3,
           "value": 4
+        }
+      ]
+    },
+    {
+      "id": "id_1791741577883_h90dj",
+      "time": "11.10.2026, 20:59",
+      "text": "Сез.1.5 Сесс.26 | Ариан | Экипировка | Опыт: +100 XP | Уровень повышен до 6 (+1)",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "level",
+          "oldValue": 5,
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "xp",
+          "oldValue": 25,
+          "value": 55
+        },
+        {
+          "op": "replace",
+          "path": "levelUpPoints",
+          "oldValue": 4,
+          "value": 5
         }
       ]
     }
