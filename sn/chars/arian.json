@@ -9,7 +9,7 @@
   "background": "Амнезиак с загадочным прошлым...",
   "level": 7,
   "xp": 65,
-  "levelUpPoints": 4,
+  "levelUpPoints": 2,
   "neurali": 0,
   "baseStats": {
     "hp": 90,
@@ -4198,6 +4198,34 @@
           "path": "levelUpPoints",
           "oldValue": 5,
           "value": 4
+        }
+      ]
+    },
+    {
+      "id": "id_1791741613521_ykc4v",
+      "time": "11.10.2026, 21:00",
+      "text": "Сез.1.5 Сесс.26 | Ариан | Экипировка | Потеряно 1 очко повышения",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "levelUpPoints",
+          "oldValue": 4,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "id_1791741615242_eh6ha",
+      "time": "11.10.2026, 21:00",
+      "text": "Сез.1.5 Сесс.26 | Ариан | Экипировка | Потеряно 1 очко повышения",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "levelUpPoints",
+          "oldValue": 3,
+          "value": 2
         }
       ]
     }
