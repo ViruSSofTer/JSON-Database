@@ -21,27 +21,6 @@
   "equipment": [],
   "inventory": [
     {
-      "id": "id_1791739998119_lx2sp",
-      "itemId": "id_1791739998119_a5vpi",
-      "name": "Рабочая форма ремесленника",
-      "category": "armor",
-      "stats": {
-        "hp": 5,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 1,
-      "extraSlotsName": "слоты одежды",
-      "description": "",
-      "hiddenDescription": "Рабочая форма ремесленника",
-      "condition": "",
-      "revealed": false,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    },
-    {
       "id": "id_1791740011332_tapxe",
       "itemId": "id_1791740011332_t2til",
       "name": "Шорты с семью дырками",
@@ -63,15 +42,7 @@
       "log": []
     }
   ],
-  "extraSections": [
-    {
-      "id": "id_1791739998119_myqpl",
-      "name": "слоты одежды",
-      "sourceItemId": "id_1791739998119_lx2sp",
-      "capacity": 1,
-      "items": []
-    }
-  ],
+  "extraSections": [],
   "active": [],
   "passive": [],
   "quirks": [
@@ -620,6 +591,51 @@
             "obtained": "",
             "quantity": 1,
             "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791740086609_9v4e0",
+      "time": "11.10.2026, 20:34",
+      "text": "Сез.1.5 Сесс.26 | Ариан | Инвентарь | Убрано «Рабочая форма ремесленника»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1791739998119_lx2sp",
+          "oldValue": {
+            "id": "id_1791739998119_lx2sp",
+            "itemId": "id_1791739998119_a5vpi",
+            "name": "Рабочая форма ремесленника",
+            "category": "armor",
+            "stats": {
+              "hp": 5,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "слоты одежды",
+            "description": "",
+            "hiddenDescription": "Рабочая форма ремесленника",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "removeSection",
+          "id": "id_1791739998119_myqpl",
+          "oldValue": {
+            "id": "id_1791739998119_myqpl",
+            "name": "слоты одежды",
+            "sourceItemId": "id_1791739998119_lx2sp",
+            "capacity": 1,
+            "items": []
           }
         }
       ]
