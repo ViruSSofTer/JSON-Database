@@ -2,8 +2,8 @@
   "id": "ksaito",
   "isCompanion": false,
   "level": 9,
-  "xp": 75,
-  "levelUpPoints": 2,
+  "xp": 59,
+  "levelUpPoints": 1,
   "neurali": 88,
   "baseStats": {
     "hp": 100,
@@ -79232,6 +79232,34 @@
           "handWeapon": null
         }
       }
+    },
+    {
+      "id": "id_1791741695734_ggv8o",
+      "time": "11.10.2026, 21:01",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Потеряно 1 очко повышения",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "levelUpPoints",
+          "oldValue": 2,
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "id_1791741709017_4lmv0",
+      "time": "11.10.2026, 21:01",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Опыт: -16 XP",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "xp",
+          "oldValue": 75,
+          "value": 59
+        }
+      ]
     }
   ],
   "name": "Ксайто",
