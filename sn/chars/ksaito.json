@@ -1,9 +1,9 @@
 {
   "id": "ksaito",
   "isCompanion": false,
-  "level": 1,
-  "xp": 0,
-  "levelUpPoints": 0,
+  "level": 8,
+  "xp": 75,
+  "levelUpPoints": 7,
   "neurali": 88,
   "baseStats": {
     "hp": 100,
@@ -68421,6 +68421,32 @@
             "quantity": 1,
             "log": []
           }
+        }
+      ]
+    },
+    {
+      "id": "id_1791741652111_p6og4",
+      "time": "11.10.2026, 21:00",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Опыт: +500 XP | Уровень повышен до 8 (+7)",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "level",
+          "oldValue": 1,
+          "value": 8
+        },
+        {
+          "op": "replace",
+          "path": "xp",
+          "oldValue": 0,
+          "value": 75
+        },
+        {
+          "op": "replace",
+          "path": "levelUpPoints",
+          "oldValue": 0,
+          "value": 7
         }
       ]
     }
