@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T17:33:18.120Z",
+  "updatedAt": "2026-10-11T17:33:31.333Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -139,6 +139,23 @@
       "known": true
     },
     {
+      "id": "id_1791739998119_a5vpi",
+      "name": "рабочая форма ремесленника",
+      "category": "armor",
+      "stats": {
+        "hp": 5,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 1,
+      "extraSlotsName": "слоты одежды",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": true
+    },
+    {
       "id": "id_1791301640077_tqti7",
       "name": "Роба Чёрного Мага",
       "category": "armor",
@@ -223,17 +240,17 @@
       "known": true
     },
     {
-      "id": "id_1791739998119_a5vpi",
-      "name": "рабочая форма ремесленника",
+      "id": "id_1791740011332_t2til",
+      "name": "Шорты с семью дырками",
       "category": "armor",
       "stats": {
-        "hp": 5,
+        "hp": 0,
         "str": 0,
         "agi": 0,
         "int": 0
       },
-      "extraSlots": 1,
-      "extraSlotsName": "слоты одежды",
+      "extraSlots": 0,
+      "extraSlotsName": "",
       "description": "",
       "hiddenDescription": "",
       "condition": "",
