@@ -3,7 +3,7 @@
   "isCompanion": false,
   "level": 9,
   "xp": 75,
-  "levelUpPoints": 8,
+  "levelUpPoints": 6,
   "neurali": 88,
   "baseStats": {
     "hp": 100,
@@ -73774,6 +73774,34 @@
           "handWeapon": null
         }
       }
+    },
+    {
+      "id": "id_1791741685807_h0hi4",
+      "time": "11.10.2026, 21:01",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Потеряно 1 очко повышения",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "levelUpPoints",
+          "oldValue": 8,
+          "value": 7
+        }
+      ]
+    },
+    {
+      "id": "id_1791741688139_suafe",
+      "time": "11.10.2026, 21:01",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Потеряно 1 очко повышения",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "levelUpPoints",
+          "oldValue": 7,
+          "value": 6
+        }
+      ]
     }
   ],
   "name": "Ксайто",
