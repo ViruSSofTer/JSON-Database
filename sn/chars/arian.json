@@ -8,7 +8,7 @@
   "personality": "Романтик",
   "background": "Амнезиак с загадочным прошлым...",
   "level": 7,
-  "xp": 55,
+  "xp": 65,
   "levelUpPoints": 6,
   "neurali": 0,
   "baseStats": {
@@ -3180,6 +3180,20 @@
           "path": "levelUpPoints",
           "oldValue": 5,
           "value": 6
+        }
+      ]
+    },
+    {
+      "id": "id_1791741593351_zqrz1",
+      "time": "11.10.2026, 20:59",
+      "text": "Сез.1.5 Сесс.26 | Ариан | Экипировка | Опыт: +10 XP",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "xp",
+          "oldValue": 55,
+          "value": 65
         }
       ]
     }
