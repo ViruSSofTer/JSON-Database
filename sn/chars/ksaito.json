@@ -78,29 +78,7 @@
       "itemId": "id_1791306029457_53owb"
     }
   ],
-  "inventory": [
-    {
-      "id": "id_1791741375069_4zazb",
-      "itemId": "id_1791741375069_npusv",
-      "name": "Манатитовый крест",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": false,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    }
-  ],
+  "inventory": [],
   "extraSections": [],
   "active": [
     {
@@ -63103,6 +63081,40 @@
           "op": "add",
           "path": "inventory",
           "value": {
+            "id": "id_1791741375069_4zazb",
+            "itemId": "id_1791741375069_npusv",
+            "name": "Манатитовый крест",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1791741384154_h2jw7",
+      "time": "11.10.2026, 20:56",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Манатитовый крест»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1791741375069_4zazb",
+          "oldValue": {
             "id": "id_1791741375069_4zazb",
             "itemId": "id_1791741375069_npusv",
             "name": "Манатитовый крест",
