@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T17:25:59.021Z",
+  "updatedAt": "2026-10-11T17:33:18.120Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -220,6 +220,23 @@
       "condition": "",
       "extraSlots": 0,
       "extraSlotsName": "",
+      "known": true
+    },
+    {
+      "id": "id_1791739998119_a5vpi",
+      "name": "рабочая форма ремесленника",
+      "category": "armor",
+      "stats": {
+        "hp": 5,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 1,
+      "extraSlotsName": "слоты одежды",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
       "known": true
     }
   ],
