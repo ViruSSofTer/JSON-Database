@@ -99,27 +99,6 @@
       "obtained": "",
       "quantity": 1,
       "log": []
-    },
-    {
-      "id": "id_1791741336074_zt8g8",
-      "itemId": "id_1791741336074_cuo3e",
-      "name": "Манатитовый крест",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": false,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
     }
   ],
   "extraSections": [],
@@ -62990,6 +62969,40 @@
           "handWeapon": null
         }
       }
+    },
+    {
+      "id": "id_1791741340987_8jf1g",
+      "time": "11.10.2026, 20:55",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Убрано «Манатитовый крест»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1791741336074_zt8g8",
+          "oldValue": {
+            "id": "id_1791741336074_zt8g8",
+            "itemId": "id_1791741336074_cuo3e",
+            "name": "Манатитовый крест",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
     }
   ],
   "name": "Ксайто",
