@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T17:55:24.885Z",
+  "updatedAt": "2026-10-11T17:55:36.093Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -90,6 +90,23 @@
     {
       "id": "id_1790919905730_bdc1r",
       "name": "Магический ковёр",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1791741324880_a0bgk",
+      "name": "Манатитовый крест",
       "category": "other",
       "stats": {
         "hp": 0,
@@ -257,7 +274,7 @@
       "known": true
     },
     {
-      "id": "id_1791741324880_a0bgk",
+      "id": "id_1791741336074_cuo3e",
       "name": "Манатитовый крест",
       "category": "other",
       "stats": {
