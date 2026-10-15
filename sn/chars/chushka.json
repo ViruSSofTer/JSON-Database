@@ -79,7 +79,8 @@
       "revealed": true,
       "obtained": "Выдано братьями-капитанами в дар",
       "log": [],
-      "quantity": 1
+      "quantity": 1,
+      "slot": "палец"
     },
     {
       "id": "id_1792088476894_ye7hr",
@@ -9768,6 +9769,62 @@
             "obtained": "",
             "quantity": 1,
             "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792088499802_35e71",
+      "time": "15.10.2026, 21:21",
+      "text": "Сез.1.5 Сесс.26 | Чушка | Экипировка | Правка «Арканное кольцо малое» (слот: \"—\" → \"палец\")",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1790881175707_hfw9v",
+          "oldValue": {
+            "id": "id_1790881175707_hfw9v",
+            "itemId": "id_1790864452298_4fe6v",
+            "name": "Арканное кольцо малое",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 10,
+            "extraSlotsName": "Арканное кольцо",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "Выдано братьями-капитанами в дар",
+            "log": [],
+            "quantity": 1
+          },
+          "value": {
+            "id": "id_1790881175707_hfw9v",
+            "itemId": "id_1790864452298_4fe6v",
+            "name": "Арканное кольцо малое",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 10,
+            "extraSlotsName": "Арканное кольцо",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "Выдано братьями-капитанами в дар",
+            "log": [],
+            "quantity": 1,
+            "slot": "палец"
           }
         }
       ]
