@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T18:08:03.543Z",
+  "updatedAt": "2026-10-15T18:21:16.897Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -288,6 +288,24 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1792088476894_2xasd",
+      "name": "Идеальные семейники верности",
+      "category": "armor",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "трусы",
       "known": true
     }
   ],
