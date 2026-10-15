@@ -98,7 +98,7 @@
       "hiddenDescription": "Неизвестный предмет",
       "condition": "",
       "slot": "трусы",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -9707,7 +9707,64 @@
             "hiddenDescription": "Неизвестный предмет",
             "condition": "",
             "slot": "трусы",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792088483440_0ftge",
+      "time": "15.10.2026, 21:21",
+      "text": "Сез.1.5 Сесс.26 | Чушка | Экипировка | Раскрыт «Идеальные семейники верности»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1792088476894_ye7hr",
+          "oldValue": {
+            "id": "id_1792088476894_ye7hr",
+            "itemId": "id_1792088476894_2xasd",
+            "name": "Идеальные семейники верности",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "трусы",
             "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792088476894_ye7hr",
+            "itemId": "id_1792088476894_2xasd",
+            "name": "Идеальные семейники верности",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "трусы",
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
