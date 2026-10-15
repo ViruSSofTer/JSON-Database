@@ -58,7 +58,8 @@
       "revealed": true,
       "obtained": "",
       "log": [],
-      "quantity": 1
+      "quantity": 1,
+      "slot": "тело"
     },
     {
       "id": "id_1790881175707_hfw9v",
@@ -9825,6 +9826,62 @@
             "log": [],
             "quantity": 1,
             "slot": "палец"
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792088512656_g28x9",
+      "time": "15.10.2026, 21:21",
+      "text": "Сез.1.5 Сесс.26 | Чушка | Экипировка | Правка «Одежда Огненного Чародея» (слот: \"—\" → \"тело\")",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1790879600989_kg3zt",
+          "oldValue": {
+            "id": "id_1790879600989_kg3zt",
+            "itemId": "id_1790869762006_1b41n",
+            "name": "Одежда Огненного Чародея",
+            "category": "other",
+            "stats": {
+              "hp": 7,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "Карманы одежды",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Слегка потрёпанная",
+            "revealed": true,
+            "obtained": "",
+            "log": [],
+            "quantity": 1
+          },
+          "value": {
+            "id": "id_1790879600989_kg3zt",
+            "itemId": "id_1790869762006_1b41n",
+            "name": "Одежда Огненного Чародея",
+            "category": "other",
+            "stats": {
+              "hp": 7,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "Карманы одежды",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Слегка потрёпанная",
+            "revealed": true,
+            "obtained": "",
+            "log": [],
+            "quantity": 1,
+            "slot": "тело"
           }
         }
       ]
