@@ -80,6 +80,28 @@
       "obtained": "Выдано братьями-капитанами в дар",
       "log": [],
       "quantity": 1
+    },
+    {
+      "id": "id_1792088476894_ye7hr",
+      "itemId": "id_1792088476894_2xasd",
+      "name": "Идеальные семейники верности",
+      "category": "armor",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "slot": "трусы",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
     }
   ],
   "inventory": [
@@ -9658,6 +9680,40 @@
       "id": "id_1791745470011_vg1me",
       "time": "11.10.2026, 22:04",
       "text": "Сез.1.5 Сесс.26 | Чушка | Тренировки (в процессе) | Удалено «Улучшение гелеонов.  (3)»"
+    },
+    {
+      "id": "id_1792088476894_7e56d",
+      "time": "15.10.2026, 21:21",
+      "text": "Сез.1.5 Сесс.26 | Чушка | Экипировка | База — «Идеальные семейники верности»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1792088476894_ye7hr",
+            "itemId": "id_1792088476894_2xasd",
+            "name": "Идеальные семейники верности",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "трусы",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
     }
   ]
 }
