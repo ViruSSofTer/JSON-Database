@@ -75,7 +75,8 @@
       "condition": "",
       "obtained": "",
       "revealed": true,
-      "itemId": "id_1791306029457_53owb"
+      "itemId": "id_1791306029457_53owb",
+      "slot": "руки"
     },
     {
       "id": "id_1791743669241_17phi",
@@ -97097,6 +97098,64 @@
             "quantity": 1,
             "log": [],
             "slot": "шея"
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792587067380_kr45o",
+      "time": "21.10.2026, 15:51",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Латексные чёрные перчатки» (слот: \"—\" → \"руки\")",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791305992755_szquy",
+          "oldValue": {
+            "id": "id_1791305992755_szquy",
+            "name": "Латексные чёрные перчатки",
+            "desc": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 4
+            },
+            "quantity": 1,
+            "log": [],
+            "category": "armor",
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "",
+            "condition": "",
+            "obtained": "",
+            "revealed": true,
+            "itemId": "id_1791306029457_53owb"
+          },
+          "value": {
+            "id": "id_1791305992755_szquy",
+            "name": "Латексные чёрные перчатки",
+            "desc": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 4
+            },
+            "quantity": 1,
+            "log": [],
+            "category": "armor",
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "",
+            "condition": "",
+            "obtained": "",
+            "revealed": true,
+            "itemId": "id_1791306029457_53owb",
+            "slot": "руки"
           }
         }
       ]
