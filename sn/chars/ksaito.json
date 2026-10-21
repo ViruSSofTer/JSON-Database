@@ -117,7 +117,8 @@
       "revealed": true,
       "obtained": "",
       "quantity": 1,
-      "log": []
+      "log": [],
+      "slot": "трусы"
     }
   ],
   "inventory": [],
@@ -96986,6 +96987,62 @@
       "id": "id_1792331658914_sgfn6",
       "time": "18.10.2026, 16:54",
       "text": "Сез.1.5 Сесс.26 | Ксайто | Удалено «Повышение ловкости(1)»"
+    },
+    {
+      "id": "id_1792587050532_v2vio",
+      "time": "21.10.2026, 15:50",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Труселя абсолютного стиля» (слот: \"—\" → \"трусы\")",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791743840090_1ql3b",
+          "oldValue": {
+            "id": "id_1791743840090_1ql3b",
+            "itemId": "id_1791743821249_u1w64",
+            "name": "Труселя абсолютного стиля",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791743840090_1ql3b",
+            "itemId": "id_1791743821249_u1w64",
+            "name": "Труселя абсолютного стиля",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": [],
+            "slot": "трусы"
+          }
+        }
+      ]
     }
   ],
   "name": "Ксайто",
