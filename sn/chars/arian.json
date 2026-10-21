@@ -44,7 +44,7 @@
     {
       "id": "id_1792608575281_vu3f8",
       "itemId": "id_1791739998119_a5vpi",
-      "name": "рабочая форма ремесленника",
+      "name": "Рабочая форма ремесленника",
       "category": "armor",
       "stats": {
         "hp": 5,
@@ -6868,7 +6868,7 @@
           "value": {
             "id": "id_1792608575281_vu3f8",
             "itemId": "id_1791739998119_a5vpi",
-            "name": "рабочая форма ремесленника",
+            "name": "Рабочая форма ремесленника",
             "category": "armor",
             "stats": {
               "hp": 5,
@@ -6896,6 +6896,63 @@
             "sourceItemId": "id_1792608575281_vu3f8",
             "capacity": 1,
             "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792608590669_07e85",
+      "time": "21.10.2026, 21:49",
+      "text": "Сез.1.5 Сесс.26 | Ариан | Экипировка | Правка «Рабочая форма ремесленника»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1792608575281_vu3f8",
+          "oldValue": {
+            "id": "id_1792608575281_vu3f8",
+            "itemId": "id_1791739998119_a5vpi",
+            "name": "рабочая форма ремесленника",
+            "category": "armor",
+            "stats": {
+              "hp": 5,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "слоты одежды",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792608575281_vu3f8",
+            "itemId": "id_1791739998119_a5vpi",
+            "name": "Рабочая форма ремесленника",
+            "category": "armor",
+            "stats": {
+              "hp": 5,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "слоты одежды",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
           }
         }
       ]
