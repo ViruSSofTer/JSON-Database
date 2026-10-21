@@ -96,7 +96,8 @@
       "revealed": true,
       "obtained": "",
       "quantity": 1,
-      "log": []
+      "log": [],
+      "slot": "шея"
     },
     {
       "id": "id_1791743840090_1ql3b",
@@ -97040,6 +97041,62 @@
             "quantity": 1,
             "log": [],
             "slot": "трусы"
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792587061213_jm05p",
+      "time": "21.10.2026, 15:51",
+      "text": "Сез.1.5 Сесс.26 | Ксайто | Экипировка | Правка «Манатитовый крест» (слот: \"—\" → \"шея\")",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1791743669241_17phi",
+          "oldValue": {
+            "id": "id_1791743669241_17phi",
+            "itemId": "id_1791741324880_a0bgk",
+            "name": "Манатитовый крест",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1791743669241_17phi",
+            "itemId": "id_1791741324880_a0bgk",
+            "name": "Манатитовый крест",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": [],
+            "slot": "шея"
           }
         }
       ]
