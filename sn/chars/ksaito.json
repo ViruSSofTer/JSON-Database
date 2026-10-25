@@ -144,6 +144,28 @@
       "obtained": "",
       "quantity": 1,
       "log": []
+    },
+    {
+      "id": "id_1792928783349_gbmnu",
+      "itemId": "id_1792928783349_v93gh",
+      "name": "Арканный мешочек",
+      "category": "armor",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 6,
+      "extraSlotsName": "Арканный мешочек",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "slot": "пояс",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
     }
   ],
   "inventory": [
@@ -170,7 +192,15 @@
       "log": []
     }
   ],
-  "extraSections": [],
+  "extraSections": [
+    {
+      "id": "id_1792928783349_3dewr",
+      "name": "Арканный мешочек",
+      "sourceItemId": "id_1792928783349_gbmnu",
+      "capacity": 6,
+      "items": []
+    }
+  ],
   "active": [
     {
       "id": "id_1791733655966_k2t54",
@@ -110326,6 +110356,50 @@
             "obtained": "",
             "quantity": 1,
             "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792928783349_1xmpq",
+      "time": "25.10.2026, 14:46",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Экипировка | База — «Арканный мешочек»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1792928783349_gbmnu",
+            "itemId": "id_1792928783349_v93gh",
+            "name": "Арканный мешочек",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 6,
+            "extraSlotsName": "Арканный мешочек",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "пояс",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1792928783349_3dewr",
+            "name": "Арканный мешочек",
+            "sourceItemId": "id_1792928783349_gbmnu",
+            "capacity": 6,
+            "items": []
           }
         }
       ]
