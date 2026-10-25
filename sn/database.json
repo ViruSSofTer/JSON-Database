@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T12:37:15.063Z",
+  "updatedAt": "2026-10-25T13:03:43.386Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -17,6 +17,24 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1792931284213_2b06n",
+      "name": "Алхимическая сумка",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Простейшая алхмическая сумка, способная материализовывать склянки. Вмещает 30 ед травы.",
+      "hiddenDescription": "",
+      "condition": "Очень сильно потрёпана",
+      "slot": "сумка через плечо",
       "known": true
     },
     {
@@ -126,6 +144,24 @@
       "known": true
     },
     {
+      "id": "id_1792931363620_yiu8f",
+      "name": "Камень \"Создание щита\"",
+      "category": "consumable",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Позволяет наложить защитный магический барьер на цель.",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "",
+      "known": true
+    },
+    {
       "id": "id_1790881348665_fm3og",
       "name": "Камень призыва элементаля",
       "category": "consumable",
@@ -154,9 +190,45 @@
       },
       "extraSlots": 0,
       "extraSlotsName": "",
-      "description": "",
+      "description": "Введение в мир Аспектов: какие бывают виды аспектов, элементов, чем отличается Свет от Святости и многое другое.",
       "hiddenDescription": "",
       "condition": "нормальная, прочитанная",
+      "slot": "",
+      "known": true
+    },
+    {
+      "id": "id_1792931534117_v8sup",
+      "name": "Книга \"Использование магических свойств манатита для ускорения роста роз\"",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Рассказывает о том, как делать из манатита магическое удобрение.",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "",
+      "known": true
+    },
+    {
+      "id": "id_1792931441992_1t6kf",
+      "name": "Книга \"Мастерская Алхимия\"",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Книга покрывает мастерский уровень алхимии - особенные рецепты, правила аттестации, советы по улучшению процедуры, а также мотивационные наставления!",
+      "hiddenDescription": "",
+      "condition": "",
       "slot": "",
       "known": true
     },
@@ -388,6 +460,24 @@
       "known": true
     },
     {
+      "id": "id_1792931835062_nr2fl",
+      "name": "Саженцы деревьев",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Саженцы деревьев из Фелитара",
+      "hiddenDescription": "",
+      "condition": "Очень помяты",
+      "slot": "",
+      "known": true
+    },
+    {
       "id": "id_1792928470729_vb9xf",
       "name": "Синяя магическая книга",
       "category": "weapon",
@@ -504,96 +594,6 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
-      "known": true
-    },
-    {
-      "id": "id_1792931284213_2b06n",
-      "name": "Алхимическая сумка",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Простейшая алхмическая сумка, способная материализовывать склянки. Вмещает 30 ед травы.",
-      "hiddenDescription": "",
-      "condition": "Очень сильно потрёпана",
-      "slot": "сумка через плечо",
-      "known": true
-    },
-    {
-      "id": "id_1792931363620_yiu8f",
-      "name": "Камень \"Создание щита\"",
-      "category": "consumable",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Позволяет наложить защитный магический барьер на цель.",
-      "hiddenDescription": "",
-      "condition": "",
-      "slot": "",
-      "known": true
-    },
-    {
-      "id": "id_1792931441992_1t6kf",
-      "name": "Книга \"Мастерская Алхимия\"",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Книга покрывает мастерский уровень алхимии - особенные рецепты, правила аттестации, советы по улучшению процедуры, а также мотивационные наставления!",
-      "hiddenDescription": "",
-      "condition": "",
-      "slot": "",
-      "known": true
-    },
-    {
-      "id": "id_1792931534117_v8sup",
-      "name": "Книга \"Использование магических свойств манатита для ускорения роста роз\"",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Рассказывает о том, как делать из манатита магическое удобрение.",
-      "hiddenDescription": "",
-      "condition": "",
-      "slot": "",
-      "known": true
-    },
-    {
-      "id": "id_1792931835062_nr2fl",
-      "name": "Саженцы деревьев",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Саженцы деревьев из Фелитара",
-      "hiddenDescription": "",
-      "condition": "Очень помяты",
-      "slot": "",
       "known": true
     }
   ],
