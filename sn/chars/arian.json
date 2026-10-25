@@ -104,7 +104,7 @@
       "hiddenDescription": "Неизвестный предмет",
       "condition": "",
       "slot": "",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -8705,7 +8705,64 @@
             "hiddenDescription": "Неизвестный предмет",
             "condition": "",
             "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792931369395_iunet",
+      "time": "25.10.2026, 15:29",
+      "text": "Сез.1.5 Сесс.28 | Ариан | Инвентарь | Раскрыт «Камень \"Создание щита\"»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1792931363620_du1zu",
+          "oldValue": {
+            "id": "id_1792931363620_du1zu",
+            "itemId": "id_1792931363620_yiu8f",
+            "name": "Камень \"Создание щита\"",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Позволяет наложить защитный магический барьер на цель.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
             "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792931363620_du1zu",
+            "itemId": "id_1792931363620_yiu8f",
+            "name": "Камень \"Создание щита\"",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Позволяет наложить защитный магический барьер на цель.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
