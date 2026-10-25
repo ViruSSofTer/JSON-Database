@@ -198,7 +198,30 @@
       "name": "Арканный мешочек",
       "sourceItemId": "id_1792928783349_gbmnu",
       "capacity": 6,
-      "items": []
+      "items": [
+        {
+          "id": "id_1792928883363_sroam",
+          "itemId": "id_1792928883363_jv1i4",
+          "name": "Бело-красный шарик",
+          "category": "consumable",
+          "stats": {
+            "hp": 0,
+            "str": 0,
+            "agi": 0,
+            "int": 0
+          },
+          "extraSlots": 0,
+          "extraSlotsName": "",
+          "description": "Способен ловить мостров",
+          "hiddenDescription": "Неизвестный предмет",
+          "condition": "Сияет!",
+          "slot": "",
+          "revealed": true,
+          "obtained": "",
+          "quantity": 1,
+          "log": []
+        }
+      ]
     }
   ],
   "active": [
@@ -6750,7 +6773,30 @@
             "name": "Арканный мешочек",
             "sourceItemId": "id_1792928783349_gbmnu",
             "capacity": 6,
-            "items": []
+            "items": [
+              {
+                "id": "id_1792928883363_sroam",
+                "itemId": "id_1792928883363_jv1i4",
+                "name": "Бело-красный шарик",
+                "category": "consumable",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "Способен ловить мостров",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "Сияет!",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              }
+            ]
           }
         }
       ]
@@ -117198,6 +117244,173 @@
           }
         }
       }
+    },
+    {
+      "id": "id_1792928883363_rbhf6",
+      "time": "25.10.2026, 14:48",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Доп. слоты: id_1792928783349_3dewr | База — «Бело-красный шарик»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1792928883363_sroam",
+            "itemId": "id_1792928883363_jv1i4",
+            "name": "Бело-красный шарик",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Способен ловить мостров",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Сияет!",
+            "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792928885810_r6u5d",
+      "time": "25.10.2026, 14:48",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Доп. слоты: id_1792928783349_3dewr | Раскрыт «Бело-красный шарик»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1792928883363_sroam",
+          "oldValue": {
+            "id": "id_1792928883363_sroam",
+            "itemId": "id_1792928883363_jv1i4",
+            "name": "Бело-красный шарик",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Способен ловить мостров",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Сияет!",
+            "slot": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792928883363_sroam",
+            "itemId": "id_1792928883363_jv1i4",
+            "name": "Бело-красный шарик",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Способен ловить мостров",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Сияет!",
+            "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792928893128_kucny",
+      "time": "25.10.2026, 14:48",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Доп. слоты: id_1792928783349_3dewr | Перемещено «Бело-красный шарик»: Инвентарь → Доп. слоты: id_1792928783349_3dewr",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1792928883363_sroam",
+          "oldValue": {
+            "id": "id_1792928883363_sroam",
+            "itemId": "id_1792928883363_jv1i4",
+            "name": "Бело-красный шарик",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Способен ловить мостров",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Сияет!",
+            "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "updateSection",
+          "id": "id_1792928783349_3dewr",
+          "oldValue": {
+            "id": "id_1792928783349_3dewr",
+            "name": "Арканный мешочек",
+            "sourceItemId": "id_1792928783349_gbmnu",
+            "capacity": 6,
+            "items": []
+          },
+          "value": {
+            "id": "id_1792928783349_3dewr",
+            "name": "Арканный мешочек",
+            "sourceItemId": "id_1792928783349_gbmnu",
+            "capacity": 6,
+            "items": [
+              {
+                "id": "id_1792928883363_sroam",
+                "itemId": "id_1792928883363_jv1i4",
+                "name": "Бело-красный шарик",
+                "category": "consumable",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "Способен ловить мостров",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "Сияет!",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
   "name": "Ксайто",
