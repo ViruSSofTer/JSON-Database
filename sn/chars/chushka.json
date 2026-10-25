@@ -122,7 +122,7 @@
       "hiddenDescription": "Неизвестный предмет",
       "condition": "Манатитовый аксессуар",
       "slot": "палец",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -18271,7 +18271,64 @@
             "hiddenDescription": "Неизвестный предмет",
             "condition": "Манатитовый аксессуар",
             "slot": "палец",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792927918565_f9s1t",
+      "time": "25.10.2026, 14:31",
+      "text": "Сез.1.5 Сесс.28 | Чушка | Экипировка | Раскрыт «Манатитовый перстень»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1792927911060_uxkqc",
+          "oldValue": {
+            "id": "id_1792927911060_uxkqc",
+            "itemId": "id_1792927911060_r38pq",
+            "name": "Манатитовый перстень",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Перстень, который даёт Чушке магию",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Манатитовый аксессуар",
+            "slot": "палец",
             "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792927911060_uxkqc",
+            "itemId": "id_1792927911060_r38pq",
+            "name": "Манатитовый перстень",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Перстень, который даёт Чушке магию",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Манатитовый аксессуар",
+            "slot": "палец",
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
