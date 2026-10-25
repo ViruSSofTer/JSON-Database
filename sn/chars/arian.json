@@ -170,7 +170,7 @@
       "hiddenDescription": "Неизвестный предмет",
       "condition": "Очень помяты",
       "slot": "",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -10926,7 +10926,64 @@
             "hiddenDescription": "Неизвестный предмет",
             "condition": "Очень помяты",
             "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792931842275_mnplv",
+      "time": "25.10.2026, 15:37",
+      "text": "Сез.1.5 Сесс.28 | Ариан | Инвентарь | Раскрыт «Саженцы деревьев»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1792931835062_hq5pq",
+          "oldValue": {
+            "id": "id_1792931835062_hq5pq",
+            "itemId": "id_1792931835062_nr2fl",
+            "name": "Саженцы деревьев",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Саженцы деревьев из Фелитара",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Очень помяты",
+            "slot": "",
             "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792931835062_hq5pq",
+            "itemId": "id_1792931835062_nr2fl",
+            "name": "Саженцы деревьев",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Саженцы деревьев из Фелитара",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Очень помяты",
+            "slot": "",
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
