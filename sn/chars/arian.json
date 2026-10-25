@@ -137,7 +137,7 @@
       "id": "id_1792931534117_yh7xa",
       "itemId": "id_1792931534117_v8sup",
       "name": "Книга \"Использование магических свойств манатита для ускорения роста роз\"",
-      "category": "other",
+      "category": "book",
       "stats": {
         "hp": 0,
         "str": 0,
@@ -151,9 +151,10 @@
       "condition": "",
       "slot": "",
       "revealed": true,
-      "obtained": "Прочитана Арианом",
+      "obtained": "",
       "quantity": 1,
-      "log": []
+      "log": [],
+      "comment": "Прочитана Арианом"
     },
     {
       "id": "id_1792931835062_hq5pq",
@@ -25501,6 +25502,64 @@
             "quantity": 1,
             "log": [],
             "comment": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792939407699_8hctf",
+      "time": "25.10.2026, 17:43",
+      "text": "Сез.1.5 Сесс.28 | Ариан | Инвентарь | Правка «Книга \"Использование магических свойств манатита для ускорения роста роз\"»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1792931534117_yh7xa",
+          "oldValue": {
+            "id": "id_1792931534117_yh7xa",
+            "itemId": "id_1792931534117_v8sup",
+            "name": "Книга \"Использование магических свойств манатита для ускорения роста роз\"",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Рассказывает о том, как делать из манатита магическое удобрение.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
+            "obtained": "Прочитана Арианом",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792931534117_yh7xa",
+            "itemId": "id_1792931534117_v8sup",
+            "name": "Книга \"Использование магических свойств манатита для ускорения роста роз\"",
+            "category": "book",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Рассказывает о том, как делать из манатита магическое удобрение.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": [],
+            "comment": "Прочитана Арианом"
           }
         }
       ]
