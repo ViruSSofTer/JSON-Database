@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T13:31:10.039Z",
+  "updatedAt": "2026-10-25T13:31:26.971Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -421,7 +421,7 @@
     },
     {
       "id": "id_1791739998119_a5vpi",
-      "name": "рабочая форма ремесленника",
+      "name": "Рабочая форма ремесленника",
       "category": "armor",
       "stats": {
         "hp": 5,
@@ -434,6 +434,8 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
+      "slot": "",
+      "comment": "",
       "known": true
     },
     {
