@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:30:35.368Z",
+  "updatedAt": "2026-10-25T11:31:51.062Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -192,6 +192,24 @@
       "known": true
     },
     {
+      "id": "id_1792927835366_h9f5n",
+      "name": "Прочный шахтёрский комбинезон",
+      "category": "armor",
+      "stats": {
+        "hp": 5,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 1,
+      "extraSlotsName": "Карманы комбинезона",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "",
+      "known": true
+    },
+    {
       "id": "id_1791739998119_a5vpi",
       "name": "рабочая форма ремесленника",
       "category": "armor",
@@ -327,21 +345,21 @@
       "known": true
     },
     {
-      "id": "id_1792927835366_h9f5n",
-      "name": "Прочный шахтёрский комбинезон",
-      "category": "armor",
+      "id": "id_1792927911060_r38pq",
+      "name": "Манатитовый перстень",
+      "category": "other",
       "stats": {
-        "hp": 5,
+        "hp": 0,
         "str": 0,
         "agi": 0,
         "int": 0
       },
-      "extraSlots": 1,
-      "extraSlotsName": "Карманы комбинезона",
-      "description": "",
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Перстень, который даёт Чушке магию",
       "hiddenDescription": "",
-      "condition": "",
-      "slot": "",
+      "condition": "Манатитовый аксессуар",
+      "slot": "палец",
       "known": true
     }
   ],
