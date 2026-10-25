@@ -144,28 +144,6 @@
       "obtained": "",
       "quantity": 1,
       "log": []
-    },
-    {
-      "id": "id_1792928470729_omxcf",
-      "itemId": "id_1792928470729_vb9xf",
-      "name": "Синяя магическая книга",
-      "category": "weapon",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 1
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Книга - волшебный ассистент",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "slot": "",
-      "revealed": false,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
     }
   ],
   "inventory": [],
@@ -110119,6 +110097,68 @@
           "handWeapon": null
         }
       }
+    },
+    {
+      "id": "id_1792928490083_b2l6n",
+      "time": "25.10.2026, 14:41",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Экипировка | Перемещено «Синяя магическая книга»: Экипировка → Оружие в руках",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "handWeapon",
+          "oldValue": null,
+          "value": {
+            "id": "id_1792928470729_omxcf",
+            "itemId": "id_1792928470729_vb9xf",
+            "name": "Синяя магическая книга",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 1
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Книга - волшебный ассистент",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "remove",
+          "path": "equipment",
+          "id": "id_1792928470729_omxcf",
+          "oldValue": {
+            "id": "id_1792928470729_omxcf",
+            "itemId": "id_1792928470729_vb9xf",
+            "name": "Синяя магическая книга",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 1
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Книга - волшебный ассистент",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
     }
   ],
   "name": "Ксайто",
@@ -110127,5 +110167,26 @@
   "race": "Нефалем",
   "personality": "Чрезвычайно сдержан и спокоен, однако крайне фанатичен в разговорах о религии",
   "background": "Амнезиак с загадочным прошлым...",
-  "handWeapon": null
+  "handWeapon": {
+    "id": "id_1792928470729_omxcf",
+    "itemId": "id_1792928470729_vb9xf",
+    "name": "Синяя магическая книга",
+    "category": "weapon",
+    "stats": {
+      "hp": 0,
+      "str": 0,
+      "agi": 0,
+      "int": 1
+    },
+    "extraSlots": 0,
+    "extraSlotsName": "",
+    "description": "Книга - волшебный ассистент",
+    "hiddenDescription": "Неизвестный предмет",
+    "condition": "",
+    "slot": "",
+    "revealed": false,
+    "obtained": "",
+    "quantity": 1,
+    "log": []
+  }
 }
