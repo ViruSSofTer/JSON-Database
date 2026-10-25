@@ -169,14 +169,15 @@
       },
       "extraSlots": 0,
       "extraSlotsName": "",
-      "description": "Саженцы деревьев из Фелитара",
+      "description": "Саженцы деревьев из Фелитарского Леса",
       "hiddenDescription": "Неизвестный предмет",
       "condition": "Очень помяты",
       "slot": "",
       "revealed": true,
       "obtained": "",
       "quantity": 2,
-      "log": []
+      "log": [],
+      "comment": ""
     },
     {
       "id": "id_1792931914698_i9i64",
@@ -25560,6 +25561,64 @@
             "quantity": 1,
             "log": [],
             "comment": "Прочитана Арианом"
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792939431414_s3169",
+      "time": "25.10.2026, 17:43",
+      "text": "Сез.1.5 Сесс.28 | Ариан | Инвентарь | Правка «Саженцы деревьев»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1792931835062_hq5pq",
+          "oldValue": {
+            "id": "id_1792931835062_hq5pq",
+            "itemId": "id_1792931835062_nr2fl",
+            "name": "Саженцы деревьев",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Саженцы деревьев из Фелитара",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Очень помяты",
+            "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 2,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792931835062_hq5pq",
+            "itemId": "id_1792931835062_nr2fl",
+            "name": "Саженцы деревьев",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Саженцы деревьев из Фелитарского Леса",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Очень помяты",
+            "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 2,
+            "log": [],
+            "comment": ""
           }
         }
       ]
