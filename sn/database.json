@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T13:31:48.367Z",
+  "updatedAt": "2026-10-25T14:33:33.069Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -367,7 +367,7 @@
     },
     {
       "id": "id_1791302001189_na8et",
-      "name": "Простая винтовка",
+      "name": "Винтовка иллюмиральского стража",
       "category": "weapon",
       "stats": {
         "hp": 0,
@@ -380,6 +380,8 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
+      "slot": "",
+      "comment": "",
       "known": true
     },
     {
