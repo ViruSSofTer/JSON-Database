@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:29:26.034Z",
+  "updatedAt": "2026-10-25T11:30:35.368Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -54,6 +54,24 @@
       "known": true
     },
     {
+      "id": "id_1792088476894_2xasd",
+      "name": "Идеальные семейники верности",
+      "category": "armor",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "трусы",
+      "known": true
+    },
+    {
       "id": "id_1790881348665_fm3og",
       "name": "Камень призыва элементаля",
       "category": "consumable",
@@ -68,6 +86,24 @@
       "description": "Призывает элементаля желаемой стихии при контакте с этой стихией.",
       "hiddenDescription": "",
       "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1792927766031_v6z94",
+      "name": "Книга \"Аспектная магия\", Том 1",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "нормальная, прочитанная",
+      "slot": "",
       "known": true
     },
     {
@@ -291,38 +327,20 @@
       "known": true
     },
     {
-      "id": "id_1792088476894_2xasd",
-      "name": "Идеальные семейники верности",
+      "id": "id_1792927835366_h9f5n",
+      "name": "Прочный шахтёрский комбинезон",
       "category": "armor",
       "stats": {
-        "hp": 0,
+        "hp": 5,
         "str": 0,
         "agi": 0,
         "int": 0
       },
-      "extraSlots": 0,
-      "extraSlotsName": "",
+      "extraSlots": 1,
+      "extraSlotsName": "Карманы комбинезона",
       "description": "",
       "hiddenDescription": "",
       "condition": "",
-      "slot": "трусы",
-      "known": true
-    },
-    {
-      "id": "id_1792927766031_v6z94",
-      "name": "Книга \"Аспектная магия\", Том 1",
-      "category": "other",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "",
-      "condition": "нормальная, прочитанная",
       "slot": "",
       "known": true
     }
