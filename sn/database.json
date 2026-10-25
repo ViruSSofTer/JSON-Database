@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T12:28:04.215Z",
+  "updatedAt": "2026-10-25T12:29:23.622Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -522,6 +522,24 @@
       "hiddenDescription": "",
       "condition": "Очень сильно потрёпана",
       "slot": "сумка через плечо",
+      "known": true
+    },
+    {
+      "id": "id_1792931363620_yiu8f",
+      "name": "Камень \"Создание щита\"",
+      "category": "consumable",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Позволяет наложить защитный магический барьер на цель.",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "",
       "known": true
     }
   ],
