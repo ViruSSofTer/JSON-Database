@@ -140,7 +140,7 @@
       "hiddenDescription": "Неизвестный предмет",
       "condition": "Очень плохое",
       "slot": "",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -103434,7 +103434,64 @@
             "hiddenDescription": "Неизвестный предмет",
             "condition": "Очень плохое",
             "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792928332421_8grqa",
+      "time": "25.10.2026, 14:38",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Экипировка | Раскрыт «Железный щит-обломок»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1792928320688_3b3tb",
+          "oldValue": {
+            "id": "id_1792928320688_3b3tb",
+            "itemId": "id_1792928320688_0ygfg",
+            "name": "Железный щит-обломок",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Очень плохое",
+            "slot": "",
             "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792928320688_3b3tb",
+            "itemId": "id_1792928320688_0ygfg",
+            "name": "Железный щит-обломок",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Очень плохое",
+            "slot": "",
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
