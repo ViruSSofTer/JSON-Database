@@ -237,7 +237,7 @@
       "obtained": "Прочитана Чушкой",
       "quantity": 1,
       "log": [],
-      "comment": ""
+      "comment": "Книга пообещала рассказать об элементалях в 4-м томе."
     },
     {
       "id": "id_1792927835366_ssbtj",
@@ -3102,7 +3102,7 @@
             "obtained": "Прочитана Чушкой",
             "quantity": 1,
             "log": [],
-            "comment": ""
+            "comment": "Книга пообещала рассказать об элементалях в 4-м томе."
           }
         }
       ]
@@ -3161,7 +3161,7 @@
             "obtained": "Прочитана Чушкой",
             "quantity": 1,
             "log": [],
-            "comment": ""
+            "comment": "Книга пообещала рассказать об элементалях в 4-м томе."
           }
         }
       ]
@@ -21715,6 +21715,65 @@
               "text": "Убил Ариана ударом каменной сковородкой по заднице."
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "id_1792938087523_fzudv",
+      "time": "25.10.2026, 17:21",
+      "text": "Сез.1.5 Сесс.28 | Чушка | Инвентарь | Правка «Книга \"Аспектная магия\", Том 1»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1792927766031_ehgjp",
+          "oldValue": {
+            "id": "id_1792927766031_ehgjp",
+            "itemId": "id_1792927766031_v6z94",
+            "name": "Книга \"Аспектная магия\", Том 1",
+            "category": "book",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
+            "obtained": "Прочитана Чушкой",
+            "quantity": 1,
+            "log": [],
+            "comment": ""
+          },
+          "value": {
+            "id": "id_1792927766031_ehgjp",
+            "itemId": "id_1792927766031_v6z94",
+            "name": "Книга \"Аспектная магия\", Том 1",
+            "category": "book",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
+            "obtained": "Прочитана Чушкой",
+            "quantity": 1,
+            "log": [],
+            "comment": "Книга пообещала рассказать об элементалях в 4-м томе."
+          }
         }
       ]
     }
