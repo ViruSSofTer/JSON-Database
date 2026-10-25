@@ -208,7 +208,7 @@
       "hiddenDescription": "Неизвестный предмет",
       "condition": "",
       "slot": "",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -124905,7 +124905,64 @@
             "hiddenDescription": "Неизвестный предмет",
             "condition": "",
             "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792929381225_r6jug",
+      "time": "25.10.2026, 14:56",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Доп. слоты: id_1792928783349_3dewr | Раскрыт «Руна связи»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1792929124477_l8i18",
+          "oldValue": {
+            "id": "id_1792929124477_l8i18",
+            "itemId": "id_1792929124477_35vd5",
+            "name": "Руна связи",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Листовка с магической руной, предназначенной для связи",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
             "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792929124477_l8i18",
+            "itemId": "id_1792929124477_35vd5",
+            "name": "Руна связи",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Листовка с магической руной, предназначенной для связи",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
