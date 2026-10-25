@@ -212,28 +212,6 @@
       "obtained": "",
       "quantity": 1,
       "log": []
-    },
-    {
-      "id": "id_1792929980314_3mnt2",
-      "itemId": "id_1791302001189_na8et",
-      "name": "Простая винтовка",
-      "category": "weapon",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 1,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "slot": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
     }
   ],
   "extraSections": [
@@ -348,6 +326,28 @@
             "hp": 0,
             "str": 0,
             "agi": 0,
+            "int": 0
+          },
+          "extraSlots": 0,
+          "extraSlotsName": "",
+          "description": "",
+          "hiddenDescription": "Неизвестный предмет",
+          "condition": "",
+          "slot": "",
+          "revealed": true,
+          "obtained": "",
+          "quantity": 1,
+          "log": []
+        },
+        {
+          "id": "id_1792929980314_3mnt2",
+          "itemId": "id_1791302001189_na8et",
+          "name": "Простая винтовка",
+          "category": "weapon",
+          "stats": {
+            "hp": 0,
+            "str": 0,
+            "agi": 1,
             "int": 0
           },
           "extraSlots": 0,
@@ -8287,6 +8287,28 @@
                   "hp": 0,
                   "str": 0,
                   "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              },
+              {
+                "id": "id_1792929980314_3mnt2",
+                "itemId": "id_1791302001189_na8et",
+                "name": "Простая винтовка",
+                "category": "weapon",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 1,
                   "int": 0
                 },
                 "extraSlots": 0,
@@ -142256,6 +142278,127 @@
             "obtained": "",
             "quantity": 1,
             "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792930046118_aul5l",
+      "time": "25.10.2026, 15:07",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Доп. слоты: id_1792929880655_gsc47 | Перемещено «Простая винтовка»: Инвентарь → Доп. слоты: id_1792929880655_gsc47",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1792929980314_3mnt2",
+          "oldValue": {
+            "id": "id_1792929980314_3mnt2",
+            "itemId": "id_1791302001189_na8et",
+            "name": "Простая винтовка",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 1,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "updateSection",
+          "id": "id_1792929880655_gsc47",
+          "oldValue": {
+            "id": "id_1792929880655_gsc47",
+            "name": "Рюкзак",
+            "sourceItemId": "id_1792929880655_nnwjn",
+            "capacity": 3,
+            "items": [
+              {
+                "id": "id_1792929934835_ep9oh",
+                "itemId": "id_1791302754923_h8fuu",
+                "name": "Скрытый клинок лидера Чудил",
+                "category": "other",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              }
+            ]
+          },
+          "value": {
+            "id": "id_1792929880655_gsc47",
+            "name": "Рюкзак",
+            "sourceItemId": "id_1792929880655_nnwjn",
+            "capacity": 3,
+            "items": [
+              {
+                "id": "id_1792929934835_ep9oh",
+                "itemId": "id_1791302754923_h8fuu",
+                "name": "Скрытый клинок лидера Чудил",
+                "category": "other",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              },
+              {
+                "id": "id_1792929980314_3mnt2",
+                "itemId": "id_1791302001189_na8et",
+                "name": "Простая винтовка",
+                "category": "weapon",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 1,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              }
+            ]
           }
         }
       ]
