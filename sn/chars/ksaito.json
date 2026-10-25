@@ -122,6 +122,28 @@
       "quantity": 1,
       "log": [],
       "slot": "трусы"
+    },
+    {
+      "id": "id_1792928320688_3b3tb",
+      "itemId": "id_1792928320688_0ygfg",
+      "name": "Железный щит-обломок",
+      "category": "armor",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "Очень плохое",
+      "slot": "",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
     }
   ],
   "inventory": [],
@@ -103383,6 +103405,40 @@
           "path": "xp",
           "oldValue": 49,
           "value": 55
+        }
+      ]
+    },
+    {
+      "id": "id_1792928320688_jsgux",
+      "time": "25.10.2026, 14:38",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Экипировка | База — «Железный щит-обломок»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1792928320688_3b3tb",
+            "itemId": "id_1792928320688_0ygfg",
+            "name": "Железный щит-обломок",
+            "category": "armor",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "Очень плохое",
+            "slot": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
         }
       ]
     }
