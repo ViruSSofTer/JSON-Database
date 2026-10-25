@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T13:29:19.804Z",
+  "updatedAt": "2026-10-25T13:29:34.958Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -22,7 +22,7 @@
     {
       "id": "id_1792931284213_2b06n",
       "name": "Алхимическая сумка",
-      "category": "other",
+      "category": "equipment",
       "stats": {
         "hp": 0,
         "str": 0,
@@ -35,6 +35,7 @@
       "hiddenDescription": "",
       "condition": "Очень сильно потрёпана",
       "slot": "сумка через плечо",
+      "comment": "",
       "known": true
     },
     {
