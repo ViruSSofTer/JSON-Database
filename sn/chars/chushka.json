@@ -231,7 +231,7 @@
       "hiddenDescription": "Неизвестный предмет",
       "condition": "",
       "slot": "",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -15273,7 +15273,7 @@
             "hiddenDescription": "Неизвестный предмет",
             "condition": "",
             "slot": "",
-            "revealed": false,
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
@@ -15287,6 +15287,63 @@
             "sourceItemId": "id_1792927835366_ssbtj",
             "capacity": 1,
             "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792927840701_z3qx6",
+      "time": "25.10.2026, 14:30",
+      "text": "Сез.1.5 Сесс.28 | Чушка | Инвентарь | Раскрыт «Прочный шахтёрский комбинезон»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1792927835366_ssbtj",
+          "oldValue": {
+            "id": "id_1792927835366_ssbtj",
+            "itemId": "id_1792927835366_h9f5n",
+            "name": "Прочный шахтёрский комбинезон",
+            "category": "armor",
+            "stats": {
+              "hp": 5,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "Карманы комбинезона",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792927835366_ssbtj",
+            "itemId": "id_1792927835366_h9f5n",
+            "name": "Прочный шахтёрский комбинезон",
+            "category": "armor",
+            "stats": {
+              "hp": 5,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 1,
+            "extraSlotsName": "Карманы комбинезона",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
           }
         }
       ]
