@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T13:29:34.958Z",
+  "updatedAt": "2026-10-25T13:29:47.906Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -41,7 +41,7 @@
     {
       "id": "id_1790864452298_4fe6v",
       "name": "Арканное кольцо малое",
-      "category": "armor",
+      "category": "equipment",
       "stats": {
         "hp": 0,
         "str": 0,
@@ -53,6 +53,8 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
+      "slot": "",
+      "comment": "",
       "known": true
     },
     {
