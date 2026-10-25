@@ -231,10 +231,10 @@
       "extraSlotsName": "",
       "description": "",
       "hiddenDescription": "Неизвестный предмет",
-      "condition": "нормальная, прочитанная",
+      "condition": "",
       "slot": "",
       "revealed": true,
-      "obtained": "",
+      "obtained": "Прочитана Чушкой",
       "quantity": 1,
       "log": [],
       "comment": ""
@@ -18448,10 +18448,69 @@
             "extraSlotsName": "",
             "description": "",
             "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
+            "obtained": "Прочитана Чушкой",
+            "quantity": 1,
+            "log": [],
+            "comment": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792935190450_w6k8v",
+      "time": "25.10.2026, 16:33",
+      "text": "Сез.1.5 Сесс.28 | Чушка | Инвентарь | Правка «Книга \"Аспектная магия\", Том 1»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1792927766031_ehgjp",
+          "oldValue": {
+            "id": "id_1792927766031_ehgjp",
+            "itemId": "id_1792927766031_v6z94",
+            "name": "Книга \"Аспектная магия\", Том 1",
+            "category": "book",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
             "condition": "нормальная, прочитанная",
             "slot": "",
             "revealed": true,
             "obtained": "",
+            "quantity": 1,
+            "log": [],
+            "comment": ""
+          },
+          "value": {
+            "id": "id_1792927766031_ehgjp",
+            "itemId": "id_1792927766031_v6z94",
+            "name": "Книга \"Аспектная магия\", Том 1",
+            "category": "book",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
+            "obtained": "Прочитана Чушкой",
             "quantity": 1,
             "log": [],
             "comment": ""
