@@ -110111,7 +110111,7 @@
           "value": {
             "id": "id_1792928470729_omxcf",
             "itemId": "id_1792928470729_vb9xf",
-            "name": "Синяя магическая книга",
+            "name": "Синяя магическая книга (Вики)",
             "category": "weapon",
             "stats": {
               "hp": 0,
@@ -110126,7 +110126,7 @@
             "condition": "",
             "slot": "",
             "revealed": false,
-            "obtained": "",
+            "obtained": "Найдена в Плутосске",
             "quantity": 1,
             "log": []
           }
@@ -110159,6 +110159,62 @@
           }
         }
       ]
+    },
+    {
+      "id": "id_1792928590051_k164s",
+      "time": "25.10.2026, 14:43",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Оружие в руках | Правка «Синяя магическая книга (Вики)»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "handWeapon",
+          "oldValue": {
+            "id": "id_1792928470729_omxcf",
+            "itemId": "id_1792928470729_vb9xf",
+            "name": "Синяя магическая книга",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 1
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Книга - волшебный ассистент",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792928470729_omxcf",
+            "itemId": "id_1792928470729_vb9xf",
+            "name": "Синяя магическая книга (Вики)",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 1
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Книга - волшебный ассистент",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": false,
+            "obtained": "Найдена в Плутосске",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
     }
   ],
   "name": "Ксайто",
@@ -110170,7 +110226,7 @@
   "handWeapon": {
     "id": "id_1792928470729_omxcf",
     "itemId": "id_1792928470729_vb9xf",
-    "name": "Синяя магическая книга",
+    "name": "Синяя магическая книга (Вики)",
     "category": "weapon",
     "stats": {
       "hp": 0,
@@ -110185,7 +110241,7 @@
     "condition": "",
     "slot": "",
     "revealed": false,
-    "obtained": "",
+    "obtained": "Найдена в Плутосске",
     "quantity": 1,
     "log": []
   }
