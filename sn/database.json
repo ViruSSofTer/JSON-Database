@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T12:32:14.119Z",
+  "updatedAt": "2026-10-25T12:37:15.063Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -575,6 +575,24 @@
       "description": "Рассказывает о том, как делать из манатита магическое удобрение.",
       "hiddenDescription": "",
       "condition": "",
+      "slot": "",
+      "known": true
+    },
+    {
+      "id": "id_1792931835062_nr2fl",
+      "name": "Саженцы деревьев",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Саженцы деревьев из Фелитара",
+      "hiddenDescription": "",
+      "condition": "Очень помяты",
       "slot": "",
       "known": true
     }
