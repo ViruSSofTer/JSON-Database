@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:57:07.556Z",
+  "updatedAt": "2026-10-25T12:04:40.662Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -486,6 +486,24 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1792929880655_6t4da",
+      "name": "Простой рюкзак",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 3,
+      "extraSlotsName": "Рюкзак",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "Спина",
       "known": true
     }
   ],
