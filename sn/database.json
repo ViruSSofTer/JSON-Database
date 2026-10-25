@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T13:30:51.924Z",
+  "updatedAt": "2026-10-25T13:31:02.559Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -314,7 +314,7 @@
     {
       "id": "id_1792927911060_r38pq",
       "name": "Манатитовый перстень",
-      "category": "other",
+      "category": "equipment",
       "stats": {
         "hp": 0,
         "str": 0,
