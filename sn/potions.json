@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T12:51:37.887Z",
+  "updatedAt": "2026-10-25T12:51:41.563Z",
   "potions": [
     {
       "id": "id_1792932676045_gabqp",
       "name": "Вакуумное зелье",
       "description": "Зелье, позволяющее вернуть созданную Арианом стихию назад в банку.",
-      "type": "green",
+      "type": "yellow",
       "level": "advanced"
     },
     {
