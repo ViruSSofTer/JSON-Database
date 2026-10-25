@@ -166,6 +166,28 @@
       "obtained": "",
       "quantity": 1,
       "log": []
+    },
+    {
+      "id": "id_1792929880655_nnwjn",
+      "itemId": "id_1792929880655_6t4da",
+      "name": "Простой рюкзак",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 3,
+      "extraSlotsName": "Рюкзак",
+      "description": "",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "slot": "Спина",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
     }
   ],
   "inventory": [
@@ -183,28 +205,6 @@
       "extraSlots": 0,
       "extraSlotsName": "",
       "description": "Кустарно собранный огнемёт. Тяжёлый.",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "slot": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 1,
-      "log": []
-    },
-    {
-      "id": "id_1792929420752_sgu0x",
-      "itemId": "id_1792929124477_35vd5",
-      "name": "Руна связи",
-      "category": "consumable",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Листовка с магической руной, предназначенной для связи",
       "hiddenDescription": "Неизвестный предмет",
       "condition": "",
       "slot": "",
@@ -286,8 +286,37 @@
           "obtained": "",
           "quantity": 1,
           "log": []
+        },
+        {
+          "id": "id_1792929420752_sgu0x",
+          "itemId": "id_1792929124477_35vd5",
+          "name": "Руна связи",
+          "category": "consumable",
+          "stats": {
+            "hp": 0,
+            "str": 0,
+            "agi": 0,
+            "int": 0
+          },
+          "extraSlots": 0,
+          "extraSlotsName": "",
+          "description": "Листовка с магической руной, предназначенной для связи",
+          "hiddenDescription": "Неизвестный предмет",
+          "condition": "",
+          "slot": "",
+          "revealed": true,
+          "obtained": "",
+          "quantity": 1,
+          "log": []
         }
       ]
+    },
+    {
+      "id": "id_1792929880655_gsc47",
+      "name": "Рюкзак",
+      "sourceItemId": "id_1792929880655_nnwjn",
+      "capacity": 3,
+      "items": []
     }
   ],
   "active": [
@@ -6905,6 +6934,28 @@
                 "obtained": "",
                 "quantity": 1,
                 "log": []
+              },
+              {
+                "id": "id_1792929420752_sgu0x",
+                "itemId": "id_1792929124477_35vd5",
+                "name": "Руна связи",
+                "category": "consumable",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "Листовка с магической руной, предназначенной для связи",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
               }
             ]
           }
@@ -7106,6 +7157,28 @@
                 "id": "id_1792929124477_l8i18",
                 "itemId": "id_1792929124477_35vd5",
                 "name": "Руна связи (демоническое агентство \"Чёрная Роза\")",
+                "category": "consumable",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "Листовка с магической руной, предназначенной для связи",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              },
+              {
+                "id": "id_1792929420752_sgu0x",
+                "itemId": "id_1792929124477_35vd5",
+                "name": "Руна связи",
                 "category": "consumable",
                 "stats": {
                   "hp": 0,
@@ -7342,6 +7415,28 @@
                 "id": "id_1792929124477_l8i18",
                 "itemId": "id_1792929124477_35vd5",
                 "name": "Руна связи (демоническое агентство \"Чёрная Роза\")",
+                "category": "consumable",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "Листовка с магической руной, предназначенной для связи",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              },
+              {
+                "id": "id_1792929420752_sgu0x",
+                "itemId": "id_1792929124477_35vd5",
+                "name": "Руна связи",
                 "category": "consumable",
                 "stats": {
                   "hp": 0,
@@ -7615,6 +7710,28 @@
                 "obtained": "",
                 "quantity": 1,
                 "log": []
+              },
+              {
+                "id": "id_1792929420752_sgu0x",
+                "itemId": "id_1792929124477_35vd5",
+                "name": "Руна связи",
+                "category": "consumable",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "Листовка с магической руной, предназначенной для связи",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
               }
             ]
           }
@@ -7758,6 +7875,28 @@
                 "id": "id_1792929124477_l8i18",
                 "itemId": "id_1792929124477_35vd5",
                 "name": "Руна связи (демоническое агентство \"Чёрная Роза\")",
+                "category": "consumable",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "Листовка с магической руной, предназначенной для связи",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              },
+              {
+                "id": "id_1792929420752_sgu0x",
+                "itemId": "id_1792929124477_35vd5",
+                "name": "Руна связи",
                 "category": "consumable",
                 "stats": {
                   "hp": 0,
@@ -133257,6 +133396,259 @@
             "obtained": "",
             "quantity": 1,
             "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792929433046_brp6a",
+      "time": "25.10.2026, 14:57",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Доп. слоты: id_1792928783349_3dewr | Перемещено «Руна связи»: Инвентарь → Доп. слоты: id_1792928783349_3dewr",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1792929420752_sgu0x",
+          "oldValue": {
+            "id": "id_1792929420752_sgu0x",
+            "itemId": "id_1792929124477_35vd5",
+            "name": "Руна связи",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Листовка с магической руной, предназначенной для связи",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "updateSection",
+          "id": "id_1792928783349_3dewr",
+          "oldValue": {
+            "id": "id_1792928783349_3dewr",
+            "name": "Арканный мешочек",
+            "sourceItemId": "id_1792928783349_gbmnu",
+            "capacity": 6,
+            "items": [
+              {
+                "id": "id_1792928883363_sroam",
+                "itemId": "id_1792928883363_jv1i4",
+                "name": "Бело-красный шарик",
+                "category": "consumable",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "Способен ловить мостров",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "Сияет!",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              },
+              {
+                "id": "id_1792928957395_jn576",
+                "itemId": "id_1792928957395_rhv4a",
+                "name": "Контактный камень (к Баре)",
+                "category": "other",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "Контакт утерян",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              },
+              {
+                "id": "id_1792929124477_l8i18",
+                "itemId": "id_1792929124477_35vd5",
+                "name": "Руна связи (демоническое агентство \"Чёрная Роза\")",
+                "category": "consumable",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "Листовка с магической руной, предназначенной для связи",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              }
+            ]
+          },
+          "value": {
+            "id": "id_1792928783349_3dewr",
+            "name": "Арканный мешочек",
+            "sourceItemId": "id_1792928783349_gbmnu",
+            "capacity": 6,
+            "items": [
+              {
+                "id": "id_1792928883363_sroam",
+                "itemId": "id_1792928883363_jv1i4",
+                "name": "Бело-красный шарик",
+                "category": "consumable",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "Способен ловить мостров",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "Сияет!",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              },
+              {
+                "id": "id_1792928957395_jn576",
+                "itemId": "id_1792928957395_rhv4a",
+                "name": "Контактный камень (к Баре)",
+                "category": "other",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "Контакт утерян",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              },
+              {
+                "id": "id_1792929124477_l8i18",
+                "itemId": "id_1792929124477_35vd5",
+                "name": "Руна связи (демоническое агентство \"Чёрная Роза\")",
+                "category": "consumable",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "Листовка с магической руной, предназначенной для связи",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              },
+              {
+                "id": "id_1792929420752_sgu0x",
+                "itemId": "id_1792929124477_35vd5",
+                "name": "Руна связи",
+                "category": "consumable",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "Листовка с магической руной, предназначенной для связи",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "",
+                "slot": "",
+                "revealed": true,
+                "obtained": "",
+                "quantity": 1,
+                "log": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792929880655_si25m",
+      "time": "25.10.2026, 15:04",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Экипировка | База — «Простой рюкзак»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "equipment",
+          "value": {
+            "id": "id_1792929880655_nnwjn",
+            "itemId": "id_1792929880655_6t4da",
+            "name": "Простой рюкзак",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 3,
+            "extraSlotsName": "Рюкзак",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "Спина",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "addSection",
+          "value": {
+            "id": "id_1792929880655_gsc47",
+            "name": "Рюкзак",
+            "sourceItemId": "id_1792929880655_nnwjn",
+            "capacity": 3,
+            "items": []
           }
         }
       ]
