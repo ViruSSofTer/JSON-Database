@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T13:31:41.629Z",
+  "updatedAt": "2026-10-25T13:31:48.367Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -513,18 +513,20 @@
     {
       "id": "id_1791302754923_h8fuu",
       "name": "Скрытый клинок лидера Чудил",
-      "category": "other",
+      "category": "weapon",
       "stats": {
         "hp": 0,
         "str": 0,
         "agi": 0,
         "int": 0
       },
+      "extraSlots": 0,
+      "extraSlotsName": "",
       "description": "",
       "hiddenDescription": "",
       "condition": "",
-      "extraSlots": 0,
-      "extraSlotsName": "",
+      "slot": "",
+      "comment": "",
       "known": true
     },
     {
