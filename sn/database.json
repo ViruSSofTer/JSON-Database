@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:49:17.400Z",
+  "updatedAt": "2026-10-25T11:52:04.481Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -157,6 +157,24 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "нормальная, прочитанная",
+      "slot": "",
+      "known": true
+    },
+    {
+      "id": "id_1792928957395_rhv4a",
+      "name": "Контактный камень",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
       "slot": "",
       "known": true
     },
@@ -453,9 +471,9 @@
       "known": true
     },
     {
-      "id": "id_1792928957395_rhv4a",
-      "name": "Контактный камень",
-      "category": "other",
+      "id": "id_1792929124477_35vd5",
+      "name": "Руна связи",
+      "category": "consumable",
       "stats": {
         "hp": 0,
         "str": 0,
@@ -464,7 +482,7 @@
       },
       "extraSlots": 0,
       "extraSlotsName": "",
-      "description": "",
+      "description": "Листовка с магической руной, предназначенной для связи",
       "hiddenDescription": "",
       "condition": "",
       "slot": "",
