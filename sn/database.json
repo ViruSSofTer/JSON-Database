@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:52:04.481Z",
+  "updatedAt": "2026-10-25T11:57:07.556Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -352,6 +352,24 @@
       "known": true
     },
     {
+      "id": "id_1792929124477_35vd5",
+      "name": "Руна связи",
+      "category": "consumable",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Листовка с магической руной, предназначенной для связи",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "",
+      "known": true
+    },
+    {
       "id": "id_1792928470729_vb9xf",
       "name": "Синяя магическая книга",
       "category": "weapon",
@@ -468,24 +486,6 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
-      "known": true
-    },
-    {
-      "id": "id_1792929124477_35vd5",
-      "name": "Руна связи",
-      "category": "consumable",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Листовка с магической руной, предназначенной для связи",
-      "hiddenDescription": "",
-      "condition": "",
-      "slot": "",
       "known": true
     }
   ],
