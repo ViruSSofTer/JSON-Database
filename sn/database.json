@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T13:29:56.211Z",
+  "updatedAt": "2026-10-25T13:30:30.228Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -295,7 +295,7 @@
     {
       "id": "id_1791741452950_ldrx1",
       "name": "Манатитовый крест",
-      "category": "armor",
+      "category": "equipment",
       "stats": {
         "hp": 0,
         "str": 0,
@@ -304,9 +304,11 @@
       },
       "extraSlots": 0,
       "extraSlotsName": "",
-      "description": "",
+      "description": "Крест Ксайто с манатитовым ядром для манатитовой магии.",
       "hiddenDescription": "",
       "condition": "",
+      "slot": "",
+      "comment": "",
       "known": true
     },
     {
