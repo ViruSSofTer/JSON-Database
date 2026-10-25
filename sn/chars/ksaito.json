@@ -146,7 +146,30 @@
       "log": []
     }
   ],
-  "inventory": [],
+  "inventory": [
+    {
+      "id": "id_1792928655810_l4wen",
+      "itemId": "id_1792928655810_gsrky",
+      "name": "Огнемёт Авалессии",
+      "category": "weapon",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Кустарно собранный огнемёт. Тяжёлый.",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "slot": "",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
+    }
+  ],
   "extraSections": [],
   "active": [
     {
@@ -110210,6 +110233,40 @@
             "slot": "",
             "revealed": false,
             "obtained": "Найдена в Плутосске",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792928655810_ysyus",
+      "time": "25.10.2026, 14:44",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Инвентарь | База — «Огнемёт Авалессии»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1792928655810_l4wen",
+            "itemId": "id_1792928655810_gsrky",
+            "name": "Огнемёт Авалессии",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Кустарно собранный огнемёт. Тяжёлый.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": false,
+            "obtained": "",
             "quantity": 1,
             "log": []
           }
