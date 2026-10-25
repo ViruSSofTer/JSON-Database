@@ -184,7 +184,7 @@
       "hiddenDescription": "Неизвестный предмет",
       "condition": "",
       "slot": "Спина",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -133635,7 +133635,7 @@
             "hiddenDescription": "Неизвестный предмет",
             "condition": "",
             "slot": "Спина",
-            "revealed": false,
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
@@ -133649,6 +133649,63 @@
             "sourceItemId": "id_1792929880655_nnwjn",
             "capacity": 3,
             "items": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792929913488_6dvos",
+      "time": "25.10.2026, 15:05",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Экипировка | Раскрыт «Простой рюкзак»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1792929880655_nnwjn",
+          "oldValue": {
+            "id": "id_1792929880655_nnwjn",
+            "itemId": "id_1792929880655_6t4da",
+            "name": "Простой рюкзак",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 3,
+            "extraSlotsName": "Рюкзак",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "Спина",
+            "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792929880655_nnwjn",
+            "itemId": "id_1792929880655_6t4da",
+            "name": "Простой рюкзак",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 3,
+            "extraSlotsName": "Рюкзак",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "Спина",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
           }
         }
       ]
