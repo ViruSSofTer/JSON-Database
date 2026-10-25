@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:48:13.138Z",
+  "updatedAt": "2026-10-25T11:49:17.400Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -450,6 +450,24 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1792928957395_rhv4a",
+      "name": "Контактный камень",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "",
       "known": true
     }
   ],
