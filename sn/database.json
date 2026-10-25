@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T13:28:27.713Z",
+  "updatedAt": "2026-10-25T13:28:36.129Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -200,7 +200,7 @@
     {
       "id": "id_1792931534117_v8sup",
       "name": "Книга \"Использование магических свойств манатита для ускорения роста роз\"",
-      "category": "other",
+      "category": "book",
       "stats": {
         "hp": 0,
         "str": 0,
@@ -213,6 +213,7 @@
       "hiddenDescription": "",
       "condition": "",
       "slot": "",
+      "comment": "",
       "known": true
     },
     {
