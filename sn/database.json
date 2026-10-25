@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:46:23.354Z",
+  "updatedAt": "2026-10-25T11:48:13.138Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -34,6 +34,42 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1792928783349_v93gh",
+      "name": "Арканный мешочек",
+      "category": "armor",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 6,
+      "extraSlotsName": "Арканный мешочек",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "пояс",
+      "known": true
+    },
+    {
+      "id": "id_1792928883363_jv1i4",
+      "name": "Бело-красный шарик",
+      "category": "consumable",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Способен ловить мостров",
+      "hiddenDescription": "",
+      "condition": "Сияет!",
+      "slot": "",
       "known": true
     },
     {
@@ -414,24 +450,6 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
-      "known": true
-    },
-    {
-      "id": "id_1792928783349_v93gh",
-      "name": "Арканный мешочек",
-      "category": "armor",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 6,
-      "extraSlotsName": "Арканный мешочек",
-      "description": "",
-      "hiddenDescription": "",
-      "condition": "",
-      "slot": "пояс",
       "known": true
     }
   ],
