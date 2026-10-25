@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:44:15.814Z",
+  "updatedAt": "2026-10-25T11:46:23.354Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -191,6 +191,24 @@
       "hiddenDescription": "",
       "condition": "Манатитовый аксессуар",
       "slot": "палец",
+      "known": true
+    },
+    {
+      "id": "id_1792928655810_gsrky",
+      "name": "Огнемёт Авалессии",
+      "category": "weapon",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Кустарно собранный огнемёт. Тяжёлый.",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "",
       "known": true
     },
     {
@@ -399,21 +417,21 @@
       "known": true
     },
     {
-      "id": "id_1792928655810_gsrky",
-      "name": "Огнемёт Авалессии",
-      "category": "weapon",
+      "id": "id_1792928783349_v93gh",
+      "name": "Арканный мешочек",
+      "category": "armor",
       "stats": {
         "hp": 0,
         "str": 0,
         "agi": 0,
         "int": 0
       },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Кустарно собранный огнемёт. Тяжёлый.",
+      "extraSlots": 6,
+      "extraSlotsName": "Арканный мешочек",
+      "description": "",
       "hiddenDescription": "",
       "condition": "",
-      "slot": "",
+      "slot": "пояс",
       "known": true
     }
   ],
