@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:38:40.691Z",
+  "updatedAt": "2026-10-25T11:41:10.748Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -51,6 +51,24 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1792928320688_0ygfg",
+      "name": "Железный щит-обломок",
+      "category": "armor",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "Очень плохое",
+      "slot": "",
       "known": true
     },
     {
@@ -363,20 +381,20 @@
       "known": true
     },
     {
-      "id": "id_1792928320688_0ygfg",
-      "name": "Железный щит-обломок",
-      "category": "armor",
+      "id": "id_1792928470729_vb9xf",
+      "name": "Синяя магическая книга",
+      "category": "weapon",
       "stats": {
         "hp": 0,
         "str": 0,
         "agi": 0,
-        "int": 0
+        "int": 1
       },
       "extraSlots": 0,
       "extraSlotsName": "",
-      "description": "",
+      "description": "Книга - волшебный ассистент",
       "hiddenDescription": "",
-      "condition": "Очень плохое",
+      "condition": "",
       "slot": "",
       "known": true
     }
