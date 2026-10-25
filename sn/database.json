@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:31:51.062Z",
+  "updatedAt": "2026-10-25T11:38:40.691Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -155,6 +155,24 @@
       "description": "",
       "hiddenDescription": "",
       "condition": "",
+      "known": true
+    },
+    {
+      "id": "id_1792927911060_r38pq",
+      "name": "Манатитовый перстень",
+      "category": "other",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Перстень, который даёт Чушке магию",
+      "hiddenDescription": "",
+      "condition": "Манатитовый аксессуар",
+      "slot": "палец",
       "known": true
     },
     {
@@ -345,9 +363,9 @@
       "known": true
     },
     {
-      "id": "id_1792927911060_r38pq",
-      "name": "Манатитовый перстень",
-      "category": "other",
+      "id": "id_1792928320688_0ygfg",
+      "name": "Железный щит-обломок",
+      "category": "armor",
       "stats": {
         "hp": 0,
         "str": 0,
@@ -356,10 +374,10 @@
       },
       "extraSlots": 0,
       "extraSlotsName": "",
-      "description": "Перстень, который даёт Чушке магию",
+      "description": "",
       "hiddenDescription": "",
-      "condition": "Манатитовый аксессуар",
-      "slot": "палец",
+      "condition": "Очень плохое",
+      "slot": "",
       "known": true
     }
   ],
