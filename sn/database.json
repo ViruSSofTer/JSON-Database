@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T13:28:36.129Z",
+  "updatedAt": "2026-10-25T13:28:46.451Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -219,7 +219,7 @@
     {
       "id": "id_1792931441992_1t6kf",
       "name": "Книга \"Мастерская Алхимия\"",
-      "category": "other",
+      "category": "book",
       "stats": {
         "hp": 0,
         "str": 0,
@@ -232,6 +232,7 @@
       "hiddenDescription": "",
       "condition": "",
       "slot": "",
+      "comment": "",
       "known": true
     },
     {
