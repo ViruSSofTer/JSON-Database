@@ -2,7 +2,7 @@
   "id": "ksaito",
   "isCompanion": false,
   "level": 7,
-  "xp": 49,
+  "xp": 55,
   "levelUpPoints": 0,
   "neurali": 88,
   "baseStats": {
@@ -103371,6 +103371,20 @@
           "handWeapon": null
         }
       }
+    },
+    {
+      "id": "id_1792928191586_gjr2c",
+      "time": "25.10.2026, 14:36",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Экипировка | Опыт: +6 XP",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "xp",
+          "oldValue": 49,
+          "value": 55
+        }
+      ]
     }
   ],
   "name": "Ксайто",
