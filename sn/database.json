@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T12:06:20.322Z",
+  "updatedAt": "2026-10-25T12:24:01.971Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -46,7 +46,7 @@
         "agi": 0,
         "int": 0
       },
-      "extraSlots": 6,
+      "extraSlots": 5,
       "extraSlotsName": "Арканный мешочек",
       "description": "",
       "hiddenDescription": "",
