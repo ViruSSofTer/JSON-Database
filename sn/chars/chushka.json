@@ -209,7 +209,7 @@
       "hiddenDescription": "Неизвестный предмет",
       "condition": "нормальная, прочитанная",
       "slot": "",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -15153,7 +15153,64 @@
             "hiddenDescription": "Неизвестный предмет",
             "condition": "нормальная, прочитанная",
             "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792927771232_7gh3c",
+      "time": "25.10.2026, 14:29",
+      "text": "Сез.1.5 Сесс.28 | Чушка | Инвентарь | Раскрыт «Книга \"Аспектная магия\", Том 1»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1792927766031_ehgjp",
+          "oldValue": {
+            "id": "id_1792927766031_ehgjp",
+            "itemId": "id_1792927766031_v6z94",
+            "name": "Книга \"Аспектная магия\", Том 1",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "нормальная, прочитанная",
+            "slot": "",
             "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792927766031_ehgjp",
+            "itemId": "id_1792927766031_v6z94",
+            "name": "Книга \"Аспектная магия\", Том 1",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "нормальная, прочитанная",
+            "slot": "",
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
