@@ -86,7 +86,30 @@
       "log": []
     }
   ],
-  "inventory": [],
+  "inventory": [
+    {
+      "id": "id_1792931363620_du1zu",
+      "itemId": "id_1792931363620_yiu8f",
+      "name": "Камень \"Создание щита\"",
+      "category": "consumable",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Позволяет наложить защитный магический барьер на цель.",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "slot": "",
+      "revealed": false,
+      "obtained": "",
+      "quantity": 1,
+      "log": []
+    }
+  ],
   "extraSections": [
     {
       "id": "id_1792608575281_5t96k",
@@ -8649,6 +8672,40 @@
             "condition": "Очень сильно потрёпана",
             "slot": "сумка через плечо",
             "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792931363620_0htdj",
+      "time": "25.10.2026, 15:29",
+      "text": "Сез.1.5 Сесс.28 | Ариан | Инвентарь | База — «Камень \"Создание щита\"»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1792931363620_du1zu",
+            "itemId": "id_1792931363620_yiu8f",
+            "name": "Камень \"Создание щита\"",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Позволяет наложить защитный магический барьер на цель.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": false,
             "obtained": "",
             "quantity": 1,
             "log": []
