@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T13:31:26.971Z",
+  "updatedAt": "2026-10-25T13:31:41.629Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -494,7 +494,7 @@
     {
       "id": "id_1792928470729_vb9xf",
       "name": "Синяя магическая книга",
-      "category": "weapon",
+      "category": "equipment",
       "stats": {
         "hp": 0,
         "str": 0,
@@ -507,6 +507,7 @@
       "hiddenDescription": "",
       "condition": "",
       "slot": "",
+      "comment": "",
       "known": true
     },
     {
