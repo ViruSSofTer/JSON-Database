@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T11:41:10.748Z",
+  "updatedAt": "2026-10-25T11:44:15.814Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -280,6 +280,24 @@
       "known": true
     },
     {
+      "id": "id_1792928470729_vb9xf",
+      "name": "Синяя магическая книга",
+      "category": "weapon",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 1
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Книга - волшебный ассистент",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "",
+      "known": true
+    },
+    {
       "id": "id_1791302754923_h8fuu",
       "name": "Скрытый клинок лидера Чудил",
       "category": "other",
@@ -381,18 +399,18 @@
       "known": true
     },
     {
-      "id": "id_1792928470729_vb9xf",
-      "name": "Синяя магическая книга",
+      "id": "id_1792928655810_gsrky",
+      "name": "Огнемёт Авалессии",
       "category": "weapon",
       "stats": {
         "hp": 0,
         "str": 0,
         "agi": 0,
-        "int": 1
+        "int": 0
       },
       "extraSlots": 0,
       "extraSlotsName": "",
-      "description": "Книга - волшебный ассистент",
+      "description": "Кустарно собранный огнемёт. Тяжёлый.",
       "hiddenDescription": "",
       "condition": "",
       "slot": "",
