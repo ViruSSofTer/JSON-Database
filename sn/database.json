@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T13:03:43.386Z",
+  "updatedAt": "2026-10-25T13:28:27.713Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -181,7 +181,7 @@
     {
       "id": "id_1792927766031_v6z94",
       "name": "Книга \"Аспектная магия\", Том 1",
-      "category": "other",
+      "category": "book",
       "stats": {
         "hp": 0,
         "str": 0,
@@ -194,6 +194,7 @@
       "hiddenDescription": "",
       "condition": "нормальная, прочитанная",
       "slot": "",
+      "comment": "",
       "known": true
     },
     {
