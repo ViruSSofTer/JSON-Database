@@ -164,7 +164,7 @@
       "hiddenDescription": "Неизвестный предмет",
       "condition": "",
       "slot": "",
-      "revealed": false,
+      "revealed": true,
       "obtained": "",
       "quantity": 1,
       "log": []
@@ -110265,7 +110265,64 @@
             "hiddenDescription": "Неизвестный предмет",
             "condition": "",
             "slot": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792928688957_9rit8",
+      "time": "25.10.2026, 14:44",
+      "text": "Сез.1.5 Сесс.28 | Ксайто | Инвентарь | Раскрыт «Огнемёт Авалессии»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1792928655810_l4wen",
+          "oldValue": {
+            "id": "id_1792928655810_l4wen",
+            "itemId": "id_1792928655810_gsrky",
+            "name": "Огнемёт Авалессии",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Кустарно собранный огнемёт. Тяжёлый.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
             "revealed": false,
+            "obtained": "",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792928655810_l4wen",
+            "itemId": "id_1792928655810_gsrky",
+            "name": "Огнемёт Авалессии",
+            "category": "weapon",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Кустарно собранный огнемёт. Тяжёлый.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
             "obtained": "",
             "quantity": 1,
             "log": []
