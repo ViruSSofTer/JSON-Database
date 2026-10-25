@@ -114,7 +114,7 @@
       "id": "id_1792931441992_cbr6s",
       "itemId": "id_1792931441992_1t6kf",
       "name": "Книга \"Мастерская Алхимия\"",
-      "category": "other",
+      "category": "book",
       "stats": {
         "hp": 0,
         "str": 0,
@@ -130,7 +130,8 @@
       "revealed": true,
       "obtained": "-Прочитана Арианом",
       "quantity": 1,
-      "log": []
+      "log": [],
+      "comment": ""
     },
     {
       "id": "id_1792931534117_yh7xa",
@@ -25439,6 +25440,64 @@
             "slot": "сумка через плечо",
             "revealed": true,
             "obtained": "",
+            "quantity": 1,
+            "log": [],
+            "comment": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1792939330247_gaudl",
+      "time": "25.10.2026, 17:42",
+      "text": "Сез.1.5 Сесс.28 | Ариан | Инвентарь | Правка «Книга \"Мастерская Алхимия\"»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1792931441992_cbr6s",
+          "oldValue": {
+            "id": "id_1792931441992_cbr6s",
+            "itemId": "id_1792931441992_1t6kf",
+            "name": "Книга \"Мастерская Алхимия\"",
+            "category": "other",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Книга покрывает мастерский уровень алхимии - особенные рецепты, правила аттестации, советы по улучшению процедуры, а также мотивационные наставления!",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
+            "obtained": "-Прочитана Арианом",
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1792931441992_cbr6s",
+            "itemId": "id_1792931441992_1t6kf",
+            "name": "Книга \"Мастерская Алхимия\"",
+            "category": "book",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Книга покрывает мастерский уровень алхимии - особенные рецепты, правила аттестации, советы по улучшению процедуры, а также мотивационные наставления!",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "revealed": true,
+            "obtained": "-Прочитана Арианом",
             "quantity": 1,
             "log": [],
             "comment": ""
