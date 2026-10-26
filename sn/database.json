@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T14:33:33.069Z",
+  "updatedAt": "2026-10-26T06:23:42.010Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -616,5 +616,29 @@
       "known": true
     }
   ],
-  "commonPool": []
+  "commonPool": [
+    {
+      "id": "id_1792928655810_l4wen",
+      "itemId": "id_1792928655810_gsrky",
+      "name": "Огнемёт Авалессии",
+      "category": "weapon",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Кустарно собранный огнемёт. Тяжёлый.",
+      "hiddenDescription": "Неизвестный предмет",
+      "condition": "",
+      "slot": "",
+      "revealed": true,
+      "obtained": "",
+      "quantity": 1,
+      "log": [],
+      "extraSections": []
+    }
+  ]
 }
