@@ -222,29 +222,6 @@
       "revealed": true
     },
     {
-      "id": "id_1793557544204_qp5i5",
-      "itemId": "id_1793557544203_t27d5",
-      "name": "Целительное зелье Ариана",
-      "category": "consumable",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "Зелье исцеления, приготовленное Арианом",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "slot": "",
-      "comment": "",
-      "revealed": true,
-      "obtained": "",
-      "quantity": 2,
-      "log": []
-    },
-    {
       "id": "id_1793557668820_j7b6x",
       "name": "Холодное зелье Ариана",
       "desc": "Создаёт лужу льда",
@@ -182348,6 +182325,42 @@
               "int": 0
             },
             "quantity": 1,
+            "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1793559622664_mjf8z",
+      "time": "01.11.2026, 22:00",
+      "text": "Сез.1.5 Сесс.30 | Ксайто | Инвентарь | Убрано «Целительное зелье Ариана»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1793557544204_qp5i5",
+          "oldValue": {
+            "id": "id_1793557544204_qp5i5",
+            "itemId": "id_1793557544203_t27d5",
+            "name": "Целительное зелье Ариана",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Зелье исцеления, приготовленное Арианом",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "slot": "",
+            "comment": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 2,
             "log": []
           }
         }
