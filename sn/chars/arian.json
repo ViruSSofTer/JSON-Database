@@ -8,7 +8,7 @@
   "personality": "Романтик",
   "background": "Амнезиак с загадочным прошлым...",
   "level": 7,
-  "xp": 73,
+  "xp": 75,
   "levelUpPoints": 1,
   "neurali": 0,
   "baseStats": {
@@ -29205,6 +29205,20 @@
             "quantity": 1,
             "log": []
           }
+        }
+      ]
+    },
+    {
+      "id": "id_1793559658504_h9vj7",
+      "time": "01.11.2026, 22:00",
+      "text": "Сез.1.5 Сесс.30 | Ариан | Инвентарь | Опыт: +2 XP",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "xp",
+          "oldValue": 73,
+          "value": 75
         }
       ]
     }
