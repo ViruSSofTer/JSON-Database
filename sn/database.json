@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T06:23:42.010Z",
+  "updatedAt": "2026-11-01T18:27:48.824Z",
   "items": [
     {
       "id": "id_1790914387866_gj5yt",
@@ -92,6 +92,25 @@
       "hiddenDescription": "",
       "condition": "Сияет!",
       "slot": "",
+      "known": true
+    },
+    {
+      "id": "id_1791302001189_na8et",
+      "name": "Винтовка иллюмиральского стража",
+      "category": "weapon",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 1,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "",
+      "comment": "",
       "known": true
     },
     {
@@ -366,25 +385,6 @@
       "known": true
     },
     {
-      "id": "id_1791302001189_na8et",
-      "name": "Винтовка иллюмиральского стража",
-      "category": "weapon",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 1,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "",
-      "description": "",
-      "hiddenDescription": "",
-      "condition": "",
-      "slot": "",
-      "comment": "",
-      "known": true
-    },
-    {
       "id": "id_1792929880655_6t4da",
       "name": "Простой рюкзак",
       "category": "equipment",
@@ -582,6 +582,25 @@
       "known": true
     },
     {
+      "id": "id_1793557544203_t27d5",
+      "name": "Целительное зелье Ариана",
+      "category": "consumable",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "Зелье исцеления, приготовленное Арианом",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "",
+      "comment": "",
+      "known": true
+    },
+    {
       "id": "id_1791305930552_8uh7e",
       "name": "Чёрные резиновые сапоги",
       "category": "armor",
@@ -638,7 +657,8 @@
       "obtained": "",
       "quantity": 1,
       "log": [],
-      "extraSections": []
+      "extraSections": [],
+      "comment": ""
     }
   ]
 }
