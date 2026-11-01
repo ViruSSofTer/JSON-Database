@@ -2,7 +2,7 @@
   "id": "ksaito",
   "isCompanion": false,
   "level": 7,
-  "xp": 57,
+  "xp": 59,
   "levelUpPoints": 0,
   "neurali": 88,
   "baseStats": {
@@ -207,21 +207,6 @@
       "revealed": true
     },
     {
-      "id": "id_1793557182089_sxozw",
-      "name": "Противозапаховое зелье Ариана",
-      "desc": "",
-      "comment": "",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "quantity": 1,
-      "log": [],
-      "revealed": true
-    },
-    {
       "id": "id_1793557668820_j7b6x",
       "name": "Холодное зелье Ариана",
       "desc": "Создаёт лужу льда",
@@ -233,7 +218,8 @@
         "int": 0
       },
       "quantity": 1,
-      "log": []
+      "log": [],
+      "revealed": true
     }
   ],
   "extraSections": [
@@ -182325,7 +182311,8 @@
               "int": 0
             },
             "quantity": 1,
-            "log": []
+            "log": [],
+            "revealed": true
           }
         }
       ]
@@ -182363,6 +182350,90 @@
             "quantity": 2,
             "log": []
           }
+        }
+      ]
+    },
+    {
+      "id": "id_1793559627501_bxu6e",
+      "time": "01.11.2026, 22:00",
+      "text": "Сез.1.5 Сесс.30 | Ксайто | Инвентарь | Убрано «Противозапаховое зелье Ариана»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1793557182089_sxozw",
+          "oldValue": {
+            "id": "id_1793557182089_sxozw",
+            "name": "Противозапаховое зелье Ариана",
+            "desc": "",
+            "comment": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": [],
+            "revealed": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1793559629828_90vub",
+      "time": "01.11.2026, 22:00",
+      "text": "Сез.1.5 Сесс.30 | Ксайто | Инвентарь | Раскрыт «Холодное зелье Ариана»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1793557668820_j7b6x",
+          "oldValue": {
+            "id": "id_1793557668820_j7b6x",
+            "name": "Холодное зелье Ариана",
+            "desc": "Создаёт лужу льда",
+            "comment": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": []
+          },
+          "value": {
+            "id": "id_1793557668820_j7b6x",
+            "name": "Холодное зелье Ариана",
+            "desc": "Создаёт лужу льда",
+            "comment": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": [],
+            "revealed": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1793559636826_yfvrt",
+      "time": "01.11.2026, 22:00",
+      "text": "Сез.1.5 Сесс.30 | Ксайто | Инвентарь | Опыт: +2 XP",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "xp",
+          "oldValue": 57,
+          "value": 59
         }
       ]
     }
