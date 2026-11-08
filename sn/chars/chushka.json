@@ -8,7 +8,7 @@
   "personality": "Перфекционист",
   "background": "Амнезиак с загадочным прошлым...",
   "level": 7,
-  "xp": 67,
+  "xp": 70,
   "levelUpPoints": 0,
   "neurali": 0,
   "baseStats": {
@@ -25407,6 +25407,20 @@
             "log": [],
             "extraSections": []
           }
+        }
+      ]
+    },
+    {
+      "id": "id_1794162981090_9exy1",
+      "time": "08.11.2026, 21:36",
+      "text": "Сез.1.5 Сесс.31 | Чушка | Тренировки (в процессе) | Опыт: +3 XP",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "xp",
+          "oldValue": 67,
+          "value": 70
         }
       ]
     }
