@@ -214,7 +214,7 @@
       "condition": "",
       "revealed": true,
       "obtained": "",
-      "quantity": 7,
+      "quantity": 6,
       "log": [],
       "extraSections": []
     },
@@ -512,7 +512,7 @@
   "trainingsActive": [
     {
       "id": "id_1790887516332_30bj0",
-      "name": "Повышение интеллекта (6)",
+      "name": "Повышение интеллекта (7)",
       "desc": "",
       "stats": {
         "hp": 0,
@@ -521,7 +521,7 @@
         "int": 0
       },
       "log": [],
-      "comment": "(6) 1.5/29 - Слушал ночные вопли борглуков"
+      "comment": "(6) 1.5/29 - Слушал ночные вопли борглуков\n(7) 1.5/31 - играл в каменные шахматы"
     },
     {
       "id": "id_1791744797654_jg8o8",
@@ -25352,6 +25352,63 @@
       "id": "id_1794158465817_wrtdv",
       "time": "08.11.2026, 20:21",
       "text": "Сез.1.5 Сесс.31 | Чушка | Тренировки (в процессе) | Изменено «Повышение интеллекта (6)»"
+    },
+    {
+      "id": "id_1794158822070_8n2ll",
+      "time": "08.11.2026, 20:27",
+      "text": "Сез.1.5 Сесс.31 | Чушка | Тренировки (в процессе) | Количество «\"Расслабляющие\" таблетки»: 7 → 6",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1790914421215_ye896",
+          "oldValue": {
+            "id": "id_1790914421215_ye896",
+            "itemId": "id_1790914387866_gj5yt",
+            "name": "\"Расслабляющие\" таблетки",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Со слов Хармака, должны успокаивать.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 7,
+            "log": [],
+            "extraSections": []
+          },
+          "value": {
+            "id": "id_1790914421215_ye896",
+            "itemId": "id_1790914387866_gj5yt",
+            "name": "\"Расслабляющие\" таблетки",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Со слов Хармака, должны успокаивать.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "quantity": 6,
+            "log": [],
+            "extraSections": []
+          }
+        }
+      ]
     }
   ],
   "achievements": [
