@@ -205,21 +205,6 @@
       "quantity": 1,
       "log": [],
       "revealed": true
-    },
-    {
-      "id": "id_1793557668820_j7b6x",
-      "name": "Холодное зелье Ариана",
-      "desc": "Создаёт лужу льда",
-      "comment": "",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "quantity": 1,
-      "log": [],
-      "revealed": true
     }
   ],
   "extraSections": [
@@ -192932,6 +192917,34 @@
           ]
         }
       }
+    },
+    {
+      "id": "id_1794156625724_c2ykj",
+      "time": "08.11.2026, 19:50",
+      "text": "Сез.1.5 Сесс.31 | Ксайто | Убрано «Холодное зелье Ариана»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1793557668820_j7b6x",
+          "oldValue": {
+            "id": "id_1793557668820_j7b6x",
+            "name": "Холодное зелье Ариана",
+            "desc": "Создаёт лужу льда",
+            "comment": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": [],
+            "revealed": true
+          }
+        }
+      ]
     }
   ],
   "name": "Ксайто",
