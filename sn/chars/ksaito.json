@@ -2,7 +2,7 @@
   "id": "ksaito",
   "isCompanion": false,
   "level": 7,
-  "xp": 62,
+  "xp": 67,
   "levelUpPoints": 0,
   "neurali": 88,
   "baseStats": {
@@ -193156,6 +193156,20 @@
             "agi": 3,
             "int": 4
           }
+        }
+      ]
+    },
+    {
+      "id": "id_1794769247089_5wwe6",
+      "time": "15.11.2026, 22:00",
+      "text": "Сез.1.5 Сесс.32 | Ксайто | Тренировки (в процессе) | Опыт: +5 XP",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "xp",
+          "oldValue": 62,
+          "value": 67
         }
       ]
     }
