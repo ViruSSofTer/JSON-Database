@@ -153,27 +153,6 @@
       "quantity": 1
     },
     {
-      "id": "id_1790881380165_lcd55",
-      "itemId": "id_1790881348665_fm3og",
-      "name": "Камень призыва элементаля",
-      "category": "consumable",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "extraSlots": 0,
-      "extraSlotsName": "Арканное кольцо",
-      "description": "Призывает элементаля желаемой стихии при контакте с этой стихией.",
-      "hiddenDescription": "Неизвестный предмет",
-      "condition": "",
-      "revealed": true,
-      "obtained": "",
-      "log": [],
-      "quantity": 1
-    },
-    {
       "id": "id_1791220580073_dupds",
       "itemId": "id_1791220544411_gkx6x",
       "name": "Декоративная статуэтка",
@@ -25428,6 +25407,40 @@
       "id": "id_1794755069150_zb1sl",
       "time": "15.11.2026, 18:04",
       "text": "Сез.1.5 Сесс.32 | Чушка | Сессия: 1.5/31 → 1.5/32"
+    },
+    {
+      "id": "id_1794766599499_1581z",
+      "time": "15.11.2026, 21:16",
+      "text": "Сез.1.5 Сесс.32 | Чушка | Экипировка | Убрано «Камень призыва элементаля»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1790881380165_lcd55",
+          "oldValue": {
+            "id": "id_1790881380165_lcd55",
+            "itemId": "id_1790881348665_fm3og",
+            "name": "Камень призыва элементаля",
+            "category": "consumable",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "extraSlots": 0,
+            "extraSlotsName": "Арканное кольцо",
+            "description": "Призывает элементаля желаемой стихии при контакте с этой стихией.",
+            "hiddenDescription": "Неизвестный предмет",
+            "condition": "",
+            "revealed": true,
+            "obtained": "",
+            "log": [],
+            "quantity": 1
+          }
+        }
+      ]
     }
   ],
   "achievements": [
