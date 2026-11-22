@@ -8,7 +8,7 @@
   "personality": "Романтик",
   "background": "Амнезиак с загадочным прошлым...",
   "level": 7,
-  "xp": 83,
+  "xp": 86,
   "levelUpPoints": 1,
   "neurali": 0,
   "baseStats": {
@@ -37375,6 +37375,20 @@
             "slot": "",
             "obtained": ""
           }
+        }
+      ]
+    },
+    {
+      "id": "id_1795374513152_o3cqb",
+      "time": "22.11.2026, 22:08",
+      "text": "Сез.1.5 Сесс.33 | Ариан | Доп. слоты: id_1790879600989_rn68e | Опыт: +3 XP",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "replace",
+          "path": "xp",
+          "oldValue": 83,
+          "value": 86
         }
       ]
     }
