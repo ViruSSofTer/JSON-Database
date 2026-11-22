@@ -88,7 +88,7 @@
     },
     {
       "id": "id_1793548549440_mr6bz",
-      "name": "Каменный шлем (2/3)",
+      "name": "Каменный шлем (4/4)",
       "desc": "Созданный Чушкой каменный шлем для Ариана. Шлем принимает на себя удары насморка изнутри.",
       "comment": "",
       "stats": {
@@ -103,7 +103,7 @@
       "category": "other",
       "extraSlots": 0,
       "extraSlotsName": "",
-      "description": "Способен поглотить 2 чиха Ариана.",
+      "description": "Способен поглотить 4 чиха Ариана.",
       "hiddenDescription": "",
       "condition": "",
       "slot": "",
@@ -33127,7 +33127,7 @@
           },
           "value": {
             "id": "id_1793548549440_mr6bz",
-            "name": "Каменный шлем (2/3)",
+            "name": "Каменный шлем (4/4)",
             "desc": "Созданный Чушкой каменный шлем для Ариана. Шлем принимает на себя удары насморка изнутри.",
             "comment": "",
             "stats": {
@@ -33142,7 +33142,7 @@
             "category": "other",
             "extraSlots": 0,
             "extraSlotsName": "",
-            "description": "Способен поглотить 2 чиха Ариана.",
+            "description": "Способен поглотить 4 чиха Ариана.",
             "hiddenDescription": "",
             "condition": "",
             "slot": "",
@@ -33186,6 +33186,42 @@
           },
           "value": {
             "id": "id_1793548549440_mr6bz",
+            "name": "Каменный шлем (4/4)",
+            "desc": "Созданный Чушкой каменный шлем для Ариана. Шлем принимает на себя удары насморка изнутри.",
+            "comment": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": [],
+            "revealed": true,
+            "category": "other",
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Способен поглотить 4 чиха Ариана.",
+            "hiddenDescription": "",
+            "condition": "",
+            "slot": "",
+            "obtained": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1795363876780_r0m5i",
+      "time": "22.11.2026, 19:11",
+      "text": "Сез.1.5 Сесс.33 | Ариан | Экипировка | Правка «Каменный шлем (4/4)»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "equipment",
+          "id": "id_1793548549440_mr6bz",
+          "oldValue": {
+            "id": "id_1793548549440_mr6bz",
             "name": "Каменный шлем (2/3)",
             "desc": "Созданный Чушкой каменный шлем для Ариана. Шлем принимает на себя удары насморка изнутри.",
             "comment": "",
@@ -33202,6 +33238,29 @@
             "extraSlots": 0,
             "extraSlotsName": "",
             "description": "Способен поглотить 2 чиха Ариана.",
+            "hiddenDescription": "",
+            "condition": "",
+            "slot": "",
+            "obtained": ""
+          },
+          "value": {
+            "id": "id_1793548549440_mr6bz",
+            "name": "Каменный шлем (4/4)",
+            "desc": "Созданный Чушкой каменный шлем для Ариана. Шлем принимает на себя удары насморка изнутри.",
+            "comment": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": [],
+            "revealed": true,
+            "category": "other",
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "Способен поглотить 4 чиха Ариана.",
             "hiddenDescription": "",
             "condition": "",
             "slot": "",
