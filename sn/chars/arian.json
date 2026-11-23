@@ -237,20 +237,6 @@
       "slot": "",
       "obtained": "",
       "revealed": true
-    },
-    {
-      "id": "id_1795413857125_icn2i",
-      "name": "Каменная ракетка для бадминтона",
-      "desc": "",
-      "comment": "",
-      "stats": {
-        "hp": 0,
-        "str": 0,
-        "agi": 0,
-        "int": 0
-      },
-      "quantity": 1,
-      "log": []
     }
   ],
   "extraSections": [
@@ -259,7 +245,22 @@
       "name": "слоты одежды",
       "sourceItemId": "id_1792608575281_vu3f8",
       "capacity": 1,
-      "items": []
+      "items": [
+        {
+          "id": "id_1795413857125_icn2i",
+          "name": "Каменная ракетка для бадминтона",
+          "desc": "",
+          "comment": "",
+          "stats": {
+            "hp": 0,
+            "str": 0,
+            "agi": 0,
+            "int": 0
+          },
+          "quantity": 1,
+          "log": []
+        }
+      ]
     }
   ],
   "active": [
@@ -37428,6 +37429,66 @@
             },
             "quantity": 1,
             "log": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1795413874655_ptotu",
+      "time": "23.11.2026, 09:04",
+      "text": "Сез.1.5 Сесс.33 | Ариан | Инвентарь | Перемещено «Каменная ракетка для бадминтона»: Инвентарь → Доп. слоты: id_1792608575281_5t96k",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "remove",
+          "path": "inventory",
+          "id": "id_1795413857125_icn2i",
+          "oldValue": {
+            "id": "id_1795413857125_icn2i",
+            "name": "Каменная ракетка для бадминтона",
+            "desc": "",
+            "comment": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": []
+          }
+        },
+        {
+          "op": "updateSection",
+          "id": "id_1792608575281_5t96k",
+          "oldValue": {
+            "id": "id_1792608575281_5t96k",
+            "name": "слоты одежды",
+            "sourceItemId": "id_1792608575281_vu3f8",
+            "capacity": 1,
+            "items": []
+          },
+          "value": {
+            "id": "id_1792608575281_5t96k",
+            "name": "слоты одежды",
+            "sourceItemId": "id_1792608575281_vu3f8",
+            "capacity": 1,
+            "items": [
+              {
+                "id": "id_1795413857125_icn2i",
+                "name": "Каменная ракетка для бадминтона",
+                "desc": "",
+                "comment": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "quantity": 1,
+                "log": []
+              }
+            ]
           }
         }
       ]
