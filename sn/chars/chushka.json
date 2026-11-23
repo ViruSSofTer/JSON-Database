@@ -256,7 +256,15 @@
       },
       "quantity": 1,
       "log": [],
-      "revealed": true
+      "revealed": true,
+      "category": "other",
+      "extraSlots": 0,
+      "extraSlotsName": "",
+      "description": "",
+      "hiddenDescription": "",
+      "condition": "",
+      "slot": "",
+      "obtained": "-когда-то были элементалем\n-когда-то были комплектом для бадминтона на троих"
     }
   ],
   "extraSections": [
@@ -29277,7 +29285,66 @@
             },
             "quantity": 1,
             "log": [],
+            "revealed": true,
+            "category": "other",
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "",
+            "condition": "",
+            "slot": "",
+            "obtained": "-когда-то были элементалем\n-когда-то были комплектом для бадминтона на троих"
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1795413670493_0rlic",
+      "time": "23.11.2026, 09:01",
+      "text": "Сез.1.5 Сесс.33 | Чушка | Инвентарь | Правка «Комплект каменных нардов (заменённые)»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "update",
+          "path": "inventory",
+          "id": "id_1795371128629_ta7pz",
+          "oldValue": {
+            "id": "id_1795371128629_ta7pz",
+            "name": "Комплект каменных нардов (заменённые)",
+            "desc": "",
+            "comment": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": [],
             "revealed": true
+          },
+          "value": {
+            "id": "id_1795371128629_ta7pz",
+            "name": "Комплект каменных нардов (заменённые)",
+            "desc": "",
+            "comment": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": [],
+            "revealed": true,
+            "category": "other",
+            "extraSlots": 0,
+            "extraSlotsName": "",
+            "description": "",
+            "hiddenDescription": "",
+            "condition": "",
+            "slot": "",
+            "obtained": "-когда-то были элементалем\n-когда-то были комплектом для бадминтона на троих"
           }
         }
       ]
