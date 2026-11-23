@@ -237,6 +237,20 @@
       "slot": "",
       "obtained": "",
       "revealed": true
+    },
+    {
+      "id": "id_1795413857125_icn2i",
+      "name": "Каменная ракетка для бадминтона",
+      "desc": "",
+      "comment": "",
+      "stats": {
+        "hp": 0,
+        "str": 0,
+        "agi": 0,
+        "int": 0
+      },
+      "quantity": 1,
+      "log": []
     }
   ],
   "extraSections": [
@@ -37389,6 +37403,32 @@
           "path": "xp",
           "oldValue": 83,
           "value": 86
+        }
+      ]
+    },
+    {
+      "id": "id_1795413857125_gz2gj",
+      "time": "23.11.2026, 09:04",
+      "text": "Сез.1.5 Сесс.33 | Ариан | Инвентарь | Добавлено «Каменная ракетка для бадминтона»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "add",
+          "path": "inventory",
+          "value": {
+            "id": "id_1795413857125_icn2i",
+            "name": "Каменная ракетка для бадминтона",
+            "desc": "",
+            "comment": "",
+            "stats": {
+              "hp": 0,
+              "str": 0,
+              "agi": 0,
+              "int": 0
+            },
+            "quantity": 1,
+            "log": []
+          }
         }
       ]
     }
