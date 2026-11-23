@@ -286,7 +286,8 @@
             "int": 0
           },
           "quantity": 1,
-          "log": []
+          "log": [],
+          "revealed": true
         }
       ]
     },
@@ -33187,6 +33188,63 @@
           ]
         }
       }
+    },
+    {
+      "id": "id_1795413706889_u3c99",
+      "time": "23.11.2026, 09:01",
+      "text": "Сез.1.5 Сесс.33 | Чушка | Инвентарь | Раскрыт «Ключ от комнаты в таверне»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "updateSection",
+          "id": "id_1790879600989_rn68e",
+          "oldValue": {
+            "id": "id_1790879600989_rn68e",
+            "name": "Карманы одежды",
+            "sourceItemId": "id_1790869762006_1b41n",
+            "capacity": 1,
+            "items": [
+              {
+                "id": "id_1795371530658_6phnm",
+                "name": "Ключ от комнаты в таверне",
+                "desc": "",
+                "comment": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "quantity": 1,
+                "log": []
+              }
+            ]
+          },
+          "value": {
+            "id": "id_1790879600989_rn68e",
+            "name": "Карманы одежды",
+            "sourceItemId": "id_1790869762006_1b41n",
+            "capacity": 1,
+            "items": [
+              {
+                "id": "id_1795371530658_6phnm",
+                "name": "Ключ от комнаты в таверне",
+                "desc": "",
+                "comment": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "quantity": 1,
+                "log": [],
+                "revealed": true
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
   "achievements": [
