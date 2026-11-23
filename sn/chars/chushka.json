@@ -332,6 +332,20 @@
           "quantity": 1,
           "log": [],
           "revealed": true
+        },
+        {
+          "id": "id_1795413771686_ux7zs",
+          "name": "Каменный воланчик для бадминтона",
+          "desc": "",
+          "comment": "",
+          "stats": {
+            "hp": 0,
+            "str": 0,
+            "agi": 0,
+            "int": 0
+          },
+          "quantity": 1,
+          "log": []
         }
       ]
     },
@@ -33340,6 +33354,20 @@
                 "quantity": 1,
                 "log": [],
                 "revealed": true
+              },
+              {
+                "id": "id_1795413771686_ux7zs",
+                "name": "Каменный воланчик для бадминтона",
+                "desc": "",
+                "comment": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "quantity": 1,
+                "log": []
               }
             ]
           }
@@ -33439,6 +33467,134 @@
                 "quantity": 1,
                 "log": [],
                 "revealed": true
+              },
+              {
+                "id": "id_1795413771686_ux7zs",
+                "name": "Каменный воланчик для бадминтона",
+                "desc": "",
+                "comment": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "quantity": 1,
+                "log": []
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1795413771686_gv9ln",
+      "time": "23.11.2026, 09:02",
+      "text": "Сез.1.5 Сесс.33 | Чушка | Доп. слоты: id_1790881175707_g3lqw | Добавлено «Каменный воланчик для бадминтона»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "updateSection",
+          "id": "id_1790881175707_g3lqw",
+          "oldValue": {
+            "id": "id_1790881175707_g3lqw",
+            "name": "Арканное кольцо",
+            "sourceItemId": "id_1790864452298_4fe6v",
+            "capacity": 10,
+            "items": [
+              {
+                "id": "id_1790919999980_fpt3z",
+                "itemId": "id_1790919905730_bdc1r",
+                "name": "Магический ковёр",
+                "category": "other",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "Сильно повреждённый",
+                "revealed": true,
+                "obtained": "\"Добыт\" Решалами в Фортунаре для штурма Министерства.",
+                "quantity": 1,
+                "log": []
+              },
+              {
+                "id": "id_1795413739448_q76lt",
+                "name": "Каменная ракетка для бадминтона",
+                "desc": "",
+                "comment": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "quantity": 1,
+                "log": [],
+                "revealed": true
+              }
+            ]
+          },
+          "value": {
+            "id": "id_1790881175707_g3lqw",
+            "name": "Арканное кольцо",
+            "sourceItemId": "id_1790864452298_4fe6v",
+            "capacity": 10,
+            "items": [
+              {
+                "id": "id_1790919999980_fpt3z",
+                "itemId": "id_1790919905730_bdc1r",
+                "name": "Магический ковёр",
+                "category": "other",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "extraSlots": 0,
+                "extraSlotsName": "",
+                "description": "",
+                "hiddenDescription": "Неизвестный предмет",
+                "condition": "Сильно повреждённый",
+                "revealed": true,
+                "obtained": "\"Добыт\" Решалами в Фортунаре для штурма Министерства.",
+                "quantity": 1,
+                "log": []
+              },
+              {
+                "id": "id_1795413739448_q76lt",
+                "name": "Каменная ракетка для бадминтона",
+                "desc": "",
+                "comment": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "quantity": 1,
+                "log": [],
+                "revealed": true
+              },
+              {
+                "id": "id_1795413771686_ux7zs",
+                "name": "Каменный воланчик для бадминтона",
+                "desc": "",
+                "comment": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "quantity": 1,
+                "log": []
               }
             ]
           }
