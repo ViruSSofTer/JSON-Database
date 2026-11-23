@@ -258,7 +258,8 @@
             "int": 0
           },
           "quantity": 1,
-          "log": []
+          "log": [],
+          "revealed": true
         }
       ]
     }
@@ -37428,7 +37429,8 @@
               "int": 0
             },
             "quantity": 1,
-            "log": []
+            "log": [],
+            "revealed": true
           }
         }
       ]
@@ -37486,7 +37488,65 @@
                   "int": 0
                 },
                 "quantity": 1,
+                "log": [],
+                "revealed": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "id_1795413880663_o3d03",
+      "time": "23.11.2026, 09:04",
+      "text": "Сез.1.5 Сесс.33 | Ариан | Инвентарь | Раскрыт «Каменная ракетка для бадминтона»",
+      "type": "delta",
+      "delta": [
+        {
+          "op": "updateSection",
+          "id": "id_1792608575281_5t96k",
+          "oldValue": {
+            "id": "id_1792608575281_5t96k",
+            "name": "слоты одежды",
+            "sourceItemId": "id_1792608575281_vu3f8",
+            "capacity": 1,
+            "items": [
+              {
+                "id": "id_1795413857125_icn2i",
+                "name": "Каменная ракетка для бадминтона",
+                "desc": "",
+                "comment": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "quantity": 1,
                 "log": []
+              }
+            ]
+          },
+          "value": {
+            "id": "id_1792608575281_5t96k",
+            "name": "слоты одежды",
+            "sourceItemId": "id_1792608575281_vu3f8",
+            "capacity": 1,
+            "items": [
+              {
+                "id": "id_1795413857125_icn2i",
+                "name": "Каменная ракетка для бадминтона",
+                "desc": "",
+                "comment": "",
+                "stats": {
+                  "hp": 0,
+                  "str": 0,
+                  "agi": 0,
+                  "int": 0
+                },
+                "quantity": 1,
+                "log": [],
+                "revealed": true
               }
             ]
           }
